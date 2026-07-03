@@ -47,8 +47,8 @@ FEEDS = [
         "url": "https://www.techmeme.com/feed.xml",
     },
     # 必要に応じて追加
-    # {"name": "Anthropic Blog", "url": "https://www.anthropic.com/rss.xml"},
-    # {"name": "OpenAI Blog", "url": "https://openai.com/blog/rss.xml"},
+     {"name": "Anthropic Blog", "url": "https://www.anthropic.com/rss.xml"},
+     {"name": "OpenAI Blog", "url": "https://openai.com/blog/rss.xml"},
 ]
 
 # 何時間以内の記事を候補として残すか
