@@ -18,8 +18,45 @@ import json
 import hashlib
 from datetime import datetime, timezone
 from time import mktime
+from urllib.parse import urlparse
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 import feedparser
+from googlenewsdecoder import gnewsdecoder
+
+# Google Newsのラッパードメイン。ここに一致するリンクは、実記事URLへの
+# デコードを行ってから feeds.json に書き込む。
+#
+# 注意: Google Newsのリンクは単純なHTTPリダイレクトでは解決できない
+# (news.google.com自身に留まり400を返す)。実際には記事ページから
+# signature/timestampを取得し、Googleの内部batchexecuteエンドポイントに
+# POSTして実URLを取り出す必要がある。googlenewsdecoderライブラリが
+# この手順を実装しているので、それを利用する。
+GOOGLE_NEWS_WRAPPER_DOMAINS = {"news.google.com"}
+
+# デコード処理の並列数・インターバル(秒)
+# Google側のレート制限(429)を避けるため、並列数は控えめにする
+RESOLVE_MAX_WORKERS = 3
+RESOLVE_INTERVAL_SECONDS = 1
+
+
+def resolve_canonical_url(url: str) -> tuple[str, bool]:
+    """
+    news.google.com のラッパーURLを実記事URLにデコードする。
+    戻り値: (解決後のURL, 解決に成功したか)
+    失敗した場合は元のURLをそのまま返し、成功フラグをFalseにする。
+    """
+    domain = urlparse(url).netloc
+    if domain not in GOOGLE_NEWS_WRAPPER_DOMAINS:
+        return url, True  # 解決不要(元々直リンク)
+
+    try:
+        result = gnewsdecoder(url, interval=RESOLVE_INTERVAL_SECONDS)
+        if result.get("status") and result.get("decoded_url"):
+            return result["decoded_url"], True
+        return url, False
+    except Exception:
+        return url, False
 
 # ============================================================
 # AI自動化ナビ の Routines プロンプトから移植したフィード一覧。
@@ -178,12 +215,57 @@ def main():
                 "id": item_id,
                 "title": title.strip(),
                 "url": link,
+                "url_resolved": None,  # 後段のリダイレクト解決ステップで確定させる
                 "published_at": published_at.isoformat() if published_at else None,
                 "published_at_confirmed": published_at is not None,
                 "age_hours": age_hours,
                 "region": feed.get("region"),
                 "sources": [feed["name"]],
             }
+
+    # ------------------------------------------------------------
+    # Google News のラッパーURLを、実記事の正規URLに解決する。
+    # ネットワーク制限のないGitHub Actions側でまとめて行うことで、
+    # Routines側での「正規URLが取れず不採用」を防ぐ。
+    # ------------------------------------------------------------
+    to_resolve = [item for item in items.values() if urlparse(item["url"]).netloc in GOOGLE_NEWS_WRAPPER_DOMAINS]
+    with ThreadPoolExecutor(max_workers=RESOLVE_MAX_WORKERS) as executor:
+        future_to_item = {executor.submit(resolve_canonical_url, item["url"]): item for item in to_resolve}
+        for future in as_completed(future_to_item):
+            item = future_to_item[future]
+            try:
+                final_url, ok = future.result()
+            except Exception:
+                final_url, ok = item["url"], False
+            item["url"] = final_url
+            item["url_resolved"] = ok
+
+    # Google News以外(元々直リンク)は解決不要として true にしておく
+    for item in items.values():
+        if item["url_resolved"] is None:
+            item["url_resolved"] = True
+
+    # ------------------------------------------------------------
+    # 解決後のURLで再度重複排除する。
+    # (別々の検索クエリのラッパーURLが、同じ記事に解決されるケースがあるため)
+    # ------------------------------------------------------------
+    deduped = {}
+    for item in items.values():
+        final_id = make_id(item["url"])
+        if final_id in deduped:
+            existing = deduped[final_id]
+            for s in item["sources"]:
+                if s not in existing["sources"]:
+                    existing["sources"].append(s)
+            # 公開日が未確定のものより確定済みの情報を優先して残す
+            if item["published_at_confirmed"] and not existing["published_at_confirmed"]:
+                existing["published_at"] = item["published_at"]
+                existing["published_at_confirmed"] = True
+                existing["age_hours"] = item["age_hours"]
+            continue
+        item["id"] = final_id
+        deduped[final_id] = item
+    items = deduped
 
     region_counts = {}
     for item in items.values():
