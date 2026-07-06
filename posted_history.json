@@ -1,0 +1,1 @@
+jq '[.items[] | select(.published_at_confirmed == true and .already_posted != true)]' /tmp/feeds.json > /tmp/feeds_confirmed.json
