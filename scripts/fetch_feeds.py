@@ -2,22 +2,32 @@
 """
 GitHub Actionsのランナー(egress制限なし)からRSSフィードを取得し、
 記事一覧(タイトル・URL・公開日・取得元)をJSONにまとめて出力する。
-
 Claude Code Routines側は、このスクリプトが生成した feeds.json を
 raw.githubusercontent.com 経由で取得するだけで済むようにする。
 これにより、Routines実行環境のegressポリシーによる403問題を回避する。
 
+このバージョンでは、posted_history.json(リポジトリ直下)に記録された
+過去投稿済みURLと照合し、各itemに already_posted フラグを付与する。
+これにより、Routines側は already_posted != true のものだけを対象にすれば
+前日以前と同じ記事が再度選ばれることを防げる。
+
 使い方:
   python scripts/fetch_feeds.py
-
 出力:
   feeds.json (リポジトリ直下)
-"""
 
+前提:
+  posted_history.json (リポジトリ直下) が存在すること。
+  形式: {"posted": [{"url": "...", "posted_at": "2026-07-04T00:00:00+00:00"}, ...]}
+  存在しない/壊れている場合は既出なしとして扱い、処理は継続する。
+  このスクリプトは posted_history.json の「古いエントリの削除(prune)」のみ行う。
+  投稿完了後にURLを追記する処理は別のステップ(Routines側 or 別スクリプト)で行うこと。
+"""
 import json
 import hashlib
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from time import mktime
+from pathlib import Path
 from urllib.parse import urlparse
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
@@ -39,6 +49,11 @@ GOOGLE_NEWS_WRAPPER_DOMAINS = {"news.google.com"}
 RESOLVE_MAX_WORKERS = 3
 RESOLVE_INTERVAL_SECONDS = 1
 
+# 既出記事の台帳(リポジトリ直下)
+POSTED_HISTORY_PATH = Path(__file__).parent.parent / "posted_history.json"
+# 台帳に何日分の履歴を残すか
+POSTED_HISTORY_RETENTION_DAYS = 7
+
 
 def resolve_canonical_url(url: str) -> tuple[str, bool]:
     """
@@ -49,7 +64,6 @@ def resolve_canonical_url(url: str) -> tuple[str, bool]:
     domain = urlparse(url).netloc
     if domain not in GOOGLE_NEWS_WRAPPER_DOMAINS:
         return url, True  # 解決不要(元々直リンク)
-
     try:
         result = gnewsdecoder(url, interval=RESOLVE_INTERVAL_SECONDS)
         if result.get("status") and result.get("decoded_url"):
@@ -57,6 +71,54 @@ def resolve_canonical_url(url: str) -> tuple[str, bool]:
         return url, False
     except Exception:
         return url, False
+
+
+def load_posted_urls() -> set[str]:
+    """
+    posted_history.json から過去投稿済みのURL一覧を読み込む。
+    ファイルが無い・壊れている場合は空集合として扱う(既出判定なしで継続)。
+    """
+    if not POSTED_HISTORY_PATH.exists():
+        return set()
+    try:
+        with open(POSTED_HISTORY_PATH, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        return {entry["url"] for entry in data.get("posted", []) if entry.get("url")}
+    except Exception:
+        return set()
+
+
+def prune_posted_history():
+    """
+    posted_history.json 内の古いエントリ(保持日数を超えたもの)を削除する。
+    fetch_feeds.py 実行のたびに掃除しておくことで、台帳が肥大化しない。
+    ファイルが存在しない場合は何もしない(投稿追記処理側で新規作成する想定)。
+    """
+    if not POSTED_HISTORY_PATH.exists():
+        return
+    try:
+        with open(POSTED_HISTORY_PATH, "r", encoding="utf-8") as f:
+            data = json.load(f)
+    except Exception:
+        return
+
+    cutoff = datetime.now(timezone.utc) - timedelta(days=POSTED_HISTORY_RETENTION_DAYS)
+    kept = []
+    for entry in data.get("posted", []):
+        try:
+            posted_at = datetime.fromisoformat(entry["posted_at"])
+            if posted_at.tzinfo is None:
+                posted_at = posted_at.replace(tzinfo=timezone.utc)
+            if posted_at >= cutoff:
+                kept.append(entry)
+        except Exception:
+            # 日付が壊れているエントリは掃除の対象として捨てる
+            continue
+
+    data["posted"] = kept
+    with open(POSTED_HISTORY_PATH, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
 
 # ============================================================
 # AI自動化ナビ の Routines プロンプトから移植したフィード一覧。
@@ -205,6 +267,7 @@ def main():
                 continue
 
             item_id = make_id(link)
+
             # 同じ記事が複数フィードに出た場合はソースを追記して重複除去
             if item_id in items:
                 if feed["name"] not in items[item_id]["sources"]:
@@ -272,6 +335,16 @@ def main():
         r = item.get("region") or "unknown"
         region_counts[r] = region_counts.get(r, 0) + 1
 
+    # ------------------------------------------------------------
+    # 台帳(posted_history.json)を掃除してから読み込み、
+    # 各itemに既出フラグ(already_posted)を付与する。
+    # Routines側はこのフラグでfalseのものだけを対象にすればよい。
+    # ------------------------------------------------------------
+    prune_posted_history()
+    posted_urls = load_posted_urls()
+    for item in items.values():
+        item["already_posted"] = item["url"] in posted_urls
+
     result = {
         "generated_at": now.isoformat(),
         "default_freshness_window_hours": DEFAULT_FRESHNESS_HOURS,
@@ -287,7 +360,11 @@ def main():
     with open("feeds.json", "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
 
-    print(f"取得記事数: {len(items)} / 取得失敗フィード数: {len(fetch_errors)}")
+    already_posted_count = sum(1 for item in items.values() if item["already_posted"])
+    print(
+        f"取得記事数: {len(items)} / 取得失敗フィード数: {len(fetch_errors)} "
+        f"/ 既出(already_posted)件数: {already_posted_count}"
+    )
 
 
 if __name__ == "__main__":
