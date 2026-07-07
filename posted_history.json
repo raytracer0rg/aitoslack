@@ -1,3 +1,1192 @@
 {
-  "posted": []
+  "posted": [
+    {
+      "url": "https://japan.zdnet.com/article/35250175/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.techmeme.com/260706/p39#a260706p39",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.atpress.ne.jp/news/8087795",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.watch.impress.co.jp/docs/news/2122318.html",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.dreamnews.jp/press/0000354830",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.mi-3.com.au/06-07-2026/architecture-over-autonomy-trade-desk-rejects-silicon-valleys-ai-orthodoxy-says",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://hackernoon.com/7-6-2026-techbeat?source=rss",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.techmeme.com/260706/p38#a260706p38",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.watch.impress.co.jp/docs/topic/2122442.html",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://mshale.com/b704c2c9/7cf9770dOTQGKxsLdzYGXAI",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.techmeme.com/260706/p37#a260706p37",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/07/news056.html",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000157.000034517.html",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.arcweb.com/industry-best-practices/assistance-execution-engineering-agent-siemens-targets-automation",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://blockchain.news/ainews/claude-code-origins-reveal-safety-driven-build",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://blockchain.news/ainews/claude-code-timeline-reveals-5-key-breakthroughs",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://news.yahoo.co.jp/expert/articles/61811b1089427302d2de65f66796b960bf0dbf46",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.techmeme.com/260706/p36#a260706p36",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.techmeme.com/260706/p35#a260706p35",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.techmeme.com/260706/p34#a260706p34",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://topics.smt.docomo.ne.jp/amp/article/mycom/business/mycom_3204984",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.sbbit.jp/article/st/185859",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://mshale.com/d89c29ad/f9bc3f6c1L0jm9y2xrE",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://markets.businessinsider.com/news/stocks/memetoro-launches-bnb-ai-agent-for-fair-launch-memecoin-creation-and-on-chain-prediction-markets-1036301148",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1upacw3/last_hours_with_claude_fable_5_i_feel_like_im/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.robot-digest.com/contents/?id=1782812279-831504",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.databricks.com/blog/agentic-systems-guide",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.techmeme.com/260706/p33#a260706p33",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://drillingcontractor.org/generative-ai-agents-reduce-manual-labor-in-extraction-digitalization-of-mud-report-data-78857",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.techmeme.com/260706/p32#a260706p32",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.gadgetreview.com/ai-trading-tools-that-beat-99-traders",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://mshale.com/07c99d41/3e1ffd81ZdGywKViLHk",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://thenewstack.io/caveman-mode-token-savings/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.techmeme.com/260706/p31#a260706p31",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1up964p/this_ai_thing_is_really_for_people_who_love/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.techmeme.com/260706/p30#a260706p30",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.startuphub.ai/ai-news/artificial-intelligence/2026/alberta-gov-taps-claude-for-cyber-defense",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00107/00274/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://techtarget.itmedia.co.jp/tt/news/2607/07/news07.html",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.logi-today.com/973858",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.techmeme.com/260706/p29#a260706p29",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1up7fv9/anyone_else_getting_a_problem_loading_projects_or/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1up7jdr/the_original_zork_from_1980_gets_a_claude_pass/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1up79ph/projectsusage_in_settings_and_other_issues/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "http://www.excite.co.jp/news/article/Prtimes_2026-07-07-183657-5/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.techmeme.com/260706/p28#a260706p28",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1up54xw/me_using_my_remaining_fable_quota_to_summarise/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://medium.com/@adnanmasood/the-hardest-easy-problem-in-ai-the-state-of-computer-use-agents-a7e3aea7fa3a",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.techmeme.com/260706/p27#a260706p27",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.techmeme.com/260706/p26#a260706p26",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://fintech.global/2026/07/06/the-counterintuitive-fix-for-underperforming-ai-agents/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.mexc.com/news/1197082",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.technologyforyou.org/ai-coding-hiring-gains-momentum-as-industries-scale-real-world-use-cases-reveals-globaldata/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://enterprisezine.jp/news/detail/24494",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.techmeme.com/260706/p25#a260706p25",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://letsdatascience.com/news/sysdig-documents-first-agentic-ransomware-operation-772a1b0e",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://securityboulevard.com/2026/07/jadepuffer-demonstrates-how-ai-agents-can-automate-ransomware-attack/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://techround.co.uk/artificial-intelligence/ai-automated-ransomware-attack/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/automation/comments/1up21lc/eventdriven_vs_timerbased_outreach_automation_why/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.telecoms.com/automation/agentic-operations-breakthrough-moment-a-new-telecom-customer-journey",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.oneindia.com/technology/whatsapps-pricing-shift-why-your-preferred-ai-chatbots-are-about-to-get-expensive-in-2026-014-8138969.html",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.hostinger.com/in/tutorials/openclaw-costs",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1up1fcy/i_feel_ashamed_of_how_much_i_love_using_ai/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://techround.co.uk/artificial-intelligence/beyond-automation-building-accountability-for-ai-agents/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://markezine.jp/news/detail/55343",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.openpr.com/news/4569812/memetoro-ai-agent-explained-what-binance-bnb-maximalists",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.watch.impress.co.jp/docs/news/2122388.html",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.watch.impress.co.jp/docs/topic/special/2116124.html",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uozcxc/claude_randomly_admitted_it_was_calling_me_by_the/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.modbee.com/news/business/article316397303.html",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://sg.finance.yahoo.com/news/blocks-ai-automation-push-strengthen-142300768.html",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uoyvo2/in_1995_i_made_a_dos_game_about_shooting_green/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://aimagazine.com/news/robinhood-ceo-to-empower-small-scale-investors-with-ai",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://federalnewsnetwork.com/sponsored-content/2026/07/how-to-build-agentic-ai-you-can-safely-rely-on/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.gizmodo.jp/article/apple-intelligence-short-cut-drj/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.tradingview.com/news/cointelegraph:7617d2c04094b:0-fca-warns-of-major-shakeup-as-ai-agents-meet-tokenized-money/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://mshale.com/d4950ed3/631c336dPF7PonZlazc",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://korben.info/en/nomlings-tamagotchi-claude-code-tokens.html",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.zacks.com/stock/news/2948551/blocks-ai-automation-push-will-it-strengthen-xyzs-execution-edge",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uox9uu/thank_you_anthropic_as_a_teacher_claude_cowork/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "http://www.excite.co.jp/news/article/Prtimes_2026-07-06-157671-59/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.techtarget.com/searcherp/feature/Industrial-AI-agents-are-not-autonomous-equipment",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.businesswire.com/news/home/20260706126013/en/Treasure-AI-Recognized-as-a-Leader-for-Both-B2C-and-B2B-Users-in-the-2026-IDC-MarketScape-for-Worldwide-AI-Enabled-Customer-Data-Platforms",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://bdtechtalks.com/2026/07/06/nvidia-aspire-self-improving-robotic-framework/amp/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://news.nicovideo.jp/watch/nw19512285?news_ref=20_20",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://pulse2.com/lunos-ai-profile-duncan-barrigan-interview/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.vietnam.vn/ja/schneider-electric-mua-cognite-mo-rong-nang-luc-ai-cong-nghiep",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://forbesjapan.com/articles/detail/100399",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uovfb9/how_is_anthropic_ever_going_to_make_this/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://news.nicovideo.jp/watch/nw19512064",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.lifehacker.jp/article/2607-everything-claude-pro-subscribers-can-do-that-most-people-never-try/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://mshale.com/8b8190c1/ec6ffcb3BDAeUTYWWFQsCTQ",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uoulte/not_sure_what_to_do_with_my_life_rn/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://gigazine.net/news/20260706-ai-agents-consume/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.watch.impress.co.jp/docs/news/2122780.html",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uou7ow/friendly_reminder_what_to_fix_before_fable_5/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.advertimes.com/white-paper/contents/549676/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.simplilearn.com/ai-agents-explained-for-non-technical-article",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://youtu.be/OE1BL8MwhVQ",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://japan.cnet.com/article/35250128/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://letsdatascience.com/news/mgi-and-shanghai-ai-lab-launch-protopilot-and-biolab-bench-99ff4c82",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uot5ld/whos_preying_for_a_usage_reset_right_now/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.watch.impress.co.jp/docs/news/2122813.html",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://cybersecuritynews.com/agent-skill-malware-targets-claude-code-and-openai-codex/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://voix.jp/business-cards/free-seminar-ax-transformation/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.watch.impress.co.jp/docs/news/2122798.html",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.watch.impress.co.jp/docs/news/2122787.html",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://cybersecuritynews.com/gaslight-macos-malware-uses-prompt-injection/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://letsdatascience.com/news/users-treat-claude-as-workflow-operating-system-1c5926ac",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uosexv/the_subsidy_were_getting_on_the_max_plan_is/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.digitaltoday.co.kr/jp/view/78598/nh-nonghyup-bank-builds-ai-based-automated-system-architecture-management",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://voix.jp/business-cards/ambl-ai-agent-automation-support/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://voix.jp/business-cards/ai-agent-architecture-theory/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://aismiley.co.jp/ai_news/panasonic-bistro-assistant/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://voix.jp/business-cards/tech-mentor-claude-code-course/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1uosa8b/whats_the_most_useful_ai_agent_youve_actually/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://news.livedoor.com/topics/detail/31754513/?_clicked=echoes_list",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.watch.impress.co.jp/docs/news/2122775.html",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.thedailystar.net/news/tech-startup/news/ai-agents-use-136x-more-power-chatbots-study-finds-4217171",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://aithority.com/robots/automation/anthropics-claude-becomes-a-governed-workflow-agent-inside-google-workspace/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://news.nicovideo.jp/watch/nw19511061?news_ref=top_newComments",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.watch.impress.co.jp/docs/news/2122710.html",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://techblog.roxx.co.jp/entry/2026/07/06/123901",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://news.nicovideo.jp/watch/nw19510976?news_ref=20_20",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://plus-web3.com/media/latestnews_1000_9735/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://letsdatascience.com/news/taktile-raises-110m-to-automate-bank-decisions-7a749358",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://agrijournal.jp/technology/90379/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.watch.impress.co.jp/docs/news/2122746.html",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://news.aibase.com/news/29396",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1uoqfbn/claude_is_way_too_expensive/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.analyticsinsight.net/ampstories/artificial-intelligence/how-to-use-claude-code-directly-in-your-browser-a-complete-guide",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://markets.financialcontent.com/stocks/article/accwirecq-2026-7-6-cowork-academy-guided-claude-cowork-training-early-admission-now-open",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.watch.impress.co.jp/docs/news/2122722.html",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://nai500.com/blog/2026/07/10-china-ai4science-stocks-after-mgi-s-physical-ai/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.itweb.co.za/article/casa-software-reveals-how-automic-automation-gives-ai-agents-a-safe-pair-of-hands/WnxpEv4YZ1r7V8XL",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://marketingreport.one/ai-for-marketing/r2b2-completes-ai-driven-ad-buying-pilot.html",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://cyberpress.org/gaslight-malware-tricks-agents/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uopekl/i_feel_like_were_rapidly_heading_to_a_place_where/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://gigazine.net/news/20260706-disable-custom-agents/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://iotnews.jp/communication/274679/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uoohd7/fable_who_is_going_to_pay_for_api/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://iotnews.jp/manufacturing/274665/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://eu.36kr.com/en/p/3883520409612553",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.watch.impress.co.jp/docs/news/2122651.html",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.watch.impress.co.jp/docs/news/2122648.html",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.kobaran.com/first-autonomous-ai-ransomware-attack-confirmed-by-security-researchers/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.theregreview.org/2026/07/06/bartholomew-becher-consumer-protection-law-was-not-built-for-robot-shoppers/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://news.nicovideo.jp/watch/nw19510005?news_ref=20_20",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.watch.impress.co.jp/docs/news/2122617.html",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uomrr8/retired_disabled_army_combat_vet_no_coding/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000166.000137731.html",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uom95q/sonnet_50_vs_46/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://news.nicovideo.jp/watch/nw19509745?news_ref=20_20",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.watch.impress.co.jp/docs/news/2122601.html",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://memeburn.com/best-ai-writing-tools/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.commercepick.com/archives/96743",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.watch.impress.co.jp/docs/news/2122605.html",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.watch.impress.co.jp/docs/news/2122600.html",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uolrn8/i_noticed_cowork_spins_up_a_vm_but_the_claude/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://codebook.machinarecord.com/threatreport/silobreaker-cyber-alert/46441/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.watch.impress.co.jp/docs/news/2122581.html",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.berkshireeagle.com/online_features/press_releases/mgi-tech-and-shanghai-ai-laboratory-unveil-protopilot-and-biolab-bench-pioneering-physical-ai-for/article_090ab702-0737-5b5b-a03b-c5ea4b02ec2f.html",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.peoplematters.in/amp/article/ai-and-emerging-tech/from-adoption-to-autonomy-how-asia-is-re-architecting-work-for-the-ai-era-50654",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/mgi-tech-and-shanghai-ai-laboratory-unveil-protopilot-and-biolab-bench-pioneering-physical-ai-for-life-sciences-302818081.html",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000005.000184520.html",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uol6hh/so_how_are_everyones_fablepowered_vibe_coding/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://techblog.zozo.com/entry/architecture-diagram-with-claude-code",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.watch.impress.co.jp/docs/news/2122554.html",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://plus-web3.com/media/latestnews_1000_9738/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://newscast.jp/smart/news/5721234",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000165.000137731.html",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uok58g/claudes_self_invented_technical_jargon_complex/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://voix.jp/biz/news-analysis/173179/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.rbbtoday.com/release/prtimes2-today/20260706/1309606.html",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000004.000160346.html",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://fullload.bestcarweb.jp/column/393088",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://blog.amagi.dev/entry/vfx-js-v1",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://finance.biggo.com/news/ae83c4b6-8049-4d39-8b8f-7f823ecd9afd",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://finance.biggo.jp/news/ae83c4b6-8049-4d39-8b8f-7f823ecd9afd",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://note.com/r_kaga/n/n12bc279182d6",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://gigazine.net/news/20260706-university-in-the-ai-era/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://internet.watch.impress.co.jp/docs/column/shimizu/2117621.html",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.hostinger.com/my/tutorials/agentic-workflows",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2607/06/news035.html",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://webtan.impress.co.jp/n/2026/07/07/52933",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/070100558/070100004/?ST=nxt_idx_common",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://biz.chosun.com/jp/jp-science/2026/07/06/MRQ4KZNI25EV7JPSBA6KKVEABI/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.digitaltoday.co.kr/jp/view/78203/bnb-chain-launches-bnb-agent-studio-on-mainnet",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://news.yahoo.co.jp/articles/97eb17f5c5547090de8f8e6b2dcea4f48755c79c?page=2",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2607/06/news026.html",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://hackernoon.com/7-5-2026-newsletter",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://parametric-architecture.com/bim-masterclass/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.chiba-tv.com/plus/detail/2026071821148",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://ascendants.in/business-stories/nexus-4-3m-seed-enterprise-ai-agents/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.chosun.com/english/industry-en/2026/07/06/SQBKXC7QTBFYJPXQE4GY5SU22M/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://letsdatascience.com/news/ai-loops-power-next-generation-autonomous-agents-f0508947",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.msn.com/en-gb/news/other/some-businesses-expect-to-hire-more-workers-thanks-to-ai-not-sack-them/ar-AA26TFg2?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://gigazine.net/news/20260705-atm-iphone-bank-tellers/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://productzine.jp/article/detail/4300",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://mshale.com/d282b5a6/3fc58840q07qhprqbtU",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.xda-developers.com/google-opal-solves-the-most-serious-problem-non-coders-face-but-no-one-talks-about-it/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.analyticsinsight.net/artificial-intelligence/best-github-repos-to-learn-claude-code-in-2026-top-10-picks",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://xenospectrum.com/pxpipe-claude-token-image-compression/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://blog.takaumada.com/entry/startup-thought-2026",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://finance.biggo.jp/news/2923ab82-af98-4cee-a247-6cc94ad98913",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.chosun.com/english/industry-en/2026/07/05/UZLVBPKVHJAN3CVIGFOYS376WU/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.analyticsinsight.net/amp/story/automation/top-ai-automation-tools-in-2026-for-enterprise-efficiency-and-workflow-optimization",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.analyticsinsight.net/automation/top-ai-automation-tools-in-2026-for-enterprise-efficiency-and-workflow-optimization",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://securityboulevard.com/2026/07/pointguard-ai-recognized-in-gartner-coolest-vendor-innovations-for-agent-mission-control/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://menafn.com/1111354887/Metas-Zuckerberg-Says-AI-Agent-Tech-Progressing-Slower-Than-Expected",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://stocktwits.com/news-articles/markets/equity/ibm-stock-plummets-on-anthropic-new-ai-cobol-threat/cZRMG8IR4yy",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://tech-noisy.com/2026/07/05/claude-enterprise-usage-analytics-cost-alerts/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://mshale.com/bd9f1eb3/34eb4c7eF6R7gg6cdY4",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.startuphub.ai/ai-news/artificial-intelligence/2026/wandero-ai-s-kalandadze-on-the-missing-layer-post-launch",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.eurekalert.org/news-releases/1134552",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.msn.com/en-us/news/technology/i-added-claude-codes-memory-to-my-workflows-and-my-automation-became-effortless/ar-AA23SEZK",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://cryptonews.net/news/blockchain/33102529/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.msn.com/en-gb/money/technology/mozilla-researchers-demonstrate-claude-code-vulnerability-using-hidden-dns-records/ar-AA27e3CT",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://tech-noisy.com/2026/07/05/claude-code-default-permission-mode-manual/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.hostinger.com/in/tutorials/agentic-ai-vs-generative-ai",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.sitepoint.com/alibaba-bans-claude-code-the-backdoor-scare-explained/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://zenn.dev/awesome_kou/articles/ai-access-chosen-few-2026",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.msn.com/en-gb/money/technology/what-is-an-ai-agent-builder-and-why-should-businesses-consider-using-it/ar-AA26UMwO",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://hackernoon.com/7-4-2026-techbeat",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://enterprisezine.jp/news/detail/24507",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.xda-developers.com/added-one-line-to-my-claude-prompts-improvement-was-immediate/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.techradar.com/pro/security/agentic-coding-tools-have-access-to-everything-they-need-for-this-security-experts-warn-claude-code-can-be-exploited-simply-by-trying-to-be-helpful",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.theglobeandmail.com/investing/markets/markets-news/ACCESS/3129118/postonce-launches-crossposting-tool-to-help-creators-automatically-post-once-and-publish-everywhere/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://finance.yahoo.com/technology/ai/articles/klaviyo-kvyo-13-4-ai-191039077.html",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://mshale.com/fd26b1c6/c696d3beJzsKLDxSTzkOCQo",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://mezha.net/eng/bukvy/234dab0b_alibaba_bans_employees/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.zaikei.co.jp/article/20260704/859784.html",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.tipranks.com/news/private-companies/browserbase-deepens-ai-agent-infrastructure-footprint-with-secure-automation-and-ecosystem-push",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://mshale.com/aed259bf/32706f41WUo-TFkqTQhXITg",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://mshale.com/5c64175d/e31a74d71b2WQzK4VzE",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.tipranks.com/news/private-companies/testsprite-weekly-recap-11",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://m.economictimes.com/news/company/corporate-trends/from-automation-to-autonomy-building-zero-human-ops-with-agentic-ai/articleshow/132182160.cms",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://letsdatascience.com/news/microsoft-discovery-runs-agentic-science-workflows-56fd43f5",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.coingabbar.com/en/crypto-blogs-details/talus-network-building-autonomous-ai-agents",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://tech-noisy.com/2026/07/04/huggingface-claude-code-official-integration-open-models/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "http://m.dailyhunt.in/news/india/english/news+karnataka-epaper-newskarn/meta+ai+agent+progress+slower+than+expected+zuckerberg-newsid-n718429587",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://mshale.com/f1d30bab/cf8c2b6a0Nc-XJk-FOI",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://newskarnataka.com/technology/meta-ai-agent-progress-slower-than-expected-zuckerberg/04072026/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.digitbin.com/gemini-spark-mac-file-automation/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.blockchain-council.org/claude-ai/mcp-vs-rag-vs-skills/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://blockchain.news/ainews/claude-code-commands-boost-dev-productivity",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://mashable.com/tech/july-4-chatplayground-ai-unlimited-plan-lifetime-subscriptions",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://innovatopia.jp/bigdata/bigdata-news/112226/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.manufacturingtodayindia.com/agentic-ai-more-engineering-work",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://voice.lapaas.com/ai-agents-can-now-complete-16-of-freelance-jobs-up-from-2-5-8-months-ago/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.tekedia.com/why-alibaba-restricted-claude-code-in-its-development-environment/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.techjuice.pk/openai-chatgpt-ai-automation-agents-business/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://productzine.jp/article/detail/3838",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://dxmagazine.jp/news/trytoda2627-35/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://mshale.com/f4caa884/8d0d4312BkHps04qGgc",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://t2conline.com/why-ai-agents-are-becoming-the-next-competitive-advantage-for-businesses/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://zenn.dev/ryu1maniwa25/articles/fable5-agent-sop-setup",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://forbesjapan.com/articles/detail/100255",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.techtimes.com/articles/319665/20260703/claude-fable-5-back-safety-classifiers-now-reroute-security-agent-loops.htm",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://weddings.lavenderhotels.co.uk/anatomy-ai-venture-performance-capital-operational-breakdown",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://community.nasscom.in/communities/ai/loop-engineering-explained-how-it-differs-prompt-engineering",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://techgig.com/amp/news/ai/langchain-engineer-introduces-harbor-for-complex-ai-agent-evaluation/132153326",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.businessinsider.jp/article/2607-what-are-loops-ai-engineering-tips/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://letsdatascience.com/news/pagerduty-chair-highlights-ai-agent-failure-risks-0367559f",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://finance.biggo.com/news/8a3a64ce-e3b4-4a31-8e50-4e7973b78f71",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://eu.36kr.com/en/p/3878518284565125",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/03/news016.html",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://inform.tmforum.org/features-and-opinion/ai-agents-need-a-real-time-data-fabric-to-enable-autonomy-at-scale",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.unite.ai/how-ai-agents-are-transforming-large-scale-recommendation-systems-and-ai/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.kdnuggets.com/10-agentic-ai-frameworks-you-should-know-in-2026",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.msn.com/en-in/money/news/anthropic-co-founder-boris-cherny-who-said-software-engineering-is-dead-now-says-days-of-ai-prompts-are-over-and-it-is-time-for/ar-AA26bEkn?cvid=7958e0e082154c57f0b2f325acb80d28",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.analyticsinsight.net/artificial-intelligence/how-to-write-better-prompts-for-high-performing-ai-agents",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://medium.com/@adnanmasood/the-agentic-data-engineer-i-fundamentals-of-ai-first-data-engineering-60a43ad1b6b0",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/industries/reduce-pid-analysis-time-by-80-with-hybrid-ai-maintenance-planning/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.startuphub.ai/ai-news/technology/2026/databricks-crowns-ai-startup-innovators",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.startuphub.ai/ai-news/technology/2026/meta-to-build-cloud-business-for-ai-compute",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://nishio.github.io/mitoujr-minecraft-web/tech/loop-engineering.html",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-reinforcement-learning/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://adtmag.com/articles/2026/07/01/loop-engineering-emerges-as-developers-put-ai-coding-agents-on-repeat.aspx",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://finance.biggo.com/news/7ccfc28a0270494c",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://inform.tmforum.org/features-and-opinion/what-it-really-takes-for-telcos-to-operationalize-ai",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.techtimes.com/articles/319446/20260701/aws-commits-1-billion-embed-ai-engineers-inside-enterprise-clients-layoffs-surge.htm",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.zdnet.com/article/the-new-enterprise-ai-expert-every-company-needs-and-why/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.arcweb.com/blog/taming-agentic-swamp-anchoring-autonomy-industrial-grade-data-fabric",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.cio.com/article/4191250/shadow-agents-how-it-leaders-must-govern-headless-ai-before-it-breaks-the-enterprise.html",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://bdtechtalks.com/2026/06/30/how-the-ai-arms-race-moved-from-smart-models-to-full-stack-infrastructure/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.startuphub.ai/ai-news/artificial-intelligence/2026/chatgpt-s-global-grip-tightens-by-2026",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://developers.googleblog.com/announcing-adk-go-20/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://developers.googleblog.com/driving-the-agent-quality-flywheel-from-your-coding-agent/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/06/30/whats-new-in-microsoft-security-june-2026/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.startuphub.ai/ai-news/funding-round/2026/nomerra-secures-2m-for-private-markets-ai",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.startuphub.ai/ai-news/claudes-corner/2026/claudes-corner-corelayer-yc-w2026",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://www.forbes.com/sites/lanceeliot/2026/06/30/loop-engineering-gets-newly-applied-to-ai-mental-health-chats/",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    },
+    {
+      "url": "https://aimultiple.com/agentic-orchestration",
+      "seen_at": "2026-07-07T00:57:02.324655+00:00"
+    }
+  ]
 }
