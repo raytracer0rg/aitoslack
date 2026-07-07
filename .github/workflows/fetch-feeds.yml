@@ -29,15 +29,15 @@ jobs:
       - name: 重複除去・台帳更新
         run: python scripts/dedup_feeds.py
         
-      - name: feeds.json をコミット・プッシュ
+      - name: feeds/history をコミット・プッシュ
         run: |
           git config user.name "feed-relay-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add feeds.json
+          git add -A
           if git diff --cached --quiet; then
             echo "変更なし。コミットをスキップします。"
           else
-            git commit -m "chore: update feeds.json ($(date -u +'%Y-%m-%dT%H:%M:%SZ'))"
-            git pull --rebase origin main
+            git commit -m "chore: update feeds & history ($(date -u +'%Y-%m-%dT%H:%M:%SZ'))"
+            git pull --rebase --autostash origin main
             git push
           fi
