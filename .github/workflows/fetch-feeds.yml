@@ -26,6 +26,9 @@ jobs:
       - name: フィード取得スクリプト実行
         run: python scripts/fetch_feeds.py
 
+      - name: 重複除去・台帳更新
+        run: python scripts/dedup_feeds.py
+        
       - name: feeds.json をコミット・プッシュ
         run: |
           git config user.name "feed-relay-bot"
