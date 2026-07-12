@@ -1,1540 +1,1396 @@
 {
   "posted": [
     {
+      "url": "https://tech-noisy.com/2026/07/13/ai-weekly-news-2026-07-06-2026-07-12/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.decn.co.jp/?p=185983",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://article.auone.jp/detail/1/2/3/564_3_r_20260713_1783887782247123",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://news.yahoo.co.jp/articles/f870b1f1ec5e097142bad45f62ef43d6a7d378a8",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "http://www.excite.co.jp/news/article/Prtimes_2026-07-13-70006-23/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://note.com/tatsuya_sabato/n/nafd1e98f17ee",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.marktechpost.com/2026/07/12/guide-to-loop-engineering/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03604/070900011/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.deccanherald.com/amp/story/business%2Findian-startups-can-build-world-leading-artificial-intelligence-firms-4071425",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.firstpost.com/tech/anthropic-introduces-claude-reflect-to-help-you-better-understand-your-ai-usage-14030870.html",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uuovs4/fair_pushback/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uunsm7/this_is_what_we_were_looking_for/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.techmeme.com/260712/p7#a260712p7",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uulu1c/sussy_usage/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uulfln/introducing_a_way_to_reflect_on_how_you_use_claude/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uul693/access_has_been_extended/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.techmeme.com/260712/p6#a260712p6",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.vietnam.vn/ja/loat-nganh-nghe-dung-truoc-nguy-co-bi-thay-the-boi-tri-tue-nhan-tao",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://news.aibase.com/ja/news/29528",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://mshale.com/f197c955/7bb9f314OiEDNxkATDkeITg",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.marketscale.com/industries/software-and-technology/b2b-tech-asia-expo-2026-puts-agentic-ai-at-the-center-of-enterprise-automation",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uuf59z/im_a_vibe_coder_and_im_scared_that_i_have_no_idea/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uue0vm/claude_helped_me_turn_a_childhood_ps2_memory_into/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uue491/invention_that_secretly_damaged_humanity_most/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "http://www.msn.com/en-us/news/technology/claude-and-chatgpt-in-2026-features-adoption-and-market-share/ss-AA27fktC",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uudibj/im_paying_200month_and_after_tomorrow_i_cant/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uud8y0/im_a_high_school_teacher_and_claude_quietly_gave/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uud8rd/new_mode_tomorrow_from_anthropicparody/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.rescana.com/post/ghostcommit-multimodal-prompt-injection-attack-exposes-ai-code-review-tools-to-supply-chain-risks",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uucj88/i_think_i_get_it_why_some_say_opus_46_is_the_best/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.techmeme.com/260712/p5#a260712p5",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uuc23d/is_anthropic_facing_a_product_strategy_dilemma/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uubt1j/least_neurotic_sonnet_5_response/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uuboz7/claude_got_me_through_my_brutal_cancer_diet_and/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uub12j/day_43_of_building_gta_6_using_claude/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://syu-m-5151.hatenablog.com/entry/2026/07/12/171032",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uuaayt/cache_rewrites_costed_me_30_of_my_fable/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://news.livedoor.com/article/detail/31806697/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://techbullion.com/how-ai-agents-will-transform-the-role-of-the-chief-marketing-officer-in-smes/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uu9egf/is_anthropic_shooting_themselves_in_the_foot_by/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "http://www.excite.co.jp/news/article/Prtimes_2026-07-12-15843-264/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uu8qug/i_stopped_telling_it_what_i_wanted_and_started/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://ilmilog.com/how-to-use-claude-code-for-beginners/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.techmeme.com/260712/p4#a260712p4",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.techmeme.com/260712/p3#a260712p3",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.techmeme.com/260712/p2#a260712p2",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.techmeme.com/260712/p1#a260712p1",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.businesstimes.com.sg/opinion-features/when-should-we-let-autonomous-ai-agent-do-work",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://mshale.com/012b10af/95dba477ACU8KQsydlYCPA4",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://erp.today/erp-modernization-ai-tessera-labs-funding/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://tbs-mri.com/n/n6ab44828e5f2",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://hackernoon.com/harness-engineering-is-the-operating-system-for-ai-software-delivery",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://ja.laodong.vn/cong-nghe/robot-va-ai-tro-thanh-dong-luc-xuat-khau-cong-nghe-moi-1733840.ldo",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://mshale.com/efc9ddac/66a23e65JHbMP7aZadg",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://zenn.dev/aws_japan/articles/aidlc-workflows-v2-harness-engineering",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://ikebukuro.keizai.biz/release/610573/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uu1v0i/i_cloned_venmo_but_its_your_city_budget/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.techmeme.com/260711/p12#a260711p12",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uu17ll/why_the_majority_of_vibe_coded_projects_fail/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://finance.biggo.com/podcast/f5edd21fb59b100b",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uu0xxk/claudes_new_keep_thinking_commercial_on_tv/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.marktechpost.com/2026/07/11/mira-muratis-thinking-machines-lab-makes-the-technical-case-for-human-centered-ai-built-on-customizable-model-weights/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uu06kb/yet_another_claude_desk_display_with_code_and/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uu01ck/i_asked_claude_to_build_me_an_internal_analytics/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://dxmagazine.jp/news/trytoda2628-30re-01/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.watch.impress.co.jp/docs/news/2124459.html",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1utzktb/needy_dispatch/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://zenn.dev/jodycraft/articles/3f7548173dcb55",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://zenn.dev/knowledge_graph/articles/ai-agent-five-graph-types",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://dxmagazine.jp/news/ytoda2628-6re-01/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://mshale.com/16ef0529/3980c177gFm1X-_8r4",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://finance.biggo.com/news/1e4d5b9759b75dc8",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.techmeme.com/260711/p11#a260711p11",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://newspicks.com/news-in-app/17080861/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
       "url": "https://www.techmeme.com/260711/p10#a260711p10",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://www.startuphub.ai/ai-news/technology/2026/ai-agents-slash-security-alert-noise",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.trendhunter.com/trends/Prosper-AI",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1utsf12/i_used_claude_to_finally_understand_my_own/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uts1ra/claude_code_turned_off_my_wifi_to_test_something/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.techmeme.com/260711/p9#a260711p9",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://xenospectrum.com/bun-zig-rust-rewrite/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1utqxm9/these_one_shot_videos_on_youtube_are_so_weird_to/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.tipranks.com/news/private-companies/kore-ai-weekly-recap-5",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1utp58k/a_differents/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.techmeme.com/260711/p8#a260711p8",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uto41c/another_day_of_finding_a_new_use_case_for_claude/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://www.bankinfosecurity.com/anthropic-rejects-chinas-claim-about-claude-code-backdoor-a-32184",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
       "url": "https://finance.biggo.jp/podcast/99d871608a868a88",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://mshale.com/8d529cd9/32111828XwIxBwQOS1QDACg",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://www.trendhunter.com/amp/trends/Prosper-AI",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.startuphub.ai/ai-news/technology/2026/mozilla-ai-launches-otari-llm-control-plane",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.techmeme.com/260711/p9#a260711p9",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://xenospectrum.com/bun-zig-rust-rewrite/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://mshale.com/bd18960f/acb7b6fcCvLkhGWZlvE",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.startuphub.ai/ai-news/artificial-intelligence/2026/chatgpt-work-unveils-gpt-5-6",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.tipranks.com/news/private-companies/kore-ai-weekly-recap-5",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.techmeme.com/260711/p8#a260711p8",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://kawarimidoll.com/posts/202607112/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://mshale.com/28a5c493/a5e9e413DjQLBwYLezMtCQ4",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://finance.biggo.com/news/99d871608a868a88",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://finance.biggo.jp/news/99d871608a868a88",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
       "url": "https://www.techmeme.com/260711/p7#a260711p7",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1utn0pn/claude_randomly_started_calling_me_hassan/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1utm7ui/cache_rewrites_costed_me_30_of_my_fable/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.tipranks.com/news/private-companies/sonar-expands-ai-coding-integrations-and-pushes-verification-centric-strategy",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1utlk5h/sometimes_claude_does_things_to_reach_the_goal/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1utlddo/an_ac130_game_with_claude/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.forconstructionpros.com/construction-technology/project-management/product/22969619/trackunit-trackunit-connects-equipment-data-to-chatgpt-claude-and-microsoft-copilot",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.tipranks.com/news/private-companies/maven-agi-highlights-data-controlled-resolution-centric-ai-as-enterprise-adoption-accelerates",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.kavout.com/market-lens/what-is-ibm-bob-and-how-does-it-redefine-enterprise-software-development",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.ababnews.com/news/0df41a11-27d8-4674-bfa1-f2191d6b90e9",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.techmeme.com/260711/p6#a260711p6",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.tipranks.com/news/private-companies/testsprite-deepens-verification-first-strategy-with-open-source-ai-testing-cli",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1utjwjl/sonnet_5_was_supposed_to_be_cheaper_it_cost_me/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.startuphub.ai/ai-news/startup-news/2026/sierra-s-ai-agents-boost-productivity",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uthdx9/dog_was_hit_by_a_car_claude_helped_me_get_info/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.watch.impress.co.jp/docs/news/2124457.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1uth3t9/fable_5_incredible_for_legal_research_i_started/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.mk.co.kr/jp/business/12096178",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1utghul/expectation_vs_reality/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://prtimes.jp/main/html/rd/p/000000153.000129953.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1utfxd8/cost_of_using_fable_after_the_12th/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.techmeme.com/260711/p5#a260711p5",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://macaubusiness.com/medical-ai-ecosystem-innovation-forum-and-imedloop-global-medical-imaging-data-platform-launch-held-in-beijing/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://crypto.news/robinhood-hands-ai-agents-your-crypto-trades-in-shift/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.techmeme.com/260711/p4#a260711p4",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.reddit.com/r/AI_Agents/comments/1utc8ea/i_was_addicted_to_building_instead_of_growing/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://voice.lapaas.com/anthropic-adds-in-app-browser-to-claude-code-desktop-application/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.techmeme.com/260711/p3#a260711p3",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://dev.classmethod.jp/articles/20260710-aws-mcp-server-oauth/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.techmeme.com/260711/p2#a260711p2",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1utb84v/how_are_you_all_getting_claude_to_access_your/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.vietnam.vn/ja/openai-ra-mat-chatgpt-work-hop-nhat-ung-dung-cho-may-tinh-de-ban-chatgpt-desktop-va-tich-hop-codex",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1utb2ae/future_perspectives_on_modern_human_practices/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.techmeme.com/260711/p1#a260711p1",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1utab6f/why_cant_claude_read_reddit/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://gigazine.net/news/20260711-browser4/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://prtimes.jp/main/html/rd/p/000000070.000103307.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-gpt-5-6-chatgpt-work-ai-agents-productivity-10779911/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ut99ss/claude_made_me_apps_from_my_unhinged_nail_polish/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.vietnam.vn/ja/openai-ra-mat-gpt-5-6-va-sieu-ung-dung-chatgpt-work",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://gigazine.net/gsc_news/en/20260711-browser4/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://news.yahoo.co.jp/articles/49293a0ebc266a3640fe17f79730331eec19497a",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://news.livedoor.com/article/detail/31799207/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://news.livedoor.com/article/image_detail/31799207/?img_id=55080747",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://mjengohub.co.ke/articles/finance/jpmorgan-builds-ai-investing-agents-to-control-capital-allocation",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ut866f/19_days_245_sessions_123m_tokens_in_claude_code/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.etvbharat.com/en/technology/openai-launches-gpt-5-dot-6-and-chatgpt-work-to-bring-ai-agents-into-the-workplace-enn26071100736",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.watch.impress.co.jp/docs/news/2124412.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.techmeme.com/260710/p38#a260710p38",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://redmondmag.com/blogs/generationai/2026/07/microsoft-advances-intelligence-and-automation-in-ai-apps.aspx",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.watch.impress.co.jp/docs/news/2123208.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://prtimes.jp/main/html/rd/p/000000068.000103307.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://simplywall.st/ja/stocks/us/software/nasdaq-fivn/five9/news/e01f9c89320526a0/amp",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ut5wvq/close_enough/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.watch.impress.co.jp/docs/news/2124366.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.techmeme.com/260710/p37#a260710p37",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ut532i/sonnet_5_writing_increasing_amounts_of_slop_and/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.watch.impress.co.jp/docs/series/itsmo/2122456.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ut4jv0/claude_did_a_task_for_me_at_work_that_made_me/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.watch.impress.co.jp/docs/topic/watchplus/2124102.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://sdtimes.com/mobile/insightfinder-launches-ari-mobile-putting-an-action-capable-operational-ai-agent-in-engineers-pockets/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.techmeme.com/260710/p36#a260710p36",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.vietnam.vn/ja/ai-va-gioi-han-cua-tu-dong-hoa-nganh-ban-le",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.techmeme.com/260710/p35#a260710p35",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ut3blf/i_really_hope_anthropic_fixes_this_6alarm_fire/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ut3dkn/found_an_excellent_use_for_haiku/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.techmeme.com/260710/p34#a260710p34",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://quasa.io/media/tiktok-agentic-hub-empowers-creators-with-autonomous-ai-tools",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://business.adobe.com/blog/prompting-ai-agents",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://blogs.itmedia.co.jp/business20/2026/07/plcdcs_ai.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://online.logi-biz.com/147311/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.bigtechnology.com/p/openais-plans-for-its-new-chatgpt",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.unite.ai/claude-sonnet-5-review/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
       "url": "https://thewincentral.com/microsoft-scout-update-live-model-switching-automations-mcp/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://www.technobezz.com/news/openai-launches-gpt-56-with-three-models-and-a-new-chatgpt-work-agent",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://mshale.com/11f83b9a/49b3feeaLgMsLF4_dgIfLx4",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://medium.com/@adnanmasood/the-state-of-roi-in-enterprise-ai-definitions-evidence-and-a-decision-framework-625091f62da5",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://www.forconstructionpros.com/construction-technology/project-management/product/22969619/trackunit-trackunit-connects-equipment-data-to-chatgpt-claude-and-microsoft-copilot",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://www.techrepublic.com/article/news-anthropic-claude-code-ai-agent-governance-risk/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://www.tipranks.com/news/private-companies/maven-agi-highlights-data-controlled-resolution-centric-ai-as-enterprise-adoption-accelerates",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://venturebeat.com/orchestration/enterprise-ai-is-entering-an-evaluation-gap-agents-are-gaining-autonomy-faster-than-companies-can-verify-them",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://www.kavout.com/market-lens/what-is-ibm-bob-and-how-does-it-redefine-enterprise-software-development",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://applemagazine.com/mac-mini-local-ai-agents-apple-silicon/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://www.ababnews.com/news/0df41a11-27d8-4674-bfa1-f2191d6b90e9",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://www.gadgetreview.com/useful-tools-to-build-ai-agents-without-code-in-n8n",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://www.techmeme.com/260711/p6#a260711p6",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://www.basenor.com/blogs/news/grok-4-5-explained-real-world-use-cases-and-whats-new",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://www.tipranks.com/news/private-companies/testsprite-deepens-verification-first-strategy-with-open-source-ai-testing-cli",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://www.developer-tech.com/news/developers-face-rce-via-claude-code-auto-mode-exploit/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://www.kavout.com/market-lens/is-the-ai-scare-trade-overblown-for-cybersecurity",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://zenn.dev/grooves/articles/d0e1a182138ab0",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://www.startuphub.ai/ai-news/startup-news/2026/sierra-s-ai-agents-boost-productivity",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://blockonomi.com/kraken-embraces-ai-powered-agents-to-transform-cryptocurrency-trading-experience/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://www.watch.impress.co.jp/docs/news/2124457.html",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://www.techtarget.com/searchcio/feature/Fully-automated-companies-What-CIOs-need-to-know-about-the-future-of-automation",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://prtimes.jp/main/html/rd/p/000000153.000129953.html",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://www.sahmcapital.com/news/content/chatgpt-goes-from-assistant-to-employee-as-openai-launches-workplace-ai-agent-2026-07-09",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://mshale.com/bd9f1eb3/34eb4c7eF6R7gg6cdY4",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://www.techbuzz.ai/articles/kraken-launches-ai-agent-trading-in-major-crypto-platform-shift",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://www.techmeme.com/260711/p5#a260711p5",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://zenn.dev/kamo78/articles/kaji-guarded-loop-engineering",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://aismiley.co.jp/ai_news/chatgpt-unable-generate-image/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://www.hostinger.com/uk/tutorials/how-to-send-email-in-claude/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://crypto.news/robinhood-hands-ai-agents-your-crypto-trades-in-shift/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://itbrief.asia/story/human-in-the-loop-is-the-industry-s-most-comfortable-lie",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://www.scmp.com/tech/tech-trends/article/3360148/beyond-claude-code-chinese-ai-tools-poised-benefit-after-back-door-alert",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://aijourn.com/the-role-of-ai-agents-in-2026/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://mshale.com/7653447e/08956cb5KAA8EzsmeFM_BVk",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://cryptorank.io/news/feed/71a9c-jensen-huang-reveals-how-ai-agents-are-redefining-the-role-of-software-engineers",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://www.nikkan.co.jp/releases/view/219044",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://news.yahoo.co.jp/articles/fec0a26e9a31bfbbc1ff37199f78d0c23335884c",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://voice.lapaas.com/anthropic-adds-in-app-browser-to-claude-code-desktop-application/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://techiexpert.com/best-ai-agents/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://dev.classmethod.jp/articles/20260710-aws-mcp-server-oauth/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://zenn.dev/xtm_blog/articles/9b7fa5f94eae28",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://www.vietnam.vn/ja/openai-ra-mat-chatgpt-work-hop-nhat-ung-dung-cho-may-tinh-de-ban-chatgpt-desktop-va-tich-hop-codex",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "http://www.excite.co.jp/news/article/Prtimes_2026-07-10-47565-74/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://www.accessnewswire.com/newsroom/en/publishing-and-media/hestia-insight-and-escher-ai-enter-strategic-partnership-to-develop-enterprise-1188068",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "http://www.excite.co.jp/news/article/Prtimes_2026-07-10-32321-929/image/1/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://gigazine.net/news/20260711-browser4/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://www.geeky-gadgets.com/gpt-5-6-model-release/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://prtimes.jp/main/html/rd/p/000000070.000103307.html",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://www.financialexpress.com/life/technology/openais-chatgpt-work-raises-stakes-for-indian-it/4288512/lite/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-gpt-5-6-chatgpt-work-ai-agents-productivity-10779911/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "http://www.excite.co.jp/news/article/Prtimes_2026-07-10-59156-89/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://shift-ai.co.jp/event/real-event/study/claude-cowork-secretary/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://www.docswell.com/s/harinezumi/K3J9JJ-2026-07-10-202543",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://mshale.com/5c64175d/e31a74d71b2WQzK4VzE",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://www.ibm.com/think/insights/why-skills-are-emerging-across-agentic-universe",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://mshale.com/f1d30bab/cf8c2b6a0Nc-XJk-FOI",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://streamlinefeed.co.ke/news/5-prompting-fixes-improve-ai-chatgpt-claude-anthropic",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://www.vietnam.vn/ja/openai-ra-mat-gpt-5-6-va-sieu-ung-dung-chatgpt-work",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://www.watch.impress.co.jp/docs/news/2124327.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://gigazine.net/gsc_news/en/20260711-browser4/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://bitcoinworld.co.in/talus-first-acceleration-program-complete/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://news.yahoo.co.jp/articles/49293a0ebc266a3640fe17f79730331eec19497a",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://www.geeky-gadgets.com/chatgpt-for-work-guide/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://news.livedoor.com/article/detail/31799207/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://ja.laodong.vn/cong-nghe/openai-ra-mat-chatgpt-work-huong-toi-sieu-ung-dung-ai-tren-may-tinh-1733189.ldo",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://news.livedoor.com/article/image_detail/31799207/?img_id=55080747",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://www.ptinews.com/story/business/fronseye-ships-major-apragya-ai-release-chat-to-build-ai-native-erp-and-multi-agent-orchestration-on-one-platform/3848652",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://news.livedoor.com/article/image_detail/31799207/?img_id=55080748",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/harnessing-ai-and-automation-seizing-financial-opportunities-beyond-hype/132310188",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://mjengohub.co.ke/articles/finance/jpmorgan-builds-ai-investing-agents-to-control-capital-allocation",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://zenn.dev/sonicgarden/articles/682b080ec34a37",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://www.etvbharat.com/en/technology/openai-launches-gpt-5-dot-6-and-chatgpt-work-to-bring-ai-agents-into-the-workplace-enn26071100736",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://finance.biggo.jp/news/69c0570f-af5b-4333-9fc1-d7375663def8",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://mshale.com/1a7eca1f/6d0679083JRIql1_zac",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://m.thewire.in/article/ptiprnews/fronseye-ships-major-apragya-ai-release-chat-to-build-ai-native-erp-and-multi-agent-orchestration-on-one-platform",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://www.watch.impress.co.jp/docs/news/2124412.html",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://businessreport.co.za/companies/2026-07-10-why-south-africas-advanced-ai-voice-bots-so-easily-become-polite-high-tech-roadblocks/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://www.watch.impress.co.jp/docs/news/2123208.html",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://www.technology.org/2026/07/10/openai-chatgpt-work-gpt-5-6-agent-launch/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://redmondmag.com/blogs/generationai/2026/07/microsoft-advances-intelligence-and-automation-in-ai-apps.aspx",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://memeburn.com/what-is-agentic-ai/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://prtimes.jp/main/html/rd/p/000000068.000103307.html",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://gigazine.net/news/20260710-brave-bat-roadmap-4/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://simplywall.st/ja/stocks/us/software/nasdaq-fivn/five9/news/e01f9c89320526a0/amp",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://news.nicovideo.jp/watch/nw19531998?news_ref=watch_20_nw19526255",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://www.watch.impress.co.jp/docs/news/2124366.html",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://www.watch.impress.co.jp/docs/news/2124363.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://www.trendhunter.com/trends/claude-tag",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://www.watch.impress.co.jp/docs/news/2124364.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://finance.biggo.com/podcast/57553c9482152c87",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://cisoseries.com/cybersecurity-news-interpols-global-fraud-sweep-chinas-claude-code-flag-old-github-account-tricks/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://www.tipranks.com/news/private-companies/insilico-medicine-expands-pharma-ai-platform-with-new-generative-models-and-automation-tools",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://www.panewslab.com/ja/articles/019f4a2a-5a07-75ef-952a-7c12e4ccf359",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://www.watch.impress.co.jp/docs/series/itsmo/2122456.html",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://www.watch.impress.co.jp/docs/news/2124354.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://www.watch.impress.co.jp/docs/topic/watchplus/2124102.html",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://www.watch.impress.co.jp/docs/news/2124335.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://sdtimes.com/mobile/insightfinder-launches-ari-mobile-putting-an-action-capable-operational-ai-agent-in-engineers-pockets/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://news.aibase.com/news/29528",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://www.vietnam.vn/ja/ai-va-gioi-han-cua-tu-dong-hoa-nganh-ban-le",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://it.impress.co.jp/articles/-/29570",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://www.trendhunter.com/amp/trends/claude-tag",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://www.watch.impress.co.jp/docs/news/2124330.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://in.mashable.com/tech/111821/what-is-chatgpt-work-openai-launches-new-ai-agent-powered-by-gpt-56",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://news.livedoor.com/article/detail/31794111/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://xn--u9jugla0b3c4ai9yif2582a27xa.jp/news/smcc-elyza-screening-ai-2026.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.openpr.com/news/4573617/enterprise-ai-agent-adoption-market-driven-by-workflow",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://qiita.com/Koukyosyumei/items/3bd4696237ea64c38971",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.businessleague.in/openai-launches-chatgpt-work-autonomous-ai-agent-powered-by-gpt-5-6-debut/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://news.nicovideo.jp/watch/nw19531287",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.gizbot.com/artificial-intelligence/chatgpt-work-explained-how-openai-new-agent-can-automate-workflows-build-websites-127273.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://nealle-dev.hatenablog.com/entry/2026/07/10/165619",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://straitsresearch.com/report/ai-orchestration-market",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://jrodthoughts.medium.com/your-ai-agent-needs-a-flight-simulator-layerlens-releases-synthetic-evaluations-713f7ce27232",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.hokkaido-np.co.jp/article_photo/list/?article_id=1335981&pid=15608098",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.varindia.com/news/openai-unveils-chatgpt-work-and-gpt-5-6-ai-models-to-automate-complex-enterprise-tasks",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.watch.impress.co.jp/docs/news/2124271.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://voix.jp/business-cards/reze-weborca-integration-launch/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.watch.impress.co.jp/docs/news/2124266.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.tokenpost.com/news/business/21977",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.watch.impress.co.jp/docs/news/2124240.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://response.jp/article/2026/07/10/413869.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://response.jp/article/img/2026/07/10/413869/2226331.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.digitaltoday.co.kr/en/view/80436/datadog-korea-chief-says-ai-it-and-security-observability-should-be-unified-on-one-platform",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.advertimes.com/20260710/article550194/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://aismiley.co.jp/ai_news/claude-image-generation/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://qiita.com/tatsuya582/items/88508215a8e22b169166",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.iza.ne.jp/pressrelease/prtimes/MVVK6M7YUFJ6FLX4QOVL7VYTPE/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.watch.impress.co.jp/docs/news/2124198.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://itbrief.com.au/story/australian-firms-rush-ai-adoption-amid-rising-risks",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://news.nicovideo.jp/watch/nw19530529",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.helpnetsecurity.com/2026/07/10/aws-agentic-ai-erp-automation/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.watch.impress.co.jp/docs/news/2124180.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://plus-web3.com/media/latestnews_1000_9810/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.siliconindia.com/news/startups/nurix-ai-acquires-verloopio-to-expand-enterprise-ai-platform-nid-241449-cid-19.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.watch.impress.co.jp/docs/news/2124158.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://hackernoon.com/from-automation-to-autonomous-operations-designing-trustworthy-ai-infrastructure-for-enterprise-ai",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://news.yahoo.co.jp/articles/b168a0cd4a1a675ba9c245ede670163651705a0c",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.watch.impress.co.jp/docs/news/2124127.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://finance.biggo.jp/podcast/d247f3e3d476af9b",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://finance.biggo.jp/podcast/0b4fedc8b218499e",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://news.nicovideo.jp/watch/nw19530131",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://bizzine.jp/article/detail/13325",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://gigazine.net/news/20260710-google-alphaevolve-generally-available/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.dreamnews.jp/press/0000355383",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://news.livedoor.com/pr_topics/detail/31791500/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.watch.impress.co.jp/docs/news/2124119.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://longbridge.com/news/292241336",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://innovatopia.jp/ai/ai-news/112930/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.msn.com/en-us/news/technology/one-week-with-claude-code-automating-my-desktop-taught-me-more-about-my-own-workflow-than-years-of-optimization/ar-AA27Baq3",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://enterprisezine.jp/article/detail/24660",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://finance.biggo.jp/news/f88749b4-d197-4071-8cfb-aef5328de29d",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://trak.in/stories/whatsapp-launches-free-ai-agent-for-businesses-automation-cust-support-more/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://prtimes.jp/main/html/rd/p/000000069.000103307.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://xn--q9ji3c6d676qnnlo0fgmgrr6k.com/2026/07/10/news-25618/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://voix.jp/business-cards/smbc-elyza-ai-automation/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.digitaltoday.co.kr/jp/view/80321/wegofair-to-run-seoul-ai-hub-2026-ai-transformation-ax-support-programme",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.gamemeca.com/en/view.php?gid=1777651",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://prtimes.jp/main/html/rd/p/000000929.000032321.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.digitaltoday.co.kr/jp/view/80318/cursor-developing-general-purpose-ai-agent-sand-to-compete-with-anthropic-claude-cowork",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://news.livedoor.com/pr_topics/detail/31790785/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.etnownews.com/technology/openai-rolls-out-chatgpt-work-to-automate-workplace-tasks-as-ai-race-heats-up-article-155036345",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000179/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://plus-web3.com/media/latestnews_1000_9814/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.nst.com.my/amp/business/corporate/2026/07/1484975/openai-unveils-long-awaited-super-app-rivalry-anthropic",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://it.impress.co.jp/articles/-/29564",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://japan.cnet.com/release/31187145/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.excite.co.jp/news/article/Dprp_138600/image/1/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://news.livedoor.com/pr_topics/detail/31789474/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://prtimes.jp/main/html/rd/p/000000279.000002500.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.digitaltoday.co.kr/jp/view/80230/openai-launches-chatgpt-work-evolves-into-work-partner",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://tech-noisy.com/2026/07/10/openai-chatgpt-work-gpt-5-6-agent/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://finance.biggo.com/news/5ef37262-0c71-4cd6-87e3-21c3824280e6",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://finance.biggo.jp/news/5ef37262-0c71-4cd6-87e3-21c3824280e6",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.taisei.co.jp/about_us/wn/2026/260710_11011.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://gagadget.com/en/717976-openai-launches-chatgpt-work-an-ai-agent-for-automating-real-jobs/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://cursor.com/changelog",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://newsdig.tbs.co.jp/articles/withbloomberg/2792949?display=1",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://finance.biggo.com/news/63ad15a1-455c-4d41-b1cb-0bd1974512e5",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://finance.biggo.jp/news/63ad15a1-455c-4d41-b1cb-0bd1974512e5",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://aws.amazon.com/blogs/gametech/building-an-ai-game-testing-agent-with-amazon-bedrock/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://forbesjapan.com/articles/detail/100614",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://piyolog.hatenadiary.jp/entry/2026/07/10/082142",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.msn.com/en-us/money/news/anthropic-s-claude-code-just-set-off-alarms-in-china/ar-AA27B1ra",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.reuters.com/business/openai-launches-chatgpt-work-2026-07-09/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2607/10/news052.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.indexbox.io/blog/openai-launches-chatgpt-work-an-enterprise-tool-for-automating-workplace-tasks/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://japan.zdnet.com/article/35250403/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://simplywall.st/ja/stocks/us/tech/nyse-keys/keysight-technologies/news/01b846366c51ec33/amp",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.itmedia.co.jp/aiplus/article/limage/2607/10/2000000178/10000846",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.foxbusiness.com/technology/openai-unveils-chatgpt-work-automate-workplace-tasks-ai-race-intensifies",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://cryptobriefing.com/opendoor-jd-ross-ai-coding-tools/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://finance.biggo.jp/news/631fe3f7-7f4b-4bdc-8f3c-0220392d7e84",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://aws.amazon.com/blogs/opensource/building-secure-ai-agents-at-scale-introducing-loom-for-aws/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.nikkei.com/article/DGXZQOGN09CM00Z00C26A7000000/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.digitaltoday.co.kr/jp/view/80086/openai-to-end-chatgpt-atlas-browser-integrate-features-into-desktop-app",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://siliconangle.com/2026/07/09/ai-agent-startup-lyzr-reportedly-raising-100m-500m-valuation/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.usatoday.com/story/tech/news/2026/07/09/openai-chatgpt-work-ai-agent-launch/90867008007/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://openai.com/index/gpt-5-6/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://zamin.uz/en/technology/211527-meta-introduces-muse-spark-1-1-a-new-era-in-programming.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000178/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.benzinga.com/markets/private-markets/26/07/60372257/anthropics-claude-code-just-set-off-alarms-in-china",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://ascendants.in/business-stories/nexus-4-3m-seed-enterprise-ai-agents/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.firstpost.com/tech/openai-launches-chatgpt-work-with-gpt-5-6-for-ai-powered-workplace-automation-14030228.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://thenewstack.io/openai-codex-work-atlas/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/07/09/openai-launches-chatgpt-work/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://finance.biggo.com/news/fcf22b98-c4d2-47ee-8ce8-ebbd88a7774f",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://finance.biggo.jp/news/fcf22b98-c4d2-47ee-8ce8-ebbd88a7774f",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.techpluto.com/how-ai-agents-are-replacing-saas/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.devdiscourse.com/article/technology/3948061-openai-launches-chatgpt-work-adding-to-competition-for-professional-ai-tools?amp",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.coinbase.com/blog/automating-risk-model-retrain-loop-with-agentic-skills",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.ibm.com/think/perspectives/what-ai-driven-enterprise-operating-model-looks-like",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://mezha.net/jp/bukvy/ccff95e7_openai_launches_chatgpt/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://fintech.global/2026/07/09/agentic-ai-targets-the-friction-automation-cant-fix/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://ffnews.com/news/expensify-launches-ai-driven-expense-automation-and-real-time-spend-insights",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.trendhunter.com/amp/trends/AI-orchestration-platforms",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.streetinsider.com/MarketMediaWire/Orix+AI+Secures+%243M+Backing+to+Build+the+Fastest+On+Chain+AI+Agent+Infrastructure/26751946.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.bitget.com/amp/news/detail/12560605498186",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://nerdbot.com/2026/07/09/how-to-run-ai-agents-in-production-using-agentic-infrastructure/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://theaiinsider.tech/2026/07/09/vercel-ceo-guillermo-rauch-details-ai-agent-strategy-as-coding-and-internal-automation-emerge-as-key-use-cases/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.explosion.com/199477/openclaw-ai-agent-now-has-ios-and-android-apps/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.publickey1.jp/blog/26/javascriptbunclaude_fable_511zigrustclaude.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://towardsdatascience.com/loop-engineering-for-hierarchical-retrieval-reading-a-long-document-by-its-table-of-contents/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://news.yahoo.co.jp/articles/74489426842afba1d808935592f32df691636692",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.cxtoday.com/ai-automation-in-cx/the-contact-center-ai-governance-gap-is-costing-you-successkpi/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.businesswire.com/news/home/20260709330028/en/Wrike-Introduces-Conversational-AI-Agent-Builder-Alongside-a-Series-of-Platform-Updates",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "http://www.excite.co.jp/news/article/Prtimes_2026-07-09-70006-23/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.nojitter.com/contact-centers/5-numbers-showing-how-contact-centers-use-ai",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.trefis.com/stock/now/articles/605475/the-ai-agent-shake-up-which-software-stocks-survive/2026-07-09",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://gihyo.jp/article/2026/07/flint",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.cxtoday.com/ai-automation-in-cx/frontier-ai-is-getting-more-powerful-but-cx-may-need-an-uber-not-a-boeing/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://streamlinefeed.co.ke/news/code-with-claude-architect-level-strategies",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://inews.zoombangla.com/alteryx-agent-studio-autonomous-agents-mcp/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.unite.ai/future-junior-engineer-ai-feedback-loops/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.startuphub.ai/ai-news/claudes-corner/2026/claudes-corner-traversal-yc-w2026",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.streetinsider.com/PRNewswire/Observe.AI+Featured+as+Leading+on+the+CMP+Prism+for+VoicebotConversational+IVR+Showcasing+Capability+in+Customer+Contact+and+CX+Technology/26749700.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.technadu.com/friendly-fire-exploit-reveals-risks-in-ai-code-reviews/630633/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://nymag.com/intelligencer/article/the-all-or-nothing-vibe-shifts-of-the-ai-industry.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.nikkei.com/article/DGXZQOUA096WD0Z00C26A7000000/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.zaikei.co.jp/article/20260709/860537.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://dxmagazine.jp/news/trytoda2627-30re-11/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://ffnews.com/news/eltropy-launches-ai-agent-marketplace-for-750-credit-unions-and-community-banks",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.mk.co.kr/jp/business/12094705",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://quasa.io/media/tiktok-agentic-hub-empowers-creators-with-autonomous-ai-tools",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
       "url": "https://cybersecuritynews.com/cyber-ai-agents-hijacked/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://news.nicovideo.jp/watch/nw19526348",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://blogs.itmedia.co.jp/business20/2026/07/plcdcs_ai.html",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://mshale.com/5f69af3f/8c2c5ad8_GiyHHkDVJw",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://online.logi-biz.com/147311/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/09/2000000175/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://www.bigtechnology.com/p/openais-plans-for-its-new-chatgpt",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://www.geeky-gadgets.com/claude-code-configuration-guide/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://www.unite.ai/claude-sonnet-5-review/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://community.nasscom.in/communities/application/agentic-ai-enterprise-workflows-risks-and-opportunities",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://stocktwits.com/news-articles/markets/equity/ibm-stock-plummets-on-anthropic-new-ai-cobol-threat/cZRMG8IR4yy",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://biz.chosun.com/jp/jp-industry/2026/07/09/PE2KGUJMU5BF3M3LSFNH4MSPLM/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://www.technobezz.com/news/openai-launches-gpt-56-with-three-models-and-a-new-chatgpt-work-agent",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://www.simplilearn.com/top-artificial-intelligence-career-choices-and-ai-key-skills-article",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://news.nicovideo.jp/watch/nw19533197",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://www.moneycontrol.com/news/trends/perplexity-enters-the-race-to-build-the-ultimate-ai-coder-to-challenge-claude-code-and-codex-13969774.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://www.techrepublic.com/article/news-anthropic-claude-code-ai-agent-governance-risk/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://response.jp/article/2026/07/09/413810.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://venturebeat.com/orchestration/enterprise-ai-is-entering-an-evaluation-gap-agents-are-gaining-autonomy-faster-than-companies-can-verify-them",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-901956",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://www.hostinger.com/my/tutorials/best-ai-sales-tools/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.analyticsinsight.net/news/zuckerberg-breaks-3-year-silence-on-x-to-launch-metas-new-ai-model",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://applemagazine.com/mac-mini-local-ai-agents-apple-silicon/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://finance.biggo.jp/news/d965cfdc-86f7-46ee-8c61-b53e0ecb22b0",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.gadgetreview.com/useful-tools-to-build-ai-agents-without-code-in-n8n",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.basenor.com/blogs/news/grok-4-5-explained-real-world-use-cases-and-whats-new",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.developer-tech.com/news/developers-face-rce-via-claude-code-auto-mode-exploit/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://zenn.dev/grooves/articles/d0e1a182138ab0",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://blockonomi.com/kraken-embraces-ai-powered-agents-to-transform-cryptocurrency-trading-experience/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.techtarget.com/searchcio/feature/Fully-automated-companies-What-CIOs-need-to-know-about-the-future-of-automation",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.hostinger.com/ca/tutorials/how-to-send-email-in-claude/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.sahmcapital.com/news/content/chatgpt-goes-from-assistant-to-employee-as-openai-launches-workplace-ai-agent-2026-07-09",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.techbuzz.ai/articles/kraken-launches-ai-agent-trading-in-major-crypto-platform-shift",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://zenn.dev/kamo78/articles/kaji-guarded-loop-engineering",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://itbrief.asia/story/human-in-the-loop-is-the-industry-s-most-comfortable-lie",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://aijourn.com/the-role-of-ai-agents-in-2026/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://cryptorank.io/news/feed/71a9c-jensen-huang-reveals-how-ai-agents-are-redefining-the-role-of-software-engineers",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://businessday.ng/technology/article/heres-why-openais-chatgpt-work-signals-the-next-phase-of-the-ai-race/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://news.yahoo.co.jp/articles/fec0a26e9a31bfbbc1ff37199f78d0c23335884c",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://techiexpert.com/best-ai-agents/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://zenn.dev/xtm_blog/articles/9b7fa5f94eae28",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "http://www.excite.co.jp/news/article/Prtimes_2026-07-10-47565-74/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "http://www.excite.co.jp/news/article/Prtimes_2026-07-10-32321-929/image/1/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.geeky-gadgets.com/gpt-5-6-model-release/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "http://www.excite.co.jp/news/article/Prtimes_2026-07-10-59156-89/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.docswell.com/s/harinezumi/K3J9JJ-2026-07-10-202543",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://techbullion.com/ai-agents-looping-leaking-crashing-systems-vatsal-soin-doctrine-latest-invention-disciplines-swarm/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.ibm.com/think/insights/why-skills-are-emerging-across-agentic-universe",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://inc42.com/buzz/openai-launches-gpt-5-6-chatgpt-work-to-take-on-claude-cowork-microsoft-copilot/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.watch.impress.co.jp/docs/news/2124327.html",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.geeky-gadgets.com/chatgpt-for-work-guide/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://ja.laodong.vn/cong-nghe/openai-ra-mat-chatgpt-work-huong-toi-sieu-ung-dung-ai-tren-may-tinh-1733189.ldo",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.ptinews.com/story/business/fronseye-ships-major-apragya-ai-release-chat-to-build-ai-native-erp-and-multi-agent-orchestration-on-one-platform/3848652",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://zenn.dev/sonicgarden/articles/682b080ec34a37",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://finance.biggo.jp/news/69c0570f-af5b-4333-9fc1-d7375663def8",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://m.thewire.in/article/ptiprnews/fronseye-ships-major-apragya-ai-release-chat-to-build-ai-native-erp-and-multi-agent-orchestration-on-one-platform",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://businessreport.co.za/companies/2026-07-10-why-south-africas-advanced-ai-voice-bots-so-easily-become-polite-high-tech-roadblocks/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.aicerts.ai/news/uber-pods-showcase-agentic-business-automation/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.technology.org/2026/07/10/openai-chatgpt-work-gpt-5-6-agent-launch/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://memeburn.com/what-is-agentic-ai/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://gigazine.net/news/20260710-brave-bat-roadmap-4/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://news.nicovideo.jp/watch/nw19531998?news_ref=watch_20_nw19526255",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.watch.impress.co.jp/docs/news/2124363.html",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.watch.impress.co.jp/docs/news/2124364.html",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://coinedition.com/jensen-huang-reveals-how-ai-agents-are-redefining-the-role-of-software-engineers/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://cisoseries.com/cybersecurity-news-interpols-global-fraud-sweep-chinas-claude-code-flag-old-github-account-tricks/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.panewslab.com/ja/articles/019f4a2a-5a07-75ef-952a-7c12e4ccf359",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.watch.impress.co.jp/docs/news/2124354.html",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.creativevillage.ne.jp/category/crv_event/177648/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.watch.impress.co.jp/docs/news/2124335.html",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://news.aibase.com/news/29528",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.nextbigfuture.com/2026/07/fastnetmon-launches-netomics-a-self-hosted-routing-intelligence-platform.html",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.manilatimes.net/2026/07/10/tmt-newswire/pr-newswire/medical-ai-ecosystem-innovation-forum-and-imedloop-global-medical-imaging-data-platform-launch-held-in-beijing/2382233",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://it.impress.co.jp/articles/-/29570",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://openai.com/index/gpt-5-6/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.watch.impress.co.jp/docs/news/2124330.html",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://in.mashable.com/tech/111821/what-is-chatgpt-work-openai-launches-new-ai-agent-powered-by-gpt-56",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://news.livedoor.com/article/detail/31794111/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://news.livedoor.com/topics/detail/31794111/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.lifehacker.jp/article/2607-claude-fable-5-writer-review/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.openpr.com/news/4573617/enterprise-ai-agent-adoption-market-driven-by-workflow",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://qiita.com/Koukyosyumei/items/3bd4696237ea64c38971",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.businessleague.in/openai-launches-chatgpt-work-autonomous-ai-agent-powered-by-gpt-5-6-debut/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://news.nicovideo.jp/watch/nw19531287",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.gizbot.com/artificial-intelligence/chatgpt-work-explained-how-openai-new-agent-can-automate-workflows-build-websites-127273.html",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://straitsresearch.com/report/ai-orchestration-market",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://nealle-dev.hatenablog.com/entry/2026/07/10/165619",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.hokkaido-np.co.jp/article_photo/list/?article_id=1335981&pid=15608098",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.varindia.com/news/openai-unveils-chatgpt-work-and-gpt-5-6-ai-models-to-automate-complex-enterprise-tasks",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://itbrief.co.uk/story/umbraco-launches-automate-with-ai-workflow-controls",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.watch.impress.co.jp/docs/news/2124271.html",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://news.aibase.com/news/29523",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://voix.jp/business-cards/reze-weborca-integration-launch/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.watch.impress.co.jp/docs/news/2124266.html",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://enterpriseai.economictimes.indiatimes.com/news/industry/openai-unveils-chatgpt-work-a-game-changer-in-professional-ai-tools/132305423",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.watch.impress.co.jp/docs/news/2124240.html",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://response.jp/article/img/2026/07/10/413869/2226331.html",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://response.jp/article/2026/07/10/413869.html",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.advertimes.com/20260710/article550194/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://aismiley.co.jp/ai_news/claude-image-generation/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://qiita.com/tatsuya582/items/88508215a8e22b169166",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000017.000133022.html",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.watch.impress.co.jp/docs/news/2124198.html",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://itbrief.com.au/story/australian-firms-rush-ai-adoption-amid-rising-risks",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://dailytimes.com.pk/1520736/openai-launches-chatgpt-work-for-workplace-automation/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://news.nicovideo.jp/watch/nw19530529",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.helpnetsecurity.com/2026/07/10/aws-agentic-ai-erp-automation/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.watch.impress.co.jp/docs/news/2124180.html",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://plus-web3.com/media/latestnews_1000_9810/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.siliconindia.com/news/startups/nurix-ai-acquires-verloopio-to-expand-enterprise-ai-platform-nid-241449-cid-19.html",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.watch.impress.co.jp/docs/news/2124158.html",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://hackernoon.com/from-automation-to-autonomous-operations-designing-trustworthy-ai-infrastructure-for-enterprise-ai",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.storyboard18.com/digital/openai-launches-chatgpt-work-expands-ai-agents-for-workplace-productivity-103769.htm",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://news.yahoo.co.jp/articles/b168a0cd4a1a675ba9c245ede670163651705a0c",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.watch.impress.co.jp/docs/news/2124127.html",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://finance.biggo.jp/podcast/d247f3e3d476af9b",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://finance.biggo.jp/podcast/0b4fedc8b218499e",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://news.nicovideo.jp/watch/nw19530131",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://bizzine.jp/news/detail/13325",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://gigazine.net/news/20260710-google-alphaevolve-generally-available/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.dreamnews.jp/press/0000355383",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://aismiley.co.jp/ai_news/ai-ocr-guide/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://news.livedoor.com/pr_topics/detail/31791500/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://longbridge.com/news/292241336",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://innovatopia.jp/ai/ai-news/112930/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.msn.com/en-us/news/technology/one-week-with-claude-code-automating-my-desktop-taught-me-more-about-my-own-workflow-than-years-of-optimization/ar-AA27Baq3",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://news.yahoo.co.jp/articles/50b216c19d2c5c732f05e15547c46170a854ae8a/images/000",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://enterprisezine.jp/news/detail/24660",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://finance.biggo.jp/news/f88749b4-d197-4071-8cfb-aef5328de29d",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://trak.in/stories/whatsapp-launches-free-ai-agent-for-businesses-automation-cust-support-more/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000069.000103307.html",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://xn--q9ji3c6d676qnnlo0fgmgrr6k.com/2026/07/10/news-25618/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.digitaltoday.co.kr/jp/view/80321/wegofair-to-run-seoul-ai-hub-2026-ai-transformation-ax-support-programme",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000929.000032321.html",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.gamemeca.com/en/view.php?gid=1777651",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.digitaltoday.co.kr/jp/view/80318/cursor-developing-general-purpose-ai-agent-sand-to-compete-with-anthropic-claude-cowork",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://news.livedoor.com/pr_topics/detail/31790785/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.moomoo.com/ja/news/post/72739486/gpt-5-6-joins-forces-with-chatgpt-to-launch-a",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.etnownews.com/technology/openai-rolls-out-chatgpt-work-to-automate-workplace-tasks-as-ai-race-heats-up-article-155036345",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/aiplus/article/2607/10/2000000179/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://plus-web3.com/media/latestnews_1000_9814/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.nst.com.my/amp/business/corporate/2026/07/1484975/openai-unveils-long-awaited-super-app-rivalry-anthropic",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.smartcompany.com.au/artificial-intelligence/openai-chatgpt-work-ai-agent-gmail-slack-google-drive/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://it.impress.co.jp/articles/-/29564",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://japan.cnet.com/release/31187145/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.excite.co.jp/news/article/Dprp_138600/image/1/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://news.livedoor.com/pr_topics/detail/31789474/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://prtimes.jp/main/html/rd/p/000000279.000002500.html",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.digitaltoday.co.kr/jp/view/80230/openai-launches-chatgpt-work-evolves-into-work-partner",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.straitstimes.com/world/united-states/openai-unveils-long-awaited-super-app-as-rivalry-with-anthropic-intensifies",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://finance.biggo.com/news/5ef37262-0c71-4cd6-87e3-21c3824280e6",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://finance.biggo.jp/news/5ef37262-0c71-4cd6-87e3-21c3824280e6",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://tech-noisy.com/2026/07/10/openai-chatgpt-work-gpt-5-6-agent/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.msn.com/en-us/news/technology/these-small-claude-code-hooks-turned-my-assistant-into-something-i-actually-wanted-to-keep/ar-AA272zs8",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.taisei.co.jp/about_us/wn/2026/260710_11011.html",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://gagadget.com/en/717976-openai-launches-chatgpt-work-an-ai-agent-for-automating-real-jobs/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://topics.smt.docomo.ne.jp/article/tbs_bb/business/tbs_bb-2792949",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2607/10/news042.html",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://finance.biggo.com/news/63ad15a1-455c-4d41-b1cb-0bd1974512e5",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://finance.biggo.jp/news/63ad15a1-455c-4d41-b1cb-0bd1974512e5",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/gametech/building-an-ai-game-testing-agent-with-amazon-bedrock/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://finance.biggo.com/podcast/0b4fedc8b218499e",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://japan.zdnet.com/article/35250410/2/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://piyolog.hatenadiary.jp/entry/2026/07/10/082142",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://forbesjapan.com/articles/detail/100614",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.reuters.com/business/openai-launches-chatgpt-work-2026-07-09/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2607/10/news052.html",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://japan.zdnet.com/article/35250403/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.geo.tv/latest/672386-openai-unveils-ai-agent-to-complete-work-tasks-across-apps",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://simplywall.st/ja/stocks/us/tech/nyse-keys/keysight-technologies/news/01b846366c51ec33/amp",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.itmedia.co.jp/aiplus/article/limage/2607/10/2000000178/10000846",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.foxbusiness.com/technology/openai-unveils-chatgpt-work-automate-workplace-tasks-ai-race-intensifies",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://cryptobriefing.com/opendoor-jd-ross-ai-coding-tools/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/opensource/building-secure-ai-agents-at-scale-introducing-loom-for-aws/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.ibm.com/think/perspectives/what-ai-driven-enterprise-operating-model-looks-like",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://towardsdatascience.com/loop-engineering-for-hierarchical-retrieval-reading-a-long-document-by-its-table-of-contents/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.unite.ai/future-junior-engineer-ai-feedback-loops/",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://www.startuphub.ai/ai-news/claudes-corner/2026/claudes-corner-traversal-yc-w2026",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
       "url": "https://hackernoon.com/you-dont-need-temporal-yet-durable-execution-for-ai-agents-in-150-lines",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://bizzine.jp/news/detail/13317",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://digital-construction.jp/news/3742",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://analyticsindiamag.com/ai-news/nurix-ai-acquires-verloopio-expanding-ai-agents-across-voice-and-chat",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.rieti.go.jp/jp/columns/a01_0813.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.automation-news.jp/2026/07/106243/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://prtimes.jp/main/html/rd/p/000000011.000062955.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://cloud.watch.impress.co.jp/docs/news/2123491.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://gigazine.net/news/20260709-gitlost/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://ai.watch.impress.co.jp/docs/news/2123817.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://mshale.com/bb2d62f6/eb3c00ceC0o3NlUKdlcVWjg",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://news.nicovideo.jp/watch/nw19525470",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://mshale.com/1bed264a/7cc0aacdwgeF7uQLf8w",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.ctc-g.co.jp/keys/event/20260729-Claude",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://mshale.com/6f86da3c/cf47e2a1HRs8NV0UeisfFFU",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://prtimes.jp/main/html/rd/p/000000045.000035950.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://newscast.jp/smart/news/8469861",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.j-cast.com/news/provider/atPress_news/613272",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://gihyo.jp/article/2026/07/coding-agent-loop-design-with-claude-code",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://ai.watch.impress.co.jp/docs/news/2123775.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.vietnam.vn/ja/robot-ai-va-drone-make-in-vietnam-se-trinh-dien-tai-vcca-2026",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://biz.chosun.com/jp/jp-industry/2026/07/09/OBI2MTLNRNAN3E3IS2UQZN5VEE/?outputType=amp",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://mshale.com/2c7f3a59/318ea26cn88etKuP6Zg",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://robotstart.info/article/2026/07/09/382126.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "http://www.excite.co.jp/news/article/Prtimes_2026-07-09-144572-4/image/1/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://cybersecuritynews.com/claude-code-cursor-and-codex-trigger/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://news.nicovideo.jp/watch/nw19524577?news_ref=watch_20_nw19212958",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://ai-market.jp/technology/claude-code-security-review/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.sbbit.jp/article/cont1/185980",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://voix.jp/business-cards/multibook-ai-invoice-automation/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://finance.biggo.jp/news/70836465-6197-4c45-b393-fab30d0fd1a5",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.dreamnews.jp/press/0000355163",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://voix.jp/business-cards/kensetsu-ai-lab-launch/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://news.yahoo.co.jp/articles/dfb9098ead75828770f359602ec99b263008df17",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.dreamnews.jp/press/0000355159",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://news.livedoor.com/pr_topics/detail/31780047/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.manilatimes.net/2026/07/09/tmt-newswire/pr-newswire/ust-partners-with-anthropic-to-bring-claude-into-usts-platforms-engineering-and-operations-and-train-20000-ust-employees-globally/2381297",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://mobile.x.com/search?lang=cs&src=imger&q=Advanced%20execution%20klydexglobal%20exchange%20optimizes%20strategy%20deployment%20efficiency.pym",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://career-research.mynavi.jp/column/20260709_112500/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://prtimes.jp/main/html/rd/p/000000023.000070006.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://prtimes.jp/main/html/rd/p/000000035.000114743.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.itmedia.co.jp/business/articles/2607/09/news022.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.mk.co.kr/jp/business/12094046",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://creators.bengo4.com/entry/2026/07/09/084206",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://prtimes.jp/main/html/rd/p/000000264.000015843.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://mshale.com/58a88919/4c9c8a3bXEMSUlQ8XzchFzQ",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://findy-code.io/media/articles/comm-magnolia_k_",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://finance.biggo.jp/news/b12308f63dd8c48a",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://techmymoney.com/2026/07/08/claude-cowork-mobile-lets-you-direct-anthropics-ai-agent-from-your-phone/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2607/09/news057.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://www.coinbase.com/blog/automating-risk-model-retrain-loop-with-agentic-skills",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
       "url": "https://www.rswebsols.com/news/seo-analysis-5-insights-gained-from-deploying-ai-agents-in-all-search-scenarios/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://ai.watch.impress.co.jp/docs/serial/dojo/2123223.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.sbbit.jp/article/st/185985",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
       "url": "https://anymindgroup.com/blog/shopee-summit-hkcn/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://hackernoon.com/how-your-agents-produce-code-is-more-valuable-than-the-code-itself",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://hackernoon.com/7-8-2026-techbeat",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
       "url": "https://developer.nvidia.com/blog/create-a-langchain-deep-agents-harness-profile-for-nvidia-nemotron-3-ultra-to-improve-performance/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://cloudwars.com/innovation-leadership/microsoft-frontier-company-inside-microsofts-2-5-billion-bet-on-enterprise-ai/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.theglobeandmail.com/investing/markets/markets-news/ACCESS%20Newswire/3182848/hestia-insight-and-escher-ai-enter-strategic-partnership-to-develop-enterprise-ai-tools-for-capital-markets/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
       "url": "https://weddings.lavenderhotels.co.uk/chinas-panic-claude-code-proves-losing-ai-dev-war",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
       "url": "https://www.oreilly.com/radar/why-ai-coding-agents-still-need-clear-specs/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
+    },
+    {
+      "url": "https://streamlinefeed.co.ke/news/why-data-domain-and-distribution-defeat-pure-ai-models",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
       "url": "https://www.analyticsinsight.net/artificial-intelligence/common-ai-agent-performance-problems-and-how-to-fix-them",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
       "url": "https://www.startuphub.ai/ai-news/artificial-intelligence/2026/teaching-ai-agents-to-master-spreadsheets",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
       "url": "https://analyticsindiamag.com/ai-features/openais-codex-breakthrough-heralds-a-new-era-in-chip-design",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
       "url": "https://nl.mashable.com/cybersecurity/13208/soon-90-of-software-will-ship-without-a-human-in-the-loop-this-ceo-wants-you-excited-not-scared",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://finance.biggo.com/news/5e453fba0fcb4b88",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
       "url": "https://medium.datadriveninvestor.com/stop-treating-ai-like-software-start-treating-it-like-your-best-employee-997dace9eeb9",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
       "url": "https://finance.biggo.com/news/3376e869-ac42-4b54-b1d7-46e940a03372",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
       "url": "https://medium.com/@adnanmasood/notes-on-cybersecuritys-machine-speed-future-d982bea387d2",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
       "url": "https://siliconangle.com/2026/07/07/ai-agents-reshape-infrastructure-coreweaveverarubin/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://www.ibm.com/think/perspectives/radical-application-development-delivery-model-built-for-agent-native-engineering",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
       "url": "https://www.fastcompany.com/91569569/ai-learning-loops-governance-issue",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
       "url": "https://developer.nvidia.com/blog/nvidia-vera-cpu-boosts-ai-factory-throughput-to-accelerate-agentic-workloads/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
       "url": "https://www.earth.com/news/ai-agents-bring-a-steep-energy-cost-beyond-ordinary-chatbots/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
       "url": "https://www.eejournal.com/article/the-dawn-of-agentic-ai-super-agents/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
       "url": "https://www.techtimes.com/articles/319617/20260707/enterprise-ai-agents-stall-login-not-reasoning-deployment-gap.htm",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
       "url": "https://www.ababnews.com/news/f2658dbb-9b74-4067-9305-ee3664cb40f9",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
       "url": "https://www.storyboard18.com/digital/us-cyber-agency-deploys-anthropic-ai-to-hunt-vulnerabilities-in-government-code-103406.htm",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
       "url": "https://www.timesnownews.com/technology-science/what-is-loop-engineering-coursera-co-founder-says-it-can-make-ai-build-better-apps-article-154954766",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
       "url": "https://www.storyboard18.com/how-it-works/google-brain-co-founder-andrew-ng-says-ai-wont-replace-developers-explains-loop-engineering-103402.htm",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
       "url": "https://timesofindia.indiatimes.com/technology/tech-news/after-laying-off-8000-employees-meta-ceo-mark-zuckerberg-admits-at-town-hall-that-ai-agents-had-not-progressed-as-quickly-as-expected-and-top-executives-miscalculated-/articleshow/132178264.cms",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
       "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-brain-cofounder-writes-an-open-letter-on-loop-engineering-the-term-made-viral-by-claude-creator-who-said-that-coding-is-dead/articleshow/132230526.cms",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
       "url": "https://drillingcontractor.org/generative-ai-agents-reduce-manual-labor-in-extraction-digitalization-of-mud-report-data-78857",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
       "url": "https://www.kdnuggets.com/data-scientists-are-becoming-ai-managers-not-model-builders",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
       "url": "https://federalnewsnetwork.com/sponsored-content/2026/07/how-to-build-agentic-ai-you-can-safely-rely-on/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
       "url": "https://bdtechtalks.com/2026/07/06/nvidia-aspire-self-improving-robotic-framework/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
       "url": "https://weddings.lavenderhotels.co.uk/anatomy-agentic-finance-regulators-losing-ai-arms-race",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
       "url": "https://aimultiple.com/agentic-frameworks",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
       "url": "https://nai500.com/blog/2026/07/10-china-ai4science-stocks-after-mgi-s-physical-ai/",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
       "url": "https://zenn.dev/karamage/articles/5b7fbabcb04da6",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
-      "url": "https://www.benningtonbanner.com/online_features/press_releases/mgi-tech-and-shanghai-ai-laboratory-unveil-protopilot-and-biolab-bench-pioneering-physical-ai-for/article_0023dd74-f962-5156-8c01-a811a096f67e.html",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "url": "https://www.fidelity.com/news/article/default/202607052307PR_NEWS_USPR_____CN98139",
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     },
     {
       "url": "https://note.com/r_kaga/n/n12bc279182d6",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
-    },
-    {
-      "url": "https://hackernoon.com/7-5-2026-newsletter",
-      "seen_at": "2026-07-11T21:39:32.011596+00:00"
+      "seen_at": "2026-07-12T21:39:04.700473+00:00"
     }
   ]
 }
