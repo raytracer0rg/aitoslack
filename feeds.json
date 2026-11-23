@@ -1,23 +1,598 @@
 {
-  "generated_at": "2026-11-22T00:44:48.369986+00:00",
+  "generated_at": "2026-11-23T01:11:28.022112+00:00",
   "default_freshness_window_hours": 72,
-  "item_count": 249,
+  "item_count": 165,
   "region_counts": {
-    "overseas": 114,
-    "japan": 135
+    "overseas": 91,
+    "japan": 74
   },
   "items": [
     {
-      "id": "6ae1f97158d33dd3",
-      "title": "Matchmakers say more tech workers fear romantic espionage after the Jensen Huang scandal; an AI companion app pitches \"zero espionage\" executive girlfriends (Wired)",
-      "url": "https://www.techmeme.com/261121/p11#a261121p11",
-      "url_resolved": true,
-      "published_at": "2026-11-22T00:10:02+00:00",
+      "id": "d5451bbee7c7f163",
+      "title": "Molex、2027年に向けたコネクティビティとエレクトロニクスに関する主要予測を発表：AI、シミュレーションファース - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iUnZacmxjYXhqclZCb3gtOXhUOUdfSkNoNnYtcENmblNrYlBsdG9Pb0tsLTB1NUhYRkh6ZGpKbnN3aDNsWm9HSzVzUlc3c2EtZEpnaE40YVdhYVNrSU9VUFZfbmN1dW9uOEItY2ZKX3dZLXdVVGc?oc=5",
+      "url_resolved": false,
+      "published_at": "2026-11-23T01:00:26+00:00",
       "published_at_confirmed": true,
-      "age_hours": 0.6,
+      "age_hours": 0.2,
+      "region": "japan",
+      "sources": [
+        "Google News (JA) - AI 自動化"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "fcf561a4c476cd18",
+      "title": "Sources: Jay Clayton, director of national intelligence and AI czar, will also be acting national cyber director pending Kirsten A. Davies' Senate confirmation (Axios)",
+      "url": "https://www.techmeme.com/261122/p15#a261122p15",
+      "url_resolved": true,
+      "published_at": "2026-11-23T00:55:00+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 0.3,
       "region": "overseas",
       "sources": [
         "Techmeme"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "4b17d2928a38689e",
+      "title": "A profile of siblings Dario and Daniela Amodei; while at OpenAI, Dario suggested immersive videogames might ease political strife from AI-induced joblessness (Wall Street Journal)",
+      "url": "https://www.techmeme.com/261122/p14#a261122p14",
+      "url_resolved": true,
+      "published_at": "2026-11-23T00:45:01+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 0.4,
+      "region": "overseas",
+      "sources": [
+        "Techmeme"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "f3b46f6e994f484d",
+      "title": "Sources: Alice Huang was in touch with an officer of China's spy agency MSS from spring 2025 until this fall; her business partner Kang Wei also worked with MSS (New York Times)",
+      "url": "https://www.techmeme.com/261122/p13#a261122p13",
+      "url_resolved": true,
+      "published_at": "2026-11-23T00:30:02+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 0.7,
+      "region": "overseas",
+      "sources": [
+        "Techmeme"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "71ca4c580399fab3",
+      "title": "Googleの脅威分析組織GTIG、脆弱性の発見・悪用をAIで完全自動化する攻撃者を初確認 - Ledge.ai",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jbm1zX2lXaWxDTEJKQ3RhODA5VjBhamUtY2hjaHBqUVdoMnVsY05ma1dydlY4emR1cWh6VEpxQVdTTWZaTUJKSlBYajk0MnhPV255S1JVMFg2dHdsZU95ck5MQlBybW5kZlE?oc=5",
+      "url_resolved": false,
+      "published_at": "2026-11-23T00:07:08+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 1.1,
+      "region": "japan",
+      "sources": [
+        "Google News (JA) - AI 自動化",
+        "Google News (JA) - Claude/ChatGPT 自動化"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "fe226dfa38c52cca",
+      "title": "Rokid、75gのARグラス「Rokid Max 2」を本格展開 69800円",
+      "url": "https://www.watch.impress.co.jp/docs/news/2153983.html",
+      "url_resolved": true,
+      "published_at": "2026-11-23T00:00:00+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 1.2,
+      "region": "japan",
+      "sources": [
+        "Impress Watch"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "559138f2f43e20a0",
+      "title": "J.S. Held、フィジカルAIに関する請求や紛争に多分野の専門知識を活用 - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02TUlHdnNpb0FwdDA1WmFNWU1ZWlVOQUhiM2NpM1g4cmd4R0w3VjhQS1VHeXNNbUU3OC1EVmhnX0U3WExXYkhsOUFKaFcxWU1NV1E2Yk11WDZYeTJwczZlOS1uRHA5QWx3MXhDX2VEMXJEUml5cU13?oc=5",
+      "url_resolved": false,
+      "published_at": "2026-11-22T23:25:58+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 1.8,
+      "region": "japan",
+      "sources": [
+        "Google News (JA) - AI 自動化"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "bcb637d3df08cd73",
+      "title": "How Dario Amodei built Anthropic's tightly knit culture with essays, Slack memos, and \"Vision Quest\" talks, as Anthropic seeds his ideas with opinion-makers (Nitasha Tiku/Washington Post)",
+      "url": "https://www.techmeme.com/261122/p12#a261122p12",
+      "url_resolved": true,
+      "published_at": "2026-11-22T23:20:08+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 1.9,
+      "region": "overseas",
+      "sources": [
+        "Techmeme"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "055339f900167ca0",
+      "title": "Basic International Launches AI SyncOps Studio - THE ELEC, Korea Electronics Industry Media",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43TEg5MUZZQ0tMajBSVkVVUW9nX2k1OHBxN1NBOGRSZmQ2RXhXSDVNWUI3Yl9UUFJFd1E3VGdYSFkzVkFVRXNkaGhpRGl3bUtLZ3pFNGVRM2NkMXFvbThXV3p5dE1yWE0?oc=5",
+      "url_resolved": false,
+      "published_at": "2026-11-22T23:04:39+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 2.1,
+      "region": "overseas",
+      "sources": [
+        "Google News (EN) - AI agent automation"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "4533561b5e3750f0",
+      "title": "AI時代の業務改革は「自動化」ではなく「再設計」から始めよ ただ仕事を速くしても、新たな価値は生まれない | ビジネススキル - DIAMOND ハーバード・ビジネス・レビュー",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OVTVjblRKSTNGTXVnamIxZ0liMnJxajNOR0ZxV1ItUnJaaEpFN2tydm5vVXM3cExxQm9NUkJleGxLYndldHp5NWNkdC1OODNUM3c?oc=5",
+      "url_resolved": false,
+      "published_at": "2026-11-22T21:00:00+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 4.2,
+      "region": "japan",
+      "sources": [
+        "Google News (JA) - AI 自動化"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "06822d6f41288b4e",
+      "title": "After FAA, Microsoft, and bank outages, DNI Jay Clayton says Americans should prepare for \"bumps in the road\" as systems are upgraded to adapt to the AI age (Garrett Downs/CNBC)",
+      "url": "https://www.techmeme.com/261122/p11#a261122p11",
+      "url_resolved": true,
+      "published_at": "2026-11-22T20:35:00+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 4.6,
+      "region": "overseas",
+      "sources": [
+        "Techmeme"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "60d3c0d46531d520",
+      "title": "A week after urging an Nvidia shake-up, Scott Bessent says Jensen Huang's return should depend on probes of its China chip sales and presses Nvidia for answers (Alan Rappeport/New York Times)",
+      "url": "https://www.techmeme.com/261122/p10#a261122p10",
+      "url_resolved": true,
+      "published_at": "2026-11-22T19:50:01+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 5.4,
+      "region": "overseas",
+      "sources": [
+        "Techmeme"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "506966128b56a3df",
+      "title": "OpenAI shares its models' perplexity, or how well they predict data, and urges pacing limits based on such metrics, citing a possible 2027 avalanche of AI gains (Jakub Pachocki/OpenAI)",
+      "url": "https://www.techmeme.com/261122/p9#a261122p9",
+      "url_resolved": true,
+      "published_at": "2026-11-22T18:25:01+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 6.8,
+      "region": "overseas",
+      "sources": [
+        "Techmeme"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "9527c1e272743daa",
+      "title": "組込みスマートカメラ市場2035年展望：産業オートメーションのエッジAI採用が成長を促進 - ニュースと統計 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUS1XRG9WMXp5ZFpxRjBZX2tkZ2ZXMUJQU3Q0V2FEZTBwRzk1NnZzamR2dXlZMERsY2tfRzZBd0RDaFJvMF9NdDNSakFKWEpYQXdSUm5XU1hvXzRBNG1tOTZmRFN4dFRUejNpNFN6U2dNNEliUUp0dG95T05fVVdDeC1EbWU5OGoxTG1Pb0ZsMXBnV2h3TVNFenFDT0paY1o4QVl3OVlFUExDcU5KQ0JHU3J1R3BwSXJ3cnVHV1RJMkQ3MzBGNUlFMTlYUWZTcGtjUlFuRQ?oc=5",
+      "url_resolved": false,
+      "published_at": "2026-11-22T18:21:05+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 6.8,
+      "region": "japan",
+      "sources": [
+        "Google News (JA) - AI 自動化"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "95b04ae9060022fa",
+      "title": "Sources: amid leak fears, Anthropic limited some IPO banks to four-person teams, used a view-logging file platform, and sought six-month bans on advising rivals (Reuters)",
+      "url": "https://www.techmeme.com/261122/p8#a261122p8",
+      "url_resolved": true,
+      "published_at": "2026-11-22T17:15:01+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 7.9,
+      "region": "overseas",
+      "sources": [
+        "Techmeme"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "a655f334c4a3d6a3",
+      "title": "AI agents vs physical AI: How software automation differs from embodied robotics - Interesting Engineering",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYnVLUWl2Q2VORFhtS29pOU5IM3lnTW1jV1RfTGJvQmFrbkNLRDMtajgwVnNkQ0VJUk9CVkNNQjJaZGxrQWR1cjBCSy05TnJ1amlqVkY2VEFjc1ZscUZDVTAwS2t4LVhXZE8tczBXWm9FYy05Ui1wQXJTWHJkSW9HYlRpZ19TTHVnVUxRNUlsT2tPeGxzcVdqbHdrVGtOMEJ0emhORV9vZmZaMkk?oc=5",
+      "url_resolved": false,
+      "published_at": "2026-11-22T15:54:00+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 9.3,
+      "region": "overseas",
+      "sources": [
+        "Google News (EN) - AI agent automation"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "337c7251bbf6e284",
+      "title": "Senators Warn AI Cyber Threats Outpace U.S. Defenses - Wisevoter",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZWxfOFVaMlJNcEVKZnF4VG8zOFhEdTdyT2hJanlDYTh5NEJLazhZWmUyT3BvMWpqd01wdVFfb2R2NTBRamZMTXlYRUZtaVA1Rlg4MWFyRGFibzNQMVhmbER1bUpyYVA1X0lxeFFhLXhuZWdUekFoNWJadnZEQXYwcGNfdU93SEhwNGJKa3FxNmlyWkd2N21N?oc=5",
+      "url_resolved": false,
+      "published_at": "2026-11-22T15:18:47+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 9.9,
+      "region": "overseas",
+      "sources": [
+        "Google News (EN) - Claude/ChatGPT automation"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "2aea8c75ee81af03",
+      "title": "Jony Ive, ex-OpenAI product designer Joey Flynn, and others on Silicon Valley's obsession with \"taste\" as a moat against AI slop and whether AI can learn it (Jonah Weiner/New York Times)",
+      "url": "https://www.techmeme.com/261122/p7#a261122p7",
+      "url_resolved": true,
+      "published_at": "2026-11-22T15:00:34+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 10.2,
+      "region": "overseas",
+      "sources": [
+        "Techmeme"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "235a732a548cd93e",
+      "title": "Pharos Network Launches Native Staking Workbench in Anvita Mate, Enabling Automated $PROS Reward Compounding - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPc1duRWVmeENyLVgyXzZUOEJYWUNEWXdDVG1vX1pndklTQm5hYWlKRmRheVpiaHM4VjBEUzFrMk9WSlBKTFRhVkpVZTNaRUFpR21DN1FkeGZmTUhVcXpXT0R3c2g1TXZ0TWtDaTlCbDNwc1lGaDZlVDBMcmI0dHAxT2J5X1Nodnk2d3ZWY3Z3Y0NJamVhYjQzNVJmLU14eWt2Tl9aT1g1V1pxNHdHUHc0S2hGTGVKcEdtZFZLSmhxNzRJWm13UWFOWFpSbjlqTG5mTjQ4aUh1ZzRad0VhYmVreDBBT1V4dWdrSUNhYlpWQmdLTjN1bHI3VVhn?oc=5",
+      "url_resolved": false,
+      "published_at": "2026-11-22T14:05:24+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 11.1,
+      "region": "overseas",
+      "sources": [
+        "Google News (EN) - Claude/ChatGPT automation"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "d41156014e008f70",
+      "title": "2026年11月21日をもって世界はシンギュラリティに突入した｜たてはま",
+      "url": "https://note.com/cgbeginner/n/n5856d402f125",
+      "url_resolved": true,
+      "published_at": "2026-11-22T13:51:31+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 11.3,
+      "region": "japan",
+      "sources": [
+        "はてブ - AIエージェント"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "bcb50c2ed869e255",
+      "title": "【Claudeが示す落とし穴】AIが賢くなるほど、人間の判断は怪しくなる - ThinkIT",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9qMFk1ZVAtcXRaaVdZWm05V1ZHSm1vLVJWRWNxX1owZEpJUDdnU1dNcDhSSFJhMmY4MG5CbXFNaWN3UE9wQmdyVXdZRQ?oc=5",
+      "url_resolved": false,
+      "published_at": "2026-11-22T11:56:05+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 13.3,
+      "region": "japan",
+      "sources": [
+        "Google News (JA) - Claude/ChatGPT 自動化"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "c7c8bce9e196f5be",
+      "title": "10月の日本狙ったサイバー攻撃、前年同月比82％増 背景にAIによる自動化 対策急務 - cedarnews.net",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOMkFnMVhadUt6MlJKT3d3ZVMxSDZjbnh0SjRPMHZ3a04wcXBFX1dFQmVoVW5yMnhDVW1kZFh1bjdmaTFqSFRLaWJISXhaYTctb2dKNXhVbEhqQU41ZTlQdXZ0el9rR2lsQlYzc3pTNTdONUJ1Tmo4b1NOYzlpVy1zdnZPbHg3Z05tS2lwbkxuVkdvUmxaMTVKQlQxYVljRUNLRUNQbGZRTmFibmVmX1U1N1BmTWlaLTV6NzBiUmhmNFBfT2h3bGNFZEdaTVF0U1d6Vzdma0pRYllsR1ktUHRmaUpJaUlmZ0FpNnYzZ2dyYS1Ncm9ScE4xUXJwZTJCbVkzRDVVRTBTSC1qdlQ5aG9PdUdWQ1VMM1RiT0Y1VGJCX3dTRjBmb0dVeTUtanlWLXdrdjVaUUxUcF9vdlZFd1hNQXM4RlRtVzAzbVlYall6UDBBZDQ?oc=5",
+      "url_resolved": false,
+      "published_at": "2026-11-22T11:48:28+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 13.4,
+      "region": "japan",
+      "sources": [
+        "Google News (JA) - AI 自動化"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "e8237aee7f3d4419",
+      "title": "Banks Ban AI Agents, Shift Bot Liability to Customers - The Tech Buzz",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRDZBQW5HbXlmVDFtemQwNHhpaUNZZExQQnV0b0N6T2xNWHAwYVJtYTRubUZsLTdBejBFa0VIZDcwQVFsRmJTdnEtOXQ0Sm1lWUdhcng5T25EcmlldF9jak1tNGFYV1JwWmdtd0ZXNWNKRTFSc2g3V1A1NUg1djAwZEdtcjRpUU9fVUlFUjJ3?oc=5",
+      "url_resolved": false,
+      "published_at": "2026-11-22T11:33:36+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 13.6,
+      "region": "overseas",
+      "sources": [
+        "Google News (EN) - AI agent automation"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "2e405418fba598ab",
+      "title": "Wells Fargo warns customers that third-party AI agents are used at their own risk - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5yM3lrclZ4aEtQQ1dnT1dDNkNhWC1EWmNlamJnNjJPQ1ZZblZTdGhvUlNUNmlQYkdCbzhDa09ZSWxNZDVuTWNuMDA2ZjBuRll1REFKMjl3SWJmNHpPbHVNU2VKTkxPLTJqdHVfdlZYeTdsdGZ3?oc=5",
+      "url_resolved": false,
+      "published_at": "2026-11-22T11:09:07+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 14.0,
+      "region": "overseas",
+      "sources": [
+        "Google News (EN) - AI agent automation"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "56733cf1d3a0da0d",
+      "title": "Banks Have Had It Up to Here With Your AI Agent - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pUy1ObG9vc0x4SEwtc2xRdFNzNldlekRzdXZhOTNWZnByOUh2TzRsUEI2dWhiM2Y3cmZEZGZrQ1RBLUx5VDhreGo5YW1GRVZtZnNlNmlRSjFvRlFkcnlwZFEtYnJFOUZ3SWxrYlZfWG5ka3c?oc=5",
+      "url_resolved": false,
+      "published_at": "2026-11-22T11:00:00+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 14.2,
+      "region": "overseas",
+      "sources": [
+        "Google News (EN) - AI agent automation"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "ddbaada282bf9116",
+      "title": "Experts say AI has made planning cyberattacks on industrial equipment faster by helping attackers read manuals and research past accidents more quickly (Tom Wilson/Financial Times)",
+      "url": "https://www.techmeme.com/261122/p6#a261122p6",
+      "url_resolved": true,
+      "published_at": "2026-11-22T11:01:10+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 14.2,
+      "region": "overseas",
+      "sources": [
+        "Techmeme"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "21fb9b50e3ce619d",
+      "title": "10月の日本狙ったサイバー攻撃、前年同月比82％増 背景にAIによる自動化、対策急務 - 産経ニュース",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84TXdhRUtqdU9pNGRNLWFLYnVvU0xDLXotdkpscEdNTmhTaWdGUzhWazJSbkhVa1h6TEp2VEFfOFMwejZ1UnN3WVV4bmJfRnIyZ0l5U2FPeG1OOVh4WHcyM0s0MERNdVFSUEUwVHFRbFdockZfS3c?oc=5",
+      "url_resolved": false,
+      "published_at": "2026-11-22T11:00:00+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 14.2,
+      "region": "japan",
+      "sources": [
+        "Google News (JA) - AI 自動化"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "2b6938abba5bd70b",
+      "title": "Current and former officials from the US and other countries describe the Chinese spy agency MSS' campaign to help Chinese companies acquire advanced AI chips (New York Times)",
+      "url": "https://www.techmeme.com/261122/p5#a261122p5",
+      "url_resolved": true,
+      "published_at": "2026-11-22T07:00:41+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 18.2,
+      "region": "overseas",
+      "sources": [
+        "Techmeme"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "e5f20b63d3bba2c4",
+      "title": "Tesla rolls out FSD v15, featuring a photorealistic rendering of car surroundings; Elon Musk says it is real-time AI video generation without using game engines (Mike Pearl/Gizmodo)",
+      "url": "https://www.techmeme.com/261122/p4#a261122p4",
+      "url_resolved": true,
+      "published_at": "2026-11-22T06:40:16+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 18.5,
+      "region": "overseas",
+      "sources": [
+        "Techmeme"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "7e3b71cb3c448f29",
+      "title": "A joint statement by the Lean and Mathlib communities says \"we have full confidence that Alpöge's proof of the Riemann Hypothesis is correct\" (Lean community blog)",
+      "url": "https://www.techmeme.com/261122/p3#a261122p3",
+      "url_resolved": true,
+      "published_at": "2026-11-22T06:00:02+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 19.2,
+      "region": "overseas",
+      "sources": [
+        "Techmeme"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "42932917391d3aee",
+      "title": "Sources: AI server suppliers like Dell, HPE, Lenovo, and Supermicro are demanding substantially higher prices from buyers, months after contracts were signed (Financial Times)",
+      "url": "https://www.techmeme.com/261122/p2#a261122p2",
+      "url_resolved": true,
+      "published_at": "2026-11-22T05:50:01+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 19.4,
+      "region": "overseas",
+      "sources": [
+        "Techmeme"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "9ad037baa2eb54bd",
+      "title": "Sources: Alice Huang associate Li Ming, whom Singapore charged with fraud in 2025, was central to smuggling restricted AI chips from Southeast Asia to China (Stu Woo/Wall Street Journal)",
+      "url": "https://www.techmeme.com/261122/p1#a261122p1",
+      "url_resolved": true,
+      "published_at": "2026-11-22T05:45:01+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 19.4,
+      "region": "overseas",
+      "sources": [
+        "Techmeme"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "bc9f4ef0415b6377",
+      "title": "Fake AI websites mimic ChatGPT, Gemini and Claude in malware threat - Bangkok Post",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdFVhVFNpUGhzMW1XTUYxTTU3eUJtX1NuLXBqSjJMNjZvWG01YmNZYkowWk1WT2lTVjZoUzEzVTQ0NkV2MG1Tdi1tZ3daZllveW8za1ZzdTFpYzNsTVAzcWN4cVZOT0dmVmk1eXBTM0Zib04wUGx2dm5pS2Z2VjdxTWVrMXdnamEyYVlFNDY5RmFTX3pfM2kzd0dhYVF3em9aSmdWZkJCaURjYlFRR21JZy1n?oc=5",
+      "url_resolved": false,
+      "published_at": "2026-11-22T03:28:00+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 21.7,
+      "region": "overseas",
+      "sources": [
+        "Google News (EN) - Claude/ChatGPT automation"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "7b2df9b92d0605e4",
+      "title": "How to Use Siri Shortcuts in iOS 27 (iPhone & Mac) - Fello AI",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OeUN4ZVF4ek9uYkRINTZ1MU5KOHJGQzFwOTNDUDJmSm9rSUxMdGN1ak9yeTdPcE5waXNUSUwzcDFzOUxyVnQ1eHNXazFvWEVtaW14dHE5NmxJZw?oc=5",
+      "url_resolved": false,
+      "published_at": "2026-11-22T03:15:01+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 21.9,
+      "region": "overseas",
+      "sources": [
+        "Google News (EN) - Claude/ChatGPT automation"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "461a3634a36e0045",
+      "title": "OpenAIが、自動購入が可能なAI搭載ウォレット「ChatGPT Wallet」を発表。 - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX2h6S3E0SENyRmxiWmhLVm9oendEdTBWcW5GZjBDeVlEWjlRck9ucmZrN2ZBLWZrTkxMeXFPMS0wcWE4WVVUYTVnbTJrNjRhX1ZJRmJKVThjNkhpNENMa2NzbW1zbkRScDI1NWFFMWtjbEF3SGszWmRmTEVGbkwzd2JR?oc=5",
+      "url_resolved": false,
+      "published_at": "2026-11-22T03:14:32+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 21.9,
+      "region": "japan",
+      "sources": [
+        "Google News (JA) - Claude/ChatGPT 自動化"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "9995394f36044d84",
+      "title": "MetaのAIエージェント「Muse」は何ができる？　ChatGPTやGeminiとの違い、注意点を解説",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2611/22/news005.html",
+      "url_resolved": true,
+      "published_at": "2026-11-22T02:46:03+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 22.4,
+      "region": "japan",
+      "sources": [
+        "はてブ - AIエージェント"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "a4d3bf4e2a2f0778",
+      "title": "ワークフローからハーネスへ — Web フレームワークの作者たちが AI エージェントに向かう理由",
+      "url": "https://speakerdeck.com/azukiazusa1/slide-ca142a4a-9ec4-4750-91c1-07892c44a423",
+      "url_resolved": true,
+      "published_at": "2026-11-22T01:52:45+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 23.3,
+      "region": "japan",
+      "sources": [
+        "はてブ - AIエージェント"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "1cd26f0c96dffc10",
+      "title": "AI Agents and Stablecoins Rewrite Crypto Treasury Management - OneSafe",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aTFRSUHpHUEo3NWM2TTFpMEQ5VnVzSE8wYlJ0NjA5VVVTWngtY2Y2VTRlS1l4ai1fZDdqR0xaWFJCVUlmdU5ONUloVFpEM0trRXMyVlNiQmU2REFOZ2JXV3AxdGdrZlRhX3kza3FvdVlOMFhiSWhNTA?oc=5",
+      "url_resolved": false,
+      "published_at": "2026-11-22T01:45:38+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 23.4,
+      "region": "overseas",
+      "sources": [
+        "Google News (EN) - AI agent automation"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "1a5b64067b24a186",
+      "title": "アンソロピック（ANT）株は買いか？50株保有者が決算と12月の需給・ロックアップを徹底分析 - 資産2,000万超の航海図｜端くれ投資家の奮闘記",
+      "url": "https://www.kensinhan.com/entry/2026/11/22/103504",
+      "url_resolved": true,
+      "published_at": "2026-11-22T01:35:13+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 23.6,
+      "region": "japan",
+      "sources": [
+        "はてブ - AIエージェント"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "740858978adcbdc7",
+      "title": "何枚も撮りたくなる小型カメラ「instax Pal 2」　エフェクトも豊富【ミニレビュー】",
+      "url": "https://www.watch.impress.co.jp/docs/review/minireview/2156000.html",
+      "url_resolved": true,
+      "published_at": "2026-11-22T01:00:00+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 24.2,
+      "region": "japan",
+      "sources": [
+        "Impress Watch"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "defa1710567aac55",
+      "title": "LG電子、協力会社と製造革新　自動化やAI活用を共有 - Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uaGZ4SlB6RkFDby1OaS1qbHJHVjJXTGtrTktGdU8zdE9XVjEtNENXcTMtaTFvalNXYS1uRVZ2UmRSMGNzeWNROFNkQUI4Y3p5OHNUclczcWM2dGZBV0JjRXh6NXJ5TFA0YWFMMWVWeDNDb1U2ZldteGF30gGOAUFVX3lxTE9fcHBBRnBoVG80MnFJQzFVRXg2YW5JUFo0aU9SYnEtZWNaWWgxRy1mbGNkSWpHUTR2cUQtNGl5dmJkdy16dzJrdHhXX2JDWFZYeEt1UFl1WVdpMERnaEhnYl9hVWNaclluZ2hKMXFzRkVXTzl6Qy1YcTZXcXlPRFRmQlRyV2VJY18yQ1EtYUE?oc=5",
+      "url_resolved": false,
+      "published_at": "2026-11-22T00:47:00+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 24.4,
+      "region": "japan",
+      "sources": [
+        "Google News (JA) - AI 自動化"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "62e17689bfa9bfa9",
+      "title": "Claude Code Course: Best Free & Live Paths (2026) - explainx.ai",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQUZCUjRwOUVGcFdfMzd0bVY2ZEtzWklrbTJVV3ZvbjNDQVMxbUtoWVFOMEN3YjJ0S2ZvdjRLaXpJZ2ZqTWtqeHRtYmZSd0d5OW1sei0yZ2p5dlhESFdVbUpEcXNHa0lHdUhmNnZxbk9hbjVDS0dHMTZ3OGwwVURnVEx1Zw?oc=5",
+      "url_resolved": false,
+      "published_at": "2026-11-22T00:00:00+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 25.2,
+      "region": "overseas",
+      "sources": [
+        "Google News (EN) - Claude/ChatGPT automation"
       ],
       "already_posted": false
     },
@@ -28,7 +603,7 @@
       "url_resolved": true,
       "published_at": "2026-11-22T00:00:00+00:00",
       "published_at_confirmed": true,
-      "age_hours": 0.7,
+      "age_hours": 25.2,
       "region": "japan",
       "sources": [
         "Impress Watch"
@@ -42,52 +617,10 @@
       "url_resolved": true,
       "published_at": "2026-11-21T23:30:00+00:00",
       "published_at_confirmed": true,
-      "age_hours": 1.2,
+      "age_hours": 25.7,
       "region": "japan",
       "sources": [
         "Impress Watch"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "d8c76f0679684701",
-      "title": "米ロックウェルが構想する人間中心の「自律化」、次世代製造業を導くAI戦略（MONOist） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uQ2RVUG1aQTVoVXo4TmhUaXFxWmRwTUQ3c1Q5ZkdNX3pKSnpmTFRRTmNnZWRRRGYyZnBxSHI1TVBSOU1fcklHS1BZc1UxUWlrRnJfb05tWkxoNmllZUtUOU1fWXN4LUZRRE1jLUNjT0I5cGxFUTZtS2ZGY2tjdk0?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-21T22:33:23+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 2.2,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "3dd7a7bbcd3e8a67",
-      "title": "Researchers used canary credentials in requests to AI routers like OpenRouter and Vercel, even under \"ZDR\" policies, and saw \"privacy\" often broken, keys stolen (Dan Goodin/Ars Technica)",
-      "url": "https://www.techmeme.com/261121/p10#a261121p10",
-      "url_resolved": true,
-      "published_at": "2026-11-21T20:10:02+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 4.6,
-      "region": "overseas",
-      "sources": [
-        "Techmeme"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "0415091494dfb0e9",
-      "title": "Investigation: Alice Huang had ties to gaming firms, alleged Prince Group figures and hundreds of shell companies in a network moving Nvidia chips to China (Financial Times)",
-      "url": "https://www.techmeme.com/261121/p9#a261121p9",
-      "url_resolved": true,
-      "published_at": "2026-11-21T18:55:01+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 5.8,
-      "region": "overseas",
-      "sources": [
-        "Techmeme"
       ],
       "already_posted": false
     },
@@ -98,7 +631,7 @@
       "url_resolved": false,
       "published_at": "2026-11-21T18:47:49+00:00",
       "published_at_confirmed": true,
-      "age_hours": 5.9,
+      "age_hours": 30.4,
       "region": "overseas",
       "sources": [
         "Google News (EN) - AI agent automation"
@@ -106,27 +639,13 @@
       "already_posted": false
     },
     {
-      "id": "be683bcf1332e6c2",
-      "title": "How to deploy a website from your IDE: Four methods - Hostinger",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVm4teXRyc0doYTE5U3picG5heTBBM1JGbnR6dlhqb0xjMGV3aHRkSXVRaWpocjNuOXhqa20xNzE4M1NIUXdqeFdDMHVMdVdaci00a2ZYdWZ1R1B1clNjNm9XdXJfQ214U0kza2FJUFpTTjhUd3pFLXVOQ0dhc1V3bkt4NA?oc=5",
+      "id": "d2fd67fc2c6818e6",
+      "title": "HyperWrite – AIライティングアシスタント、予測オートコンプリートとウェブリサーチ - quasa.io",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZnZBNXRUem1fQ2dQV3lkemU0QVJ2VWl4emdqSXZzWnRaSFJYQ0t0SXdxVF9ZMFRfRnRId18ybHRMS3UwNnZEYlN6a3hpeVJSSmlpWWs2dmt1ZHNnclNsR3N2SW9YLWljcjBoT3FwN2o3THVVOUVzQmF1SnZJWUZKV18zMGRLRkRJYnEyRC1HRXBLRXNEWEE?oc=5",
       "url_resolved": false,
-      "published_at": "2026-11-21T18:38:16+00:00",
+      "published_at": "2026-11-21T18:01:25+00:00",
       "published_at_confirmed": true,
-      "age_hours": 6.1,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - Claude/ChatGPT automation"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "422ae69551fb63af",
-      "title": "Daydream – AIファッションショッピングエージェント、好みに合わせた検索とバーチャル試着 - quasa.io",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMUNmZVRfWkp5QXdfQmhzMElURUR6RkM2LXlIcGFTVFBDbFdWamRhZDc4d3ZoWFJzZzJkWnFfZFBFcDRwamFvTzZhNnZabVZQRTl4a3RYLTc4dFFkck1KYWVRWXdqUFBSVUg0ZXRuUnJGeWJmV0wwV1RYeWJyNEt0bmQzVFREOWpuMzM2YmVSWGowTU9IR0pwTndKU1Y5bEc2UFJfV1VtUHV5ODZTVzFwNk5VRk43Zw?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-21T18:12:27+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 6.5,
+      "age_hours": 31.2,
       "region": "japan",
       "sources": [
         "Google News (JA) - AI 自動化"
@@ -134,16 +653,16 @@
       "already_posted": false
     },
     {
-      "id": "9f38c56d5dd11566",
-      "title": "Sources: Amazon is nearing a $7.5B deal to buy AI startup Decart; talks are at an advanced stage and a deal could come together as soon as next week (Financial Times)",
-      "url": "https://www.techmeme.com/261121/p8#a261121p8",
-      "url_resolved": true,
-      "published_at": "2026-11-21T17:55:01+00:00",
+      "id": "0bd2333dc5ae5391",
+      "title": "Rogo – 金融業務、調査の自動化、財務モデリングのためのAIプラットフォーム - quasa.io",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONkhDZDF2a0lmNnh5cV9aa205SzJicEVJd29aZS0tNHJDd1N5MEZiZUtZczdkLUZyWGxZLWI0SjNWSk1LVjltMURUNnEyaVg5RjNJMmd2UzdpOWJSZUE2b19TcFRhcGJYS1E4LVNuQ0dUQkZxZ0I0dDhBX2liT0IzeFNWeUM3THByZFZ2X1pabHVyODhKY1Jzb0cxUnNhaUhhXzlpTUYxREw4bmNlRlE?oc=5",
+      "url_resolved": false,
+      "published_at": "2026-11-21T17:49:46+00:00",
       "published_at_confirmed": true,
-      "age_hours": 6.8,
-      "region": "overseas",
+      "age_hours": 31.4,
+      "region": "japan",
       "sources": [
-        "Techmeme"
+        "Google News (JA) - AI 自動化"
       ],
       "already_posted": false
     },
@@ -154,7 +673,7 @@
       "url_resolved": false,
       "published_at": "2026-11-21T17:02:46+00:00",
       "published_at_confirmed": true,
-      "age_hours": 7.7,
+      "age_hours": 32.1,
       "region": "overseas",
       "sources": [
         "Google News (EN) - AI agent automation"
@@ -168,7 +687,7 @@
       "url_resolved": false,
       "published_at": "2026-11-21T16:52:32+00:00",
       "published_at_confirmed": true,
-      "age_hours": 7.9,
+      "age_hours": 32.3,
       "region": "overseas",
       "sources": [
         "Google News (EN) - AI agent automation"
@@ -176,44 +695,16 @@
       "already_posted": false
     },
     {
-      "id": "597ded8ad16e6b3d",
-      "title": "ChatGPT Self Updating Documents Upgrade: What to Know Now - TechnoSports Media Group",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xOF9TMUN0QUo0ZUowYUdIU1JKUW1hdDFpSkg4T1V4V0cxZWNqTFdJcWY3RkNjNEN4Y0tpRVFfeTQyX1dmV1Iwc1VabU41eHppbDQ3Z0U2cXZtczR3LVF1MXg1aDlpa0x6LTZsYklJWU5YM2ZhT3c?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-21T15:12:15+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 9.5,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - Claude/ChatGPT automation"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "b8408f5a7e63816f",
-      "title": "Rhodium: China's biggest tech companies are set to double capex to $139B in 2026 with AI lab revenue under 8% of it, a gap that may matter more than chip curbs (New York Times)",
-      "url": "https://www.techmeme.com/261121/p7#a261121p7",
+      "id": "e5c6f4a922ed59a7",
+      "title": "[AI-Driven Modernization] 既存コードからAIエージェント向けの仕様書を起こす「Reverse Spec Flow」を公開しました | Amazon Web Services",
+      "url": "https://aws.amazon.com/jp/blogs/news/aidm-introducing-reverse-spec-flow/",
       "url_resolved": true,
-      "published_at": "2026-11-21T15:10:01+00:00",
+      "published_at": "2026-11-21T12:08:39+00:00",
       "published_at_confirmed": true,
-      "age_hours": 9.6,
-      "region": "overseas",
+      "age_hours": 37.0,
+      "region": "japan",
       "sources": [
-        "Techmeme"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "d475c8f2609f40de",
-      "title": "Top 10 Best AI Customer Service Platforms In 2026 - Nubia Magazine!",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LY1lHTUpLX2VFdWxucXU4cmcyM19Fdzh6VEN1UU94R2oyeXQzd2s4ZkdqRGp1bks5WmxPMEpVblZaclFmUlppSkpkMzV2OU0tRUpJcmVnSFNTb3UzV25ma0VlYzRYWTZDc1VmNHlob0h0dw?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-21T14:36:00+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 10.1,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - AI agent automation"
+        "はてブ - AIエージェント"
       ],
       "already_posted": false
     },
@@ -224,7 +715,7 @@
       "url_resolved": false,
       "published_at": "2026-11-21T12:00:00+00:00",
       "published_at_confirmed": true,
-      "age_hours": 12.7,
+      "age_hours": 37.2,
       "region": "overseas",
       "sources": [
         "Google News (EN) - AI agent automation"
@@ -238,24 +729,10 @@
       "url_resolved": false,
       "published_at": "2026-11-21T12:00:13+00:00",
       "published_at_confirmed": true,
-      "age_hours": 12.7,
+      "age_hours": 37.2,
       "region": "overseas",
       "sources": [
         "Google News (EN) - Claude/ChatGPT automation"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "ba752b2ae480fd99",
-      "title": "An interview with Google DeepMind in-house philosopher Henry Shevlin on being hired to work on machine consciousness, human-AI relationships, and AGI readiness (Cristina Criddle/Financial Times)",
-      "url": "https://www.techmeme.com/261121/p6#a261121p6",
-      "url_resolved": true,
-      "published_at": "2026-11-21T11:30:01+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 13.2,
-      "region": "overseas",
-      "sources": [
-        "Techmeme"
       ],
       "already_posted": false
     },
@@ -266,7 +743,7 @@
       "url_resolved": true,
       "published_at": "2026-11-21T11:00:00+00:00",
       "published_at_confirmed": true,
-      "age_hours": 13.7,
+      "age_hours": 38.2,
       "region": "japan",
       "sources": [
         "Impress Watch"
@@ -280,7 +757,7 @@
       "url_resolved": false,
       "published_at": "2026-11-21T10:48:10+00:00",
       "published_at_confirmed": true,
-      "age_hours": 13.9,
+      "age_hours": 38.4,
       "region": "overseas",
       "sources": [
         "Google News (EN) - Claude/ChatGPT automation"
@@ -294,24 +771,10 @@
       "url_resolved": true,
       "published_at": "2026-11-21T10:08:07+00:00",
       "published_at_confirmed": true,
-      "age_hours": 14.6,
+      "age_hours": 39.1,
       "region": "japan",
       "sources": [
         "Impress Watch"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "924f06ba7b1399d8",
-      "title": "\"We decided to publish on the day of Anthropic's IPO\": SendPulse hosted its own MCP server on the official Claude marketplace - dev.ua",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT0RHTTBWOUtIN0M1Z2psaENsN09XUnBJM2JIYURxYTFqb29OM0JBZmJ6LXdweWkxSW1mMjF0b3RCMjFKYnRCT0NvUlpJcmNXTF8wYlhHZTZVQ0plaGV3dU55X1hGREVrRWh6SjhJWlROd1dITjhySm5GYXJCT0hJQjJoTGRSQm1MdXp0eTFyYVFoQXZYZ3NIQm1teEpYQU44MGVxSGpzNW1qT3c?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-21T09:38:00+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 15.1,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - Claude/ChatGPT automation"
       ],
       "already_posted": false
     },
@@ -322,7 +785,7 @@
       "url_resolved": false,
       "published_at": "2026-11-21T09:11:28+00:00",
       "published_at_confirmed": true,
-      "age_hours": 15.6,
+      "age_hours": 40.0,
       "region": "overseas",
       "sources": [
         "Google News (EN) - AI agent automation"
@@ -330,13 +793,55 @@
       "already_posted": false
     },
     {
-      "id": "1432ad303edeb89f",
+      "id": "2a5a707df3197061",
+      "title": "店舗運営をAIで強力に支援。「Leporto」が音声カルテとChatGPT・Claude連携で、記録・分析・追客を自動化 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PaWllNlNsQkNFLWVEYncwVWpONW9UWEpub3FBTTdZN1dFcVVUY3FOSndYaVRhSXA0TklUQm1YT0RZc2xUVmplRGp3ZFFvLXpMLW1pdg?oc=5",
+      "url_resolved": false,
+      "published_at": "2026-11-21T09:09:26+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 40.0,
+      "region": "japan",
+      "sources": [
+        "Google News (JA) - Claude/ChatGPT 自動化"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "a6aae82a38ed580f",
       "title": "店舗運営をAIで強力に支援。「Leporto」が音声カルテとChatGPT・Claude連携で、記録・分析・追客を自動化 - アットプレス",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05NXU2dlgtY2MtZ3BwYzA4NVVGRUpqOExxVmRIWE15bkc2N2lqQWIzUk9yclVMSzJGckZOajhiUFF5dDVvdHJFa0xhTE5QQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1S29Tc0JCVlZVeEJXMDhvZFlnRHZGWjBmQ3lrSFhqU0RhQU96QWxZSXROb0xXZHZtTjI1YlpGSXRXTFhDcVdWbXRpdVc2U0E?oc=5",
       "url_resolved": false,
       "published_at": "2026-11-21T09:00:00+00:00",
       "published_at_confirmed": true,
-      "age_hours": 15.7,
+      "age_hours": 40.2,
+      "region": "japan",
+      "sources": [
+        "Google News (JA) - AI 自動化"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "4d3facc369b2ded3",
+      "title": "予約・顧客管理システム「Leporto」がAIによる店舗運営の自動化機能を提供開始 - Jタウンネット",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0WFdIMGJqbjhhX09sRWEtSDdPZFR3dmk3cTM4QURPLXBJcVVnQzFnR2ZRbVhTbWZvbEgtRC0zOUxDT3NXeGxtOHhKNVhGQ2x0ODM3cFBlMDg4d0dW?oc=5",
+      "url_resolved": false,
+      "published_at": "2026-11-21T09:00:00+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 40.2,
+      "region": "japan",
+      "sources": [
+        "Google News (JA) - AI 自動化"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "5a4457fee65ced87",
+      "title": "店舗運営をAIで強力に支援。「Leporto」が音声カルテとChatGPT・Claude連携で、記録・分析・追客を自動化 - ライブドアニュース",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wUV84Ykl2dFNCZkt1c3dXLVRBa0dYRkhJZWk2NFdobk1uQUszUHVvcHZoXzd1bngwb1g0el9ZUC0xclJMeGlZZkNjNHN6ZEU2eDRFbkZSbVAwR3pCbVkxeS1R?oc=5",
+      "url_resolved": false,
+      "published_at": "2026-11-21T09:00:00+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 40.2,
       "region": "japan",
       "sources": [
         "Google News (JA) - AI 自動化"
@@ -350,36 +855,7 @@
       "url_resolved": false,
       "published_at": "2026-11-21T09:00:00+00:00",
       "published_at_confirmed": true,
-      "age_hours": 15.7,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化",
-        "Google News (JA) - Claude/ChatGPT 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "e159e4cdda622471",
-      "title": "店舗運営をAIで強力に支援。「Leporto」が音声カルテとChatGPT・Claude連携で、記録・分析・追客を自動化 - ライブドアニュース",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9EN0lzVGN5WnFLRkVERVFZTHhVV08wOFI3Vkw4cGktdHlFeE1PM2VxVTBnN2dvY0RzSklKSkhVZmQwdXI0c2c1eXhRRWFBUE5YWDg5M280MndJNzNZek9BRUJxWQ?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-21T09:00:00+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 15.7,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "a6aae82a38ed580f",
-      "title": "店舗運営をAIで強力に支援。「Leporto」が音声カルテとChatGPT・Claude連携で、記録・分析・追客を自動化 - アットプレス",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1S29Tc0JCVlZVeEJXMDhvZFlnRHZGWjBmQ3lrSFhqU0RhQU96QWxZSXROb0xXZHZtTjI1YlpGSXRXTFhDcVdWbXRpdVc2U0E?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-21T09:00:00+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 15.7,
+      "age_hours": 40.2,
       "region": "japan",
       "sources": [
         "Google News (JA) - Claude/ChatGPT 自動化"
@@ -387,16 +863,16 @@
       "already_posted": false
     },
     {
-      "id": "8f0efb5d6db5f85b",
-      "title": "How quantum computers built from laser-trapped atoms may correct qubit errors more easily than supercooled chips, speeding the race to a usable machine (Cade Metz/New York Times)",
-      "url": "https://www.techmeme.com/261121/p5#a261121p5",
-      "url_resolved": true,
-      "published_at": "2026-11-21T07:30:00+00:00",
+      "id": "2fd1b0862df0c7b4",
+      "title": "【画像】店舗運営をAIで強力に支援。「Leporto」が音声カルテとChatGPT・Claude連携で、記録・分析・追客を自動化 1/7 - ライブドアニュース",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LQ0lTRk9nZFBKdlBtOXMyYjQ4a2dWVWRnVEhLdEdsUEtMRGJQeUlKdmNURUt3WnBEV0dwWWE4U2tmNDNlb28yMlRqQnNlN3pheEdfdXBpeUlZT25JbUFVWGNMYnlqS1NHQ2lFQndYaUlUd0tVd05J?oc=5",
+      "url_resolved": false,
+      "published_at": "2026-11-21T09:00:00+00:00",
       "published_at_confirmed": true,
-      "age_hours": 17.2,
-      "region": "overseas",
+      "age_hours": 40.2,
+      "region": "japan",
       "sources": [
-        "Techmeme"
+        "Google News (JA) - Claude/ChatGPT 自動化"
       ],
       "already_posted": false
     },
@@ -407,7 +883,7 @@
       "url_resolved": false,
       "published_at": "2026-11-21T07:28:46+00:00",
       "published_at_confirmed": true,
-      "age_hours": 17.3,
+      "age_hours": 41.7,
       "region": "japan",
       "sources": [
         "Google News (JA) - AI 自動化"
@@ -415,55 +891,13 @@
       "already_posted": false
     },
     {
-      "id": "7c0ee6ad9024a6b7",
-      "title": "NYU's Tristan Buckmaster and Anthropic's Levent Alpöge publish an AI-aided proof of Navier-Stokes blowup, saying it closes a loophole in OpenAI's solution (Peter Hall/Scientific American)",
-      "url": "https://www.techmeme.com/261121/p4#a261121p4",
-      "url_resolved": true,
-      "published_at": "2026-11-21T06:30:00+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 18.2,
-      "region": "overseas",
-      "sources": [
-        "Techmeme"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "a05ef76a095064c5",
-      "title": "Microsoft plans to retire its To Do app on June 30, 2027, offering migration to Planner for work and school accounts, but no replacement for personal accounts (Todd Bishop/GeekWire)",
-      "url": "https://www.techmeme.com/261121/p3#a261121p3",
-      "url_resolved": true,
-      "published_at": "2026-11-21T06:10:02+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 18.6,
-      "region": "overseas",
-      "sources": [
-        "Techmeme"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "19b164adcc20ae62",
-      "title": "Industry insiders say new US export rules affect a broader range of chips, including SoCs used in consumer electronics, extending beyond advanced AI chips (Cheng Ting-Fang/Nikkei Asia)",
-      "url": "https://www.techmeme.com/261121/p2#a261121p2",
-      "url_resolved": true,
-      "published_at": "2026-11-21T06:00:55+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 18.7,
-      "region": "overseas",
-      "sources": [
-        "Techmeme"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "2aee375368b5ecf7",
-      "title": "生成AIで自社の業務を1つ自動化して帰る「もくもく会」を11月25日(水)に新宿で開催【生成AI実践会】 - イザ！",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9jb1RaUVEtQ0lQLXBGQVRNa1MtRnhqSTF3bzJPY0V0MjZLUm5QX2tZTVBMZWJKdnhSeWEzNmkzelZNUjVwdUI1alBxRHJPbUs1SEU5N0xiMDJVTm9wV2RuVmx5VFhpRUxpSDBBMi12dVM1cmt0RkZoXzVn?oc=5",
+      "id": "9a78fd7aa2e9e9d8",
+      "title": "生成AIで自社の業務を1つ自動化して帰る「もくもく会」を11月25日(水)に新宿で開催【生成AI実践会】 - ZDNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5INzZoWHIzMFpudXlTNXhjd1JKUzRJa3h2LXdkY2YzQ3EtSVF2Ym9SSS1SNnZ4MzRKNWowQ1F3YzVkWWhTTjRJbXhYMFI2QUhrU2NF?oc=5",
       "url_resolved": false,
       "published_at": "2026-11-21T06:00:00+00:00",
       "published_at_confirmed": true,
-      "age_hours": 18.7,
+      "age_hours": 43.2,
       "region": "japan",
       "sources": [
         "Google News (JA) - Claude/ChatGPT 自動化"
@@ -471,58 +905,16 @@
       "already_posted": false
     },
     {
-      "id": "e732c2068f76b20e",
-      "title": "Ubisoft launches Motherbrain, a subsidiary focused on developing \"smart NPCs with memory and AI game masters that manage large-scale systemic worlds\" (Sophie McEvoy/GamesIndustry.biz)",
-      "url": "https://www.techmeme.com/261121/p1#a261121p1",
-      "url_resolved": true,
-      "published_at": "2026-11-21T05:15:00+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 19.5,
-      "region": "overseas",
-      "sources": [
-        "Techmeme"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "3b8008ed0da4803e",
-      "title": "Digital.Marketing Featured on Adweek for Its AI-Driven Approach to Modern Marketing Agencies - Macau Business",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZmdMeFFoZkgwQUZJX0c5SFhpZjZtR04yS1R4LWtIN0RCQ3hFYlZBVXQ0YUtvbnIxT2V2UDk0NDYyWkRXRWRkd3o1ZVd6WS1DRUdpZWwwLWhiYTV0aVJmd19YUk5MQkpzQTJGVXBiU2tORm1BNXJUM3pRZEE3Z1BEY0FkaXdYMTlHLUdMdWVHYUdlYVVjZG1GbzdRdW1sUktFUHZFU3UwZUdSdHBDNEFxX3IzRzlxUFptRWhV?oc=5",
+      "id": "17554535f15bc26f",
+      "title": "Companies lack the human talent to oversee AI agent proliferation - CX Dive",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYklRZDhMc2VuNkhWRFFud215Mlc3d1B4SWFrM0t2LUpTYnA0SkJPYl9fYVF6TW5kVi1XNkNfU3Y5UVplX2NYT2JtUHVWMmlOV2JFWUZwMG1qSUR5REVtaFhJTXdNV2xXdWJvVUxpX09aaGxrQVo5cDl0SFNtbzA4UUNuckVuOXozVkFOSkh5djZPT2xpb3FqdXNscEg?oc=5",
       "url_resolved": false,
-      "published_at": "2026-11-21T03:09:59+00:00",
+      "published_at": "2026-11-21T01:43:58+00:00",
       "published_at_confirmed": true,
-      "age_hours": 21.6,
+      "age_hours": 47.5,
       "region": "overseas",
       "sources": [
         "Google News (EN) - AI agent automation"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "c3b4303013a0580f",
-      "title": "Sources: Masayoshi Son recently explored a possible $1T buyout of SK Hynix; SoftBank says the deal is \"no longer under active consideration\" (The Information)",
-      "url": "https://www.techmeme.com/261120/p45#a261120p45",
-      "url_resolved": true,
-      "published_at": "2026-11-21T02:45:01+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 22.0,
-      "region": "overseas",
-      "sources": [
-        "Techmeme"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "9bc1fd26918efe4f",
-      "title": "Sources: the FBI is investigating an apparent breach of its NCIC database, which is used by law enforcement to share info on warrants and background checks (Evan Perez/CNN)",
-      "url": "https://www.techmeme.com/261120/p44#a261120p44",
-      "url_resolved": true,
-      "published_at": "2026-11-21T02:35:02+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 22.2,
-      "region": "overseas",
-      "sources": [
-        "Techmeme"
       ],
       "already_posted": false
     },
@@ -533,7 +925,7 @@
       "url_resolved": false,
       "published_at": "2026-11-21T01:22:25+00:00",
       "published_at_confirmed": true,
-      "age_hours": 23.4,
+      "age_hours": 47.8,
       "region": "overseas",
       "sources": [
         "Google News (EN) - Claude/ChatGPT automation"
@@ -547,7 +939,7 @@
       "url_resolved": true,
       "published_at": "2026-11-21T01:00:00+00:00",
       "published_at_confirmed": true,
-      "age_hours": 23.7,
+      "age_hours": 48.2,
       "region": "japan",
       "sources": [
         "Impress Watch"
@@ -561,24 +953,10 @@
       "url_resolved": true,
       "published_at": "2026-11-21T00:30:00+00:00",
       "published_at_confirmed": true,
-      "age_hours": 24.2,
+      "age_hours": 48.7,
       "region": "japan",
       "sources": [
         "Impress Watch"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "9ed70ece983a5a22",
-      "title": "Oracle says it has secured funding for its infrastructure contract with OpenAI and \"any further private discussions with vendors are just additional options\" (@oracle)",
-      "url": "https://www.techmeme.com/261120/p43#a261120p43",
-      "url_resolved": true,
-      "published_at": "2026-11-21T00:25:00+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 24.3,
-      "region": "overseas",
-      "sources": [
-        "Techmeme"
       ],
       "already_posted": false
     },
@@ -589,35 +967,7 @@
       "url_resolved": false,
       "published_at": "2026-11-21T00:00:00+00:00",
       "published_at_confirmed": true,
-      "age_hours": 24.7,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - Claude/ChatGPT automation"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "268e40e525657c2d",
-      "title": "muse-protocol Repo: Muse.ai HTTP Flow, ToS Warning - explainx.ai",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN21kM2dyWmZKY2t6aG40emZma1gyUEpBRG1zNXZmbEFBQlNBd3pZeHBQTWlpVGxSZmYzZGRWMEQ4aFFSU3NnbzJQcmhUOUhjOTNqRkpNWDVpcDBpc01OTnpERXQ3LWNjYkNZUTNBM2ExLUczQ2lXX0RXUHdrb2YtTkpXdDJ1clpQZGNIdWlLY1BzQVk?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-21T00:00:00+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 24.7,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - Claude/ChatGPT automation"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "48c5441ca13fdf71",
-      "title": "WebBrain: Mozilla Local Browser Agent Guide (2026) - explainx.ai",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVG1WWHpvYzhfdnZhV0VKQVU3dk5aT0pyQUFiemJqNi1tcm8wY3QxWVJJMC1NbFF5bUVpUVE0S0t5RVJNWUtxMEthT1lTamJOLVdGNVRRbGJVUjdoQWN6RXdyWXNNRGRXc1NQdEJQSXF2RGxXR0dIMWlhTWtqWTBOV2Nua0FRWkt1dnZUMmV6bnAtMzBBdHc?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-21T00:00:00+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 24.7,
+      "age_hours": 49.2,
       "region": "overseas",
       "sources": [
         "Google News (EN) - Claude/ChatGPT automation"
@@ -631,7 +981,21 @@
       "url_resolved": false,
       "published_at": "2026-11-21T00:00:00+00:00",
       "published_at_confirmed": true,
-      "age_hours": 24.7,
+      "age_hours": 49.2,
+      "region": "overseas",
+      "sources": [
+        "Google News (EN) - Claude/ChatGPT automation"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "48c5441ca13fdf71",
+      "title": "WebBrain: Mozilla Local Browser Agent Guide (2026) - explainx.ai",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVG1WWHpvYzhfdnZhV0VKQVU3dk5aT0pyQUFiemJqNi1tcm8wY3QxWVJJMC1NbFF5bUVpUVE0S0t5RVJNWUtxMEthT1lTamJOLVdGNVRRbGJVUjdoQWN6RXdyWXNNRGRXc1NQdEJQSXF2RGxXR0dIMWlhTWtqWTBOV2Nua0FRWkt1dnZUMmV6bnAtMzBBdHc?oc=5",
+      "url_resolved": false,
+      "published_at": "2026-11-21T00:00:00+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 49.2,
       "region": "overseas",
       "sources": [
         "Google News (EN) - Claude/ChatGPT automation"
@@ -645,35 +1009,7 @@
       "url_resolved": false,
       "published_at": "2026-11-21T00:00:00+00:00",
       "published_at_confirmed": true,
-      "age_hours": 24.7,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - loop engineering"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "8eeb3fe9b0f10935",
-      "title": "Coding With AI One Year: CTO Playbook (2026) - explainx.ai",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZnRtai1xaU5nVG9pcGFiRGhqamhOTjBXamFvZ05PRWo4LWw3Mkd0c2FkTkVyYXdDdDhqVkFnYlRfdG9oR29ZU1FWazU1RXVaMHpWZWw1NDBHYUhiRjl6WDZyYU1qUF9QdDE0UmJfZmZhOEJjNVFycjhsdXlYQlV5ZHFzX21HMzRpUkRKclpwZjZtUUpIMGVpWERZZmRxU0pt?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-21T00:00:00+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 24.7,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - loop engineering"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "81825959295dedc1",
-      "title": "Sakana Applied Research Lab: Finance AI Agents (2026) - explainx.ai",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNR3dpRWJlQmduSWR1OHFFSXgwb1BkYkVXOVltVnR6TlRSelM3OUxqSVBKVXhTQU1rc0JPS3dVRzBmZzN2QXc4dTRPV3plOE1CVUlGZUVSRGJoZ1NSVTFpVWN5eFNNN1FEc0UwOW84WnBESmlvVzl3VzdaakR3Y0JMUWJ2S01mV1o4V0RrN29BOA?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-21T00:00:00+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 24.7,
+      "age_hours": 49.2,
       "region": "overseas",
       "sources": [
         "Google News (EN) - loop engineering"
@@ -687,24 +1023,10 @@
       "url_resolved": true,
       "published_at": "2026-11-21T00:00:00+00:00",
       "published_at_confirmed": true,
-      "age_hours": 24.7,
+      "age_hours": 49.2,
       "region": "japan",
       "sources": [
         "Impress Watch"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "b84c9d390c6e0f09",
-      "title": "Nasdaq 100 fell 5.6% on Friday, taking its loss for the week to 10.4%, its worst run in more than six years, amid fears of a slowdown in the AI investment boom (George Steer/Financial Times)",
-      "url": "https://www.techmeme.com/261120/p42#a261120p42",
-      "url_resolved": true,
-      "published_at": "2026-11-20T23:50:00+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 24.9,
-      "region": "overseas",
-      "sources": [
-        "Techmeme"
       ],
       "already_posted": false
     },
@@ -715,7 +1037,7 @@
       "url_resolved": false,
       "published_at": "2026-11-20T23:38:32+00:00",
       "published_at_confirmed": true,
-      "age_hours": 25.1,
+      "age_hours": 49.5,
       "region": "overseas",
       "sources": [
         "Google News (EN) - Claude/ChatGPT automation"
@@ -729,26 +1051,11 @@
       "url_resolved": true,
       "published_at": "2026-11-20T23:39:26+00:00",
       "published_at_confirmed": true,
-      "age_hours": 25.1,
+      "age_hours": 49.5,
       "region": "japan",
       "sources": [
         "はてブ - AIエージェント",
         "はてブ - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "7ecdbbe8605ed41f",
-      "title": "Digital.ai Release 26.3 integrates AI agents into enterprise delivery - TechGig",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ2VWQ29WbWEySy0xeFhJcW5yTG5xMHIzR1RpSXdIYmlvOFg0UGp3d3Bod3hBMkkxVHgyeGlJY3QzUWRsUE5JdDJlYk4ySTBuSUttWF9HZ1JFWVo3T05RSXFTUlBHejZRaWpWblpobGFwMG1pcHhXdGdZdEdjbzd6bFc3b2RIMHpvUzJOMDVoMm5nX2tjLWVXUjdJZW1ubm40ZkNGVDlrbDI4Ymc?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-20T23:35:26+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 25.2,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - AI agent automation",
-        "Google News (EN) - Claude/ChatGPT automation"
       ],
       "already_posted": false
     },
@@ -759,7 +1066,7 @@
       "url_resolved": true,
       "published_at": "2026-11-20T23:30:00+00:00",
       "published_at_confirmed": true,
-      "age_hours": 25.2,
+      "age_hours": 49.7,
       "region": "japan",
       "sources": [
         "Impress Watch"
@@ -773,7 +1080,7 @@
       "url_resolved": false,
       "published_at": "2026-11-20T23:04:44+00:00",
       "published_at_confirmed": true,
-      "age_hours": 25.7,
+      "age_hours": 50.1,
       "region": "overseas",
       "sources": [
         "Google News (EN) - Claude/ChatGPT automation"
@@ -787,7 +1094,7 @@
       "url_resolved": true,
       "published_at": "2026-11-20T22:35:55+00:00",
       "published_at_confirmed": true,
-      "age_hours": 26.1,
+      "age_hours": 50.6,
       "region": "japan",
       "sources": [
         "はてブ - AIエージェント"
@@ -801,24 +1108,10 @@
       "url_resolved": false,
       "published_at": "2026-11-20T22:04:06+00:00",
       "published_at_confirmed": true,
-      "age_hours": 26.7,
+      "age_hours": 51.1,
       "region": "japan",
       "sources": [
         "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "e7b32a8fe927c0cf",
-      "title": "How to build an agent that builds the culture — Zach Bruggeman, Ramp｜AI Engineer - finance.biggo.com",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tX0NkejJSeE1YSnNaSlZvdGd6YjBYeEFHTlNYM25Fa0tvMkFBSkwtaUtmSFk3NHNhU2p5R2ZqZ3JkdlNBUklFcWlNZE1KaE1TazNaSThwbDZYQTBhQnJJ?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-20T21:58:48+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 26.8,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - AI agent automation"
       ],
       "already_posted": false
     },
@@ -829,7 +1122,7 @@
       "url_resolved": false,
       "published_at": "2026-11-20T21:58:47+00:00",
       "published_at_confirmed": true,
-      "age_hours": 26.8,
+      "age_hours": 51.2,
       "region": "overseas",
       "sources": [
         "Google News (EN) - Claude/ChatGPT automation",
@@ -844,24 +1137,10 @@
       "url_resolved": false,
       "published_at": "2026-11-20T21:19:12+00:00",
       "published_at_confirmed": true,
-      "age_hours": 27.4,
+      "age_hours": 51.9,
       "region": "overseas",
       "sources": [
         "Google News (EN) - AI agent automation"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "793349200dfca4e0",
-      "title": "スペースデータと霞ヶ関キャピタル、物流施設の設計から運用までフィジカルAI・空間知能で高度化へ - LOGI-BIZ online",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1FblE1VkwxUWNmbmRGdU5kcHdNNXpRNlJzMzJxbHl5VjJmc2hHTkJhdWV5eFdFWGU4YjE1NFp5VHg3S3BxODNGQkpjNA?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-20T21:00:32+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 27.7,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
       ],
       "already_posted": false
     },
@@ -872,7 +1151,7 @@
       "url_resolved": false,
       "published_at": "2026-11-20T20:16:37+00:00",
       "published_at_confirmed": true,
-      "age_hours": 28.5,
+      "age_hours": 52.9,
       "region": "overseas",
       "sources": [
         "Google News (EN) - loop engineering"
@@ -886,7 +1165,7 @@
       "url_resolved": false,
       "published_at": "2026-11-20T19:43:08+00:00",
       "published_at_confirmed": true,
-      "age_hours": 29.0,
+      "age_hours": 53.5,
       "region": "overseas",
       "sources": [
         "Google News (EN) - AI agent automation"
@@ -900,7 +1179,7 @@
       "url_resolved": true,
       "published_at": "2026-11-20T19:15:18+00:00",
       "published_at_confirmed": true,
-      "age_hours": 29.5,
+      "age_hours": 53.9,
       "region": "japan",
       "sources": [
         "はてブ - AIエージェント"
@@ -914,10 +1193,24 @@
       "url_resolved": false,
       "published_at": "2026-11-20T17:18:15+00:00",
       "published_at_confirmed": true,
-      "age_hours": 31.4,
+      "age_hours": 55.9,
       "region": "japan",
       "sources": [
         "Google News (JA) - AI 自動化"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "35eb62305c74ba34",
+      "title": "Anthropic says Claude writes and reviews 90% of its team's code. The catch is how it checks the work. - The New Stack",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBubFFkd0ZmODhXb3FwN2tYNTRHT2hLbTdDZ0taWDJncU1OdTBqTmJ0eDQ0UGlfSUtTb0FLdXNtcUdncnZiMW1hc1N4ejVPWVk2SkRGajRndFRkTjExMXZwU1dZQXhEaGQteUE?oc=5",
+      "url_resolved": false,
+      "published_at": "2026-11-20T17:01:34+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 56.2,
+      "region": "overseas",
+      "sources": [
+        "Google News (EN) - Claude/ChatGPT automation"
       ],
       "already_posted": false
     },
@@ -928,7 +1221,7 @@
       "url_resolved": false,
       "published_at": "2026-11-20T16:45:26+00:00",
       "published_at_confirmed": true,
-      "age_hours": 32.0,
+      "age_hours": 56.4,
       "region": "japan",
       "sources": [
         "Google News (JA) - AI 自動化"
@@ -936,13 +1229,13 @@
       "already_posted": false
     },
     {
-      "id": "2c4d91fcbab65052",
+      "id": "23b7f413c4d7e535",
       "title": "Anthropic Researcher Warns AI Could Make Nearly All Humans Permanently Unemployable, Predicts Superhuman AI By 2027 - Wccftech",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZFVaYU02OU1fbUEzRXE4T3R2RWp1Si1acklHRGlOZ0pMN2pJRUpRUXMwMlJmRDgycXUxV2U4VnBEWVJNV3pncXVVTDZQd0ZOWTFkQzdHeDNGQVpESU5LZldlTXZySnYtMUhXakx5aWg5WWFNXzUyTDE2SkpYNmkxSGI4N2FKVEl3Z0pBcG9Yb1hLZ282SmlzcW1WRmJfTVlZTXZpUEdFeDNkUGdZWkZkTEVScENNTUFUNjFyRkM0bHJNc2VlOG90cjJjdG14Z2UtaUHSAdcBQVVfeXFMTzdMajIxNEtDaExQcExKbEIyYklVaGtxNU5xQTV2WGQ3eHFIUWJEQ05zZko5eWFnWm95ZlR0RDE1X1J0QmhQbkVWLVRlZUtqbnpDeVkwRjlYT09zTG43SkhuUjBNVFAtRzVHQzg1aDhIQ0Y5Sjk2SjRIdjBFdENaSDJ1Q2didHpQSFNOZ3pnemdDLXFrNlVDQmdlU0piRlhUVjBJNUpxT002R1BMUVZPY2x0eWx3M1JlWnUtVFd2bkR2a29aM2hmRGE0R0tIWkF5SXBFTndleHM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPN0xqMjE0S0NoTFBwTEpsQjJiSVVoa3E1TnFBNXZYZDd4cUhRYkRDTnNmSjl5YWdab3lmVHREMTVfUnRCaFBuRVYtVGVlS2puekN5WTBGOVhPT3NMbjdKSG5SME1UUC1HNUdDODVoOEhDRjlKOTZKNEh2MEV0Q1pIMnVDZ2J0elBIU05nemd6Z0MtcWs2VUNCZ2VTSmJGWFRWMEk1SnFPTTZHUExRVk9jbHR5bHczUmVadS1UV3ZuRHZrb1ozaGZEYTRHS0haQXlJcEVOd2V4c9IB1wFBVV95cUxPN0xqMjE0S0NoTFBwTEpsQjJiSVVoa3E1TnFBNXZYZDd4cUhRYkRDTnNmSjl5YWdab3lmVHREMTVfUnRCaFBuRVYtVGVlS2puekN5WTBGOVhPT3NMbjdKSG5SME1UUC1HNUdDODVoOEhDRjlKOTZKNEh2MEV0Q1pIMnVDZ2J0elBIU05nemd6Z0MtcWs2VUNCZ2VTSmJGWFRWMEk1SnFPTTZHUExRVk9jbHR5bHczUmVadS1UV3ZuRHZrb1ozaGZEYTRHS0haQXlJcEVOd2V4cw?oc=5",
       "url_resolved": false,
-      "published_at": "2026-11-20T16:27:23+00:00",
+      "published_at": "2026-11-20T16:27:00+00:00",
       "published_at_confirmed": true,
-      "age_hours": 32.3,
+      "age_hours": 56.7,
       "region": "overseas",
       "sources": [
         "Google News (EN) - Claude/ChatGPT automation"
@@ -956,7 +1249,7 @@
       "url_resolved": false,
       "published_at": "2026-11-20T16:28:29+00:00",
       "published_at_confirmed": true,
-      "age_hours": 32.3,
+      "age_hours": 56.7,
       "region": "overseas",
       "sources": [
         "Google News (EN) - Claude/ChatGPT automation"
@@ -970,7 +1263,7 @@
       "url_resolved": false,
       "published_at": "2026-11-20T16:25:31+00:00",
       "published_at_confirmed": true,
-      "age_hours": 32.3,
+      "age_hours": 56.8,
       "region": "overseas",
       "sources": [
         "Google News (EN) - loop engineering"
@@ -984,35 +1277,7 @@
       "url_resolved": false,
       "published_at": "2026-11-20T15:58:32+00:00",
       "published_at_confirmed": true,
-      "age_hours": 32.8,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - AI agent automation"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "6a1ef44b9daa9bf1",
-      "title": "Zite – AI Business App Builder, Integrated Databases & Workflow Automation - Quasa.io",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSjhQYTdUMXFUdGFWOXRGdFpSLTYwMjdkNDRmb2w3VmNQRWotcldwbk5PS2xaSERFWXU3UlBGV2tJSHhRTGtsV0FZM1Q3UVVOOWdUelV1alZHUG1oT214cGFnVEg1UGdqdElKLUdzTGFPeVZRSXNYelpKeDcwZGxPay1scE55MlZMazhtbXAyZXBZaE9fdGVz?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-20T15:59:32+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 32.8,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - AI agent automation"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "c0efb82a2993fd67",
-      "title": "Coframe – AI Website Optimization, Automated Experiments & Audience Personalization - Quasa.io",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYnh3b2U1bVZDeXVnSmxKZ3BaYnZGZzBOcEw2TkM5QU1QNmd1aV9NcU5hdEo1UUszVEhKZ19NWjRtd3lzTDJnZ21LU3VMZzVPWTA0bDZQVE5kMHlFa3dLSER3WGdFVjNzdGNRQmYtRFBJbm10ekZVSzRNck5XclNMTERIMEZQcERlZEN3M1JST1VHZFYycFZnQlM5OU0zUndMTHM0?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-20T15:59:29+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 32.8,
+      "age_hours": 57.2,
       "region": "overseas",
       "sources": [
         "Google News (EN) - AI agent automation"
@@ -1026,7 +1291,7 @@
       "url_resolved": true,
       "published_at": "2026-11-20T15:27:05+00:00",
       "published_at_confirmed": true,
-      "age_hours": 33.3,
+      "age_hours": 57.7,
       "region": "japan",
       "sources": [
         "はてブ - AIエージェント"
@@ -1040,7 +1305,7 @@
       "url_resolved": true,
       "published_at": "2026-11-20T14:35:51+00:00",
       "published_at_confirmed": true,
-      "age_hours": 34.1,
+      "age_hours": 58.6,
       "region": "japan",
       "sources": [
         "はてブ - AIエージェント"
@@ -1054,7 +1319,7 @@
       "url_resolved": false,
       "published_at": "2026-11-20T14:30:45+00:00",
       "published_at_confirmed": true,
-      "age_hours": 34.2,
+      "age_hours": 58.7,
       "region": "japan",
       "sources": [
         "Google News (JA) - AI 自動化",
@@ -1069,7 +1334,7 @@
       "url_resolved": true,
       "published_at": "2026-11-20T14:21:00+00:00",
       "published_at_confirmed": true,
-      "age_hours": 34.4,
+      "age_hours": 58.8,
       "region": "japan",
       "sources": [
         "Impress Watch"
@@ -1083,7 +1348,7 @@
       "url_resolved": false,
       "published_at": "2026-11-20T13:45:53+00:00",
       "published_at_confirmed": true,
-      "age_hours": 35.0,
+      "age_hours": 59.4,
       "region": "overseas",
       "sources": [
         "Google News (EN) - AI agent automation"
@@ -1097,10 +1362,24 @@
       "url_resolved": false,
       "published_at": "2026-11-20T13:45:10+00:00",
       "published_at_confirmed": true,
-      "age_hours": 35.0,
+      "age_hours": 59.4,
       "region": "overseas",
       "sources": [
         "Google News (EN) - Claude/ChatGPT automation"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "49de0ea4d1f2895d",
+      "title": "Observe.AI Introduces Agent Overwatch, Bringing Real-Time Supervision to Any AI Agent and Human Contact Center Team - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMnhkdjgteVJaOHBiWjBFN0FGQ0M5MkZhTzZNR3dqT3BXdEVUcDZMTGZLbk1KQTRPREhfb1EtUzRSZGl3bkJlTy1ac19tOEctc2ZfNWhPM0E5NTlDcTliQzRKUVZaOG5BOEpvMy1fSnlHZjh6aHR5RERXbG9WZGZTU3plTXVnNnhZcWhncmpyMERYN3A1VzYwMnRTVmpLYU1kUXlxbHVLT3hYR3Q5Y2ZtZjBJeXE2MlhmcERMel84VWJKNXNGa3VTMWRqdWI1bC03V2FveFJlb0VCLW5JX1FkUkp2WGJ2SWdJWVJ1TTdOa1dfdXE0Yzk4bjMycEdKdw?oc=5",
+      "url_resolved": false,
+      "published_at": "2026-11-20T13:30:00+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 59.7,
+      "region": "overseas",
+      "sources": [
+        "Google News (EN) - AI agent automation"
       ],
       "already_posted": false
     },
@@ -1111,7 +1390,7 @@
       "url_resolved": false,
       "published_at": "2026-11-20T13:22:48+00:00",
       "published_at_confirmed": true,
-      "age_hours": 35.4,
+      "age_hours": 59.8,
       "region": "overseas",
       "sources": [
         "Google News (EN) - Claude/ChatGPT automation"
@@ -1125,7 +1404,7 @@
       "url_resolved": false,
       "published_at": "2026-11-20T13:15:00+00:00",
       "published_at_confirmed": true,
-      "age_hours": 35.5,
+      "age_hours": 59.9,
       "region": "overseas",
       "sources": [
         "Google News (EN) - AI agent automation"
@@ -1139,7 +1418,7 @@
       "url_resolved": false,
       "published_at": "2026-11-20T13:03:09+00:00",
       "published_at_confirmed": true,
-      "age_hours": 35.7,
+      "age_hours": 60.1,
       "region": "overseas",
       "sources": [
         "Google News (EN) - Claude/ChatGPT automation"
@@ -1147,13 +1426,13 @@
       "already_posted": false
     },
     {
-      "id": "ada533b5bc04c2d4",
-      "title": "Narrative Review Finds Clinical AI Agents Face Substantial Prospective Evaluation Gaps - Bioengineer.org",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU0tCMVVRZjJoYWxUY3VrcnUzNDFaVmY1MTdIUFJUQ3pJU044NmFuSENtQlY3TzdSaHRjcEttUFgxSHpVaDZFWmVRTm9uc1JZZXdTblBhM0tFOGF3WGlycUxiQWRJQkxTbDlVRkZYVEhFTXktclRNZFFuS3Atd295QXN0VmJ5V1g3bV9oSkRtdlZtVzcyVTdXclp2VjJGUF9ydmhsUzNfZkYySXpmUkU0QQ?oc=5",
+      "id": "6ca8214504499cf9",
+      "title": "ServiceNow wants AI agents to chase the unpaid invoices too small for staff - MarketScale",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaDE5NnUtQ3FKdWpCTlNjbU9BYUs5SzZXR1Jlc2dBREwzNmZMVlFreGNDbVdYbWVjUFBGdV9WMEdZWXdYT2kzS1FJTmJmenZib09GLVhIQmhaamNWRTBzMS0zT1Q4U1NZV3dpLUYydUtkRzJHRW9yUjNUd05qaVpLOU5EOU1wT1hZZGFnYWEyZ0NTT3pzRks4LTFZOHBpdXg0ZEt2dXMweUI3ejVLanpueTR2Ym96dVF0SE9nSFVQQ0hxVC1DbmFjb0RLTjRnUTI4dE96cA?oc=5",
       "url_resolved": false,
-      "published_at": "2026-11-20T11:56:25+00:00",
+      "published_at": "2026-11-20T11:39:46+00:00",
       "published_at_confirmed": true,
-      "age_hours": 36.8,
+      "age_hours": 61.5,
       "region": "overseas",
       "sources": [
         "Google News (EN) - AI agent automation"
@@ -1167,7 +1446,7 @@
       "url_resolved": false,
       "published_at": "2026-11-20T11:34:00+00:00",
       "published_at_confirmed": true,
-      "age_hours": 37.2,
+      "age_hours": 61.6,
       "region": "overseas",
       "sources": [
         "Google News (EN) - AI agent automation"
@@ -1181,7 +1460,7 @@
       "url_resolved": true,
       "published_at": "2026-11-20T11:26:18+00:00",
       "published_at_confirmed": true,
-      "age_hours": 37.3,
+      "age_hours": 61.8,
       "region": "japan",
       "sources": [
         "Impress Watch"
@@ -1195,7 +1474,7 @@
       "url_resolved": false,
       "published_at": "2026-11-20T10:05:00+00:00",
       "published_at_confirmed": true,
-      "age_hours": 38.7,
+      "age_hours": 63.1,
       "region": "japan",
       "sources": [
         "Google News (JA) - AI 自動化"
@@ -1209,7 +1488,7 @@
       "url_resolved": true,
       "published_at": "2026-11-20T10:02:47+00:00",
       "published_at_confirmed": true,
-      "age_hours": 38.7,
+      "age_hours": 63.1,
       "region": "japan",
       "sources": [
         "Impress Watch"
@@ -1223,24 +1502,10 @@
       "url_resolved": false,
       "published_at": "2026-11-20T09:53:27+00:00",
       "published_at_confirmed": true,
-      "age_hours": 38.9,
+      "age_hours": 63.3,
       "region": "japan",
       "sources": [
         "Google News (JA) - Claude/ChatGPT 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "0f0b3f4835c80695",
-      "title": "Slack Integrates Workflows and AI Agents for Seamless Automation - Small Business Trends",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNHFuVGpla19mNzVUMzEyd3VuSFdkN2NDU1RwcTNVTVRZcVZrSmdaTnVUd1JUMHFLZU1lYUtnMnc0MjlEQWYyS3BwbFN2UEY3X3BScV84T2tkRXVqY1ctT1dQaDI3QWYyQWRWUGM4TnNYaGxoc0VKdEdocTZKSzI4V2pKeHJTaFRfTTNPREh6VlE1WTNQLW4w?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-20T09:43:00+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 39.0,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - AI agent automation"
       ],
       "already_posted": false
     },
@@ -1251,7 +1516,7 @@
       "url_resolved": false,
       "published_at": "2026-11-20T09:44:42+00:00",
       "published_at_confirmed": true,
-      "age_hours": 39.0,
+      "age_hours": 63.4,
       "region": "overseas",
       "sources": [
         "Google News (EN) - AI agent automation"
@@ -1265,10 +1530,38 @@
       "url_resolved": true,
       "published_at": "2026-11-20T09:45:24+00:00",
       "published_at_confirmed": true,
-      "age_hours": 39.0,
+      "age_hours": 63.4,
       "region": "japan",
       "sources": [
         "Impress Watch"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "0f0b3f4835c80695",
+      "title": "Slack Integrates Workflows and AI Agents for Seamless Automation - Small Business Trends",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNHFuVGpla19mNzVUMzEyd3VuSFdkN2NDU1RwcTNVTVRZcVZrSmdaTnVUd1JUMHFLZU1lYUtnMnc0MjlEQWYyS3BwbFN2UEY3X3BScV84T2tkRXVqY1ctT1dQaDI3QWYyQWRWUGM4TnNYaGxoc0VKdEdocTZKSzI4V2pKeHJTaFRfTTNPREh6VlE1WTNQLW4w?oc=5",
+      "url_resolved": false,
+      "published_at": "2026-11-20T09:43:00+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 63.5,
+      "region": "overseas",
+      "sources": [
+        "Google News (EN) - AI agent automation"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "a0d7e7ae5a2ef1ff",
+      "title": "AI Agents vs Traditional Automation: What Enterprises Need to Know - Nasscom",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRHkyU3pQeEItcXduV0FQLTlIMWtlQW82WmlSbDNYYmZSeVd3U01NVTdMUnI4TmxNYy1Gd1lvLVdXaEFSMVFyTHNzSDJCbDNaRndnaVgzaTBlN3djQUFxcDZwZEZEVU55X2FLZzZIVkliSm91Q1o0X2oxUEJ2cmdEVEpSYi1GNEZyVFdCZjFSVzJaS0hkOHlGZnlNa2lDajRSZVhRa0Vka285UQ?oc=5",
+      "url_resolved": false,
+      "published_at": "2026-11-20T09:38:23+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 63.6,
+      "region": "overseas",
+      "sources": [
+        "Google News (EN) - AI agent automation"
       ],
       "already_posted": false
     },
@@ -1279,7 +1572,7 @@
       "url_resolved": false,
       "published_at": "2026-11-20T09:03:41+00:00",
       "published_at_confirmed": true,
-      "age_hours": 39.7,
+      "age_hours": 64.1,
       "region": "overseas",
       "sources": [
         "Google News (EN) - AI agent automation"
@@ -1293,7 +1586,7 @@
       "url_resolved": true,
       "published_at": "2026-11-20T08:59:52+00:00",
       "published_at_confirmed": true,
-      "age_hours": 39.7,
+      "age_hours": 64.2,
       "region": "japan",
       "sources": [
         "Impress Watch"
@@ -1301,13 +1594,13 @@
       "already_posted": false
     },
     {
-      "id": "56871c2ba620af4c",
-      "title": "KUKURI - Agent Rules Hub Launches: A Library of Instructions That Make AI Agents and ChatGPT Work the Way You Want - The Columbus Dispatch",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNbjZlUERLZUF2MXJXSXN5QmZndW1lUUpEcWM2S3hlUWl2RlhFT2RVM0MxUzZYcXFWanJTbmVGMlpPM1o2YmtVOWhocFFuWExoSDVMOThQNWg5eXVEYU5uSWtNNGlEc0xGU3B4bzA3NTVyVnU2dmpya1h4R0RNcFlSUVJlZEt5YkdvcVE0ZDZIUmlDd1hMMV85YURvQXlhNFRsNnpCa1VqQ2JxTnNpa2ctVHQwci1MaGRDOVNtXzVtNmN1bjZRRVU3N2N3VDVPek53ZjFtM3VRVHBfTEVLb1phMk42QXd0WnVCUHpmam9FMk1xR2tMTnBn?oc=5",
+      "id": "2dfca598b229991a",
+      "title": "KUKURI - Agent Rules Hub Launches: A Library of Instructions That Make AI Agents and ChatGPT Work the Way You Want - The Des Moines Register",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQY3VyLVdsMWlZblFyU3owdTlDaE1USFVjS1d0UFJrUnY4YW8yOEM2TndkWEd5dGYwMUJ1bkNoa0RfRW5fcmRUbGFpcWRIS1VBYk5BMVlNQnFuNXpfRXFvdVZPclptN21KSUpXUjhpaEFNTWk2VFB1UVY1dE9RRG9PeTh3X1FiRi1kcE9ONzZtRndMUXRFZ3JKWWJWQXV2cktrTi1UTVdZMzYxMWNfZTRlMWhMOUVEc3VOalNfY0pNbG81R1ltZXhkVWNZVGpaNnd6TGdvVTRISjl0SnNxLWRaWWpaRUE3MEtaejRuMGlWa1UwVU53aHRLNHB6MjJJSDE3OWxV?oc=5",
       "url_resolved": false,
-      "published_at": "2026-11-20T08:43:07+00:00",
+      "published_at": "2026-11-20T08:46:05+00:00",
       "published_at_confirmed": true,
-      "age_hours": 40.0,
+      "age_hours": 64.4,
       "region": "overseas",
       "sources": [
         "Google News (EN) - loop engineering"
@@ -1321,7 +1614,7 @@
       "url_resolved": false,
       "published_at": "2026-11-20T08:43:00+00:00",
       "published_at_confirmed": true,
-      "age_hours": 40.0,
+      "age_hours": 64.5,
       "region": "japan",
       "sources": [
         "Google News (JA) - Claude/ChatGPT 自動化"
@@ -1335,24 +1628,10 @@
       "url_resolved": false,
       "published_at": "2026-11-20T08:37:07+00:00",
       "published_at_confirmed": true,
-      "age_hours": 40.1,
+      "age_hours": 64.6,
       "region": "overseas",
       "sources": [
         "Google News (EN) - AI agent automation"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "e6c0d6102248d314",
-      "title": "Claude Code 2.1.329 warns about folder hooks and fixes dozens of bugs - Meteora Web",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZXR1blFCZ3pFSVJ6UDkxTFJ0NWRQMm9acjBZcXNfek12b3BNRGRYbWlUWW9DdVk0ZHdWMzVUQ3RjUjVaazZjaGE4MS05SWtySUt1LTlvS3BMc0VzbUxJUHNFYzAtczFtR25RNTJlMzNWdzlmek9lazIzekQzLTVKSTUxTlhua1ktWHFNazlYUkJ5OXFxNk1fUkE3SGFyWFRxSkE?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-20T08:36:06+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 40.1,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - Claude/ChatGPT automation"
       ],
       "already_posted": false
     },
@@ -1363,38 +1642,10 @@
       "url_resolved": false,
       "published_at": "2026-11-20T08:34:00+00:00",
       "published_at_confirmed": true,
-      "age_hours": 40.2,
+      "age_hours": 64.6,
       "region": "overseas",
       "sources": [
         "Google News (EN) - Claude/ChatGPT automation"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "d1c91e4930150812",
-      "title": "スペースデータと霞ヶ関キャピタル、物流施設の設計から運用までをフィジカルAI・空間知能で高度化する共同検討を開始 - 株式会社スペースデータ",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KQUc1cy1vcW9XSTcyUW5SUDdVYWpDeGhUeFdmWFFSS1VFVXNISWhYMUlvQUlpeU5EWkZNQ2pZdFcxdS1mU1NRWnA1aGgyVEVJUVVOazQ5RG5OTGVZOFdEY0NTR2lnZzdmaXgtRlE5ZjNyaXZXaGc?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-20T08:34:05+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 40.2,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "807707a3f38887c5",
-      "title": "電通総研、連結会計ソリューション「STRAVIS（ストラビス）」の最新版にAI機能を搭載 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02UWtvLWtuYzBVZnUyb3M5SE41cjNZeTBNZl9XZE8wQnk4XzBYNndfWEVXakpiWlBQMWVVWThEX1JFNU1aUmxSUHZYR0RUVkNrTzROUG9nWFlRU1Jac3RJT3ZLVDdBZmVB?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-20T08:30:23+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 40.2,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
       ],
       "already_posted": false
     },
@@ -1405,10 +1656,24 @@
       "url_resolved": true,
       "published_at": "2026-11-20T08:24:26+00:00",
       "published_at_confirmed": true,
-      "age_hours": 40.3,
+      "age_hours": 64.8,
       "region": "japan",
       "sources": [
         "Impress Watch"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "32bb86af57035bb3",
+      "title": "Basic International unveils AI SyncOps Studio to automate key SI project steps - 디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM19maERWd0lFNkFNNEllUzdoV3h4OENsdEg1bGF1dWE4UnMwS0pQNVNlLVk0bEpVem01T3ZKR1cyU1VmUWVaY0lqNGF3SU00OFFwcE5hYUFZWm9QeVJtdzI4RlZVT1dZLXQ3OTlZdG02VVVkVEVLWEZTNjNmLURZUG9OaFdNckxFUlIzdjFIaGNGSTdfUGROMW9INDBLT2JCTWhMbFpSbHlnZmdHSWowVmN6YW5WcjVIejhteHpzcVk3UQ?oc=5",
+      "url_resolved": false,
+      "published_at": "2026-11-20T08:04:18+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 65.1,
+      "region": "overseas",
+      "sources": [
+        "Google News (EN) - AI agent automation"
       ],
       "already_posted": false
     },
@@ -1419,38 +1684,10 @@
       "url_resolved": true,
       "published_at": "2026-11-20T08:07:11+00:00",
       "published_at_confirmed": true,
-      "age_hours": 40.6,
+      "age_hours": 65.1,
       "region": "japan",
       "sources": [
         "はてブ - AIエージェント"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "3c4c6c75fc4ac383",
-      "title": "How Enterprises Move Voice AI Agents From Prototype to Production - eWeek",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUVNEZWhBeFNzS0UtYXBkMi1hSFVzWktxUk9GX1pFcWhRdWRJOE1VWUtmWnkwVFJ5dEgyLVhrdlZ1RnkwWHJ3Q1dQVDFOdXBHeDEtaDgyQVU1endFMkRsR045TmZwVTFzcHF0STQyUmNfaUN0WWFSWUVKaFVpenFNbENfS3dKX3VEVXBGdFg2NA?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-20T08:00:00+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 40.7,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - AI agent automation"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "2118550d277705a4",
-      "title": "AIで動画編集、記事·音声配信まで自動化。Mac miniで実現する業務改善。LandBridgeのMac導入事例② - マイナビニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfTjJJazc5LUJ2WWkyTW9PVDJpMHdtbUJSZEFWTjdKcVE1U0lrWndvTkFqSkdDRm53ZXQyanJNTW1BMEhLR29UWHU4Q2NReE5BSVAyeTVhYmRUaTFlMldYNHJFSURoZ091?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-20T08:00:00+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 40.7,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
       ],
       "already_posted": false
     },
@@ -1461,7 +1698,49 @@
       "url_resolved": false,
       "published_at": "2026-11-20T08:04:18+00:00",
       "published_at_confirmed": true,
-      "age_hours": 40.7,
+      "age_hours": 65.1,
+      "region": "japan",
+      "sources": [
+        "Google News (JA) - AI 自動化"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "3c4c6c75fc4ac383",
+      "title": "How Enterprises Move Voice AI Agents From Prototype to Production - eWeek",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUVNEZWhBeFNzS0UtYXBkMi1hSFVzWktxUk9GX1pFcWhRdWRJOE1VWUtmWnkwVFJ5dEgyLVhrdlZ1RnkwWHJ3Q1dQVDFOdXBHeDEtaDgyQVU1endFMkRsR045TmZwVTFzcHF0STQyUmNfaUN0WWFSWUVKaFVpenFNbENfS3dKX3VEVXBGdFg2NA?oc=5",
+      "url_resolved": false,
+      "published_at": "2026-11-20T08:00:00+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 65.2,
+      "region": "overseas",
+      "sources": [
+        "Google News (EN) - AI agent automation"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "9d293a0400273a6a",
+      "title": "How to Post on Multiple Social Media Platforms At Once - Metricool",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhRWRtaTc4N2U1bDFhUzRkMThfYnpUSHpNZWxUVXRXT0x1T2dHM003MU1NbjV4QjVmV002YjJIOFZVSnNvVy1vSl9TZllnWlF1Ql9VVDlzZnF0TWJ5N1pQZnF4a3ZMT2lMX0MyVkZoNA?oc=5",
+      "url_resolved": false,
+      "published_at": "2026-11-20T08:00:00+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 65.2,
+      "region": "overseas",
+      "sources": [
+        "Google News (EN) - Claude/ChatGPT automation"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "2118550d277705a4",
+      "title": "AIで動画編集、記事·音声配信まで自動化。Mac miniで実現する業務改善。LandBridgeのMac導入事例② - マイナビニュース",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfTjJJazc5LUJ2WWkyTW9PVDJpMHdtbUJSZEFWTjdKcVE1U0lrWndvTkFqSkdDRm53ZXQyanJNTW1BMEhLR29UWHU4Q2NReE5BSVAyeTVhYmRUaTFlMldYNHJFSURoZ091?oc=5",
+      "url_resolved": false,
+      "published_at": "2026-11-20T08:00:00+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 65.2,
       "region": "japan",
       "sources": [
         "Google News (JA) - AI 自動化"
@@ -1475,10 +1754,38 @@
       "url_resolved": false,
       "published_at": "2026-11-20T08:00:00+00:00",
       "published_at_confirmed": true,
-      "age_hours": 40.7,
+      "age_hours": 65.2,
       "region": "japan",
       "sources": [
         "Google News (JA) - Claude/ChatGPT 自動化"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "f66ec921e27f8f3b",
+      "title": "GVA TECHが法務オートメーション「OLGA」に新機能を追加、AI契約レビューの効率化を実現 - ニュースメディアVOIX",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51WDFVMllzUTA3a2V5dVlPd19jalgtS181QmNZYXpfdFFfSVRKdE9fUTNXb3A2MEItS2plaUFFZzV1Wm9nX1JMY01FWFRaSlRMaDVGdDNDMUYzdERUVlU3UDJmOUU1c3d6MXJqejln?oc=5",
+      "url_resolved": false,
+      "published_at": "2026-11-20T07:56:16+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 65.3,
+      "region": "japan",
+      "sources": [
+        "Google News (JA) - AI 自動化"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "08822d80f9925a4c",
+      "title": "2台の巨大なロボットアームの間に大小の箱と包装された製品が絶えず押し寄せてきた。 あるロボットが箱を拾ってパレットの上に置くと、他のロボットが待っていたかのように次の箱を取った。 箱の高さと大きさを計.. - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9HazF2TDlqVGVSaVp4dkNZRUtwTWlCSjBUSW13TlhmMWF0aVJBdUxEU2ZTNWNHdld5c0RDZVVPaWRZbEc2Y1g2T1g2Yw?oc=5",
+      "url_resolved": false,
+      "published_at": "2026-11-20T07:46:54+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 65.4,
+      "region": "japan",
+      "sources": [
+        "Google News (JA) - AI 自動化"
       ],
       "already_posted": false
     },
@@ -1489,7 +1796,7 @@
       "url_resolved": false,
       "published_at": "2026-11-20T07:29:57+00:00",
       "published_at_confirmed": true,
-      "age_hours": 41.2,
+      "age_hours": 65.7,
       "region": "overseas",
       "sources": [
         "Google News (EN) - loop engineering"
@@ -1503,7 +1810,7 @@
       "url_resolved": true,
       "published_at": "2026-11-20T07:28:18+00:00",
       "published_at_confirmed": true,
-      "age_hours": 41.3,
+      "age_hours": 65.7,
       "region": "japan",
       "sources": [
         "Impress Watch"
@@ -1517,24 +1824,10 @@
       "url_resolved": false,
       "published_at": "2026-11-20T07:20:01+00:00",
       "published_at_confirmed": true,
-      "age_hours": 41.4,
+      "age_hours": 65.9,
       "region": "overseas",
       "sources": [
         "Google News (EN) - Claude/ChatGPT automation"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "3cc1a6574f17dd6c",
-      "title": "Stripe インサイト：人間がコーディングしない開発を可能にする Stripe の自律型コーディングエージェント「Minions」 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DWFJZLXh2MTl3eWlpeVA2aTdzWVRQYTU1eWxkbTN5UjY0Wk9EUEdKR1BkY3pvZjd0VWlsbTV5UFNoVVNCVU5lMW5SRGFHQndWaW43SmowYWpEMXVyNXlHYnp4UVhBc05IWnc?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-20T07:00:02+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 41.7,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
       ],
       "already_posted": false
     },
@@ -1545,21 +1838,7 @@
       "url_resolved": false,
       "published_at": "2026-11-20T06:56:09+00:00",
       "published_at_confirmed": true,
-      "age_hours": 41.8,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "5a662bafe2ae3354",
-      "title": "ミイダス、AI採用バディーに求人票作成やスカウト自動化機能を追加へ - Dellows News",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE13WUQ4SmFNa3JVMF9kV183bUJsN2hKSHI2R1ZWa2R2d29GRmlxYWxwc19tTW55SndvWDdxV25DR1FMd1FFcWNJ?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-20T06:57:43+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 41.8,
+      "age_hours": 66.3,
       "region": "japan",
       "sources": [
         "Google News (JA) - AI 自動化"
@@ -1573,10 +1852,24 @@
       "url_resolved": true,
       "published_at": "2026-11-20T06:47:11+00:00",
       "published_at_confirmed": true,
-      "age_hours": 42.0,
+      "age_hours": 66.4,
       "region": "japan",
       "sources": [
         "Impress Watch"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "f1a8ab64cebe534f",
+      "title": "LangChain Says Prompt Engineering Will Disappear. Here's What Comes Next - HackerNoon",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdktIY2NyMnk5VDc2WU54VGlSbWVjUjllblFqVGlrSWZkVHVVODg2UXZoOEQwZjRxXzFlWk9QTV9zTExxcTFtNlVCazJQYnppQUNSV3dJLWdROVdRVTBvSlBVYk82Z2tBZU5TQzBGSnZ5d01WdVQtemhYdDZyTDhibVJrZ2hxYzZxNXNtZGpuNjA5WkdmNVZCQg?oc=5",
+      "url_resolved": false,
+      "published_at": "2026-11-20T06:22:15+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 66.8,
+      "region": "overseas",
+      "sources": [
+        "Google News (EN) - loop engineering"
       ],
       "already_posted": false
     },
@@ -1587,7 +1880,7 @@
       "url_resolved": true,
       "published_at": "2026-11-20T06:19:30+00:00",
       "published_at_confirmed": true,
-      "age_hours": 42.4,
+      "age_hours": 66.9,
       "region": "japan",
       "sources": [
         "はてブ - AI 自動化"
@@ -1601,38 +1894,10 @@
       "url_resolved": true,
       "published_at": "2026-11-20T06:08:53+00:00",
       "published_at_confirmed": true,
-      "age_hours": 42.6,
+      "age_hours": 67.0,
       "region": "japan",
       "sources": [
         "Impress Watch"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "6123e47d88ae186e",
-      "title": "The New Intelligence: How Modern Agencies Can Work with AI Agents - ADWEEK",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYXYwVFFoRlJleG12bTgwN01ZaXBKWkdsMEVZU1lGRlh5T0dKSWVMQzBaemJTdGVmREIxclFLVFhIZmRXMHFNT1hNWTE4dV8wdTAtWHZHSElHcHZCN2VTSmM4M2l0dmFUY0l4OTZ5MXlYNnduZW1VWnFXTnlmS2xJVWliTVpuOHNxa2tXcl96MjB3ck5aNHZIZjRzVm5sOXl2U2wwcGFadVEycVFO?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-20T05:38:33+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 43.1,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - AI agent automation"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "16981849015299a7",
-      "title": "Apple Develops Its Own AI Agent as macOS Update Adds 14 Steps to Enable ChatGPT Computer - Hokanews",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NSGlxZHF6SDFwMmdSNmRaa2pJVFJBaDZnUnpsOHkzbXFJLU1tWktsTnVlQkR1aWwwSWVROEk3WF9RbTdJMXRYa1ZkY0hHN1c5QW80M2FiTnpkVjZSUE9RUUZVSl9aNnduYld1alpfemZzc0dHRXlMbXdESnA?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-20T05:26:00+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 43.3,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - AI agent automation"
       ],
       "already_posted": false
     },
@@ -1643,7 +1908,7 @@
       "url_resolved": false,
       "published_at": "2026-11-20T05:28:58+00:00",
       "published_at_confirmed": true,
-      "age_hours": 43.3,
+      "age_hours": 67.7,
       "region": "japan",
       "sources": [
         "Google News (JA) - Claude/ChatGPT 自動化"
@@ -1651,13 +1916,13 @@
       "already_posted": false
     },
     {
-      "id": "f4630e56aaa1538c",
-      "title": "Google Cloud expands Partner Marketing Studio with seven Gemini-powered AI agents - Adgully",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQekhLelV6T2NCRzVnOGI2ck50QVZONDN1S0N2bllPTVYzVFMyaDFYdkJIZGJPZGdsMGd3QkpDdjJhRnF1ZnBDeFpSbTV0R1Jaamk0WldyZFRMRU1Ba0xuOFRSN2xGM1EtaGNZb0lSVDZxdUhqdUROSkR5WnBnSllWNk1BQUJBcFlpLUo5OFMzdGJCem12cjZEYnctNE1QNGJWY0pub0RfVm5FTWpCdDhtTG1wSUs1ZjA?oc=5",
+      "id": "16981849015299a7",
+      "title": "Apple Develops Its Own AI Agent as macOS Update Adds 14 Steps to Enable ChatGPT Computer - Hokanews",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NSGlxZHF6SDFwMmdSNmRaa2pJVFJBaDZnUnpsOHkzbXFJLU1tWktsTnVlQkR1aWwwSWVROEk3WF9RbTdJMXRYa1ZkY0hHN1c5QW80M2FiTnpkVjZSUE9RUUZVSl9aNnduYld1alpfemZzc0dHRXlMbXdESnA?oc=5",
       "url_resolved": false,
-      "published_at": "2026-11-20T05:23:00+00:00",
+      "published_at": "2026-11-20T05:26:00+00:00",
       "published_at_confirmed": true,
-      "age_hours": 43.4,
+      "age_hours": 67.8,
       "region": "overseas",
       "sources": [
         "Google News (EN) - AI agent automation"
@@ -1671,7 +1936,7 @@
       "url_resolved": true,
       "published_at": "2026-11-20T05:13:54+00:00",
       "published_at_confirmed": true,
-      "age_hours": 43.5,
+      "age_hours": 68.0,
       "region": "japan",
       "sources": [
         "Impress Watch"
@@ -1685,10 +1950,24 @@
       "url_resolved": false,
       "published_at": "2026-11-20T04:56:53+00:00",
       "published_at_confirmed": true,
-      "age_hours": 43.8,
+      "age_hours": 68.2,
       "region": "japan",
       "sources": [
         "Google News (JA) - Claude/ChatGPT 自動化"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "200a28ddab6130ad",
+      "title": "936 AI Agents Wrote 936 Studies and Started a Journal - FourWeekMBA",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX1paLWt4NzVreExjcThieDZfbC1kamJ3TDBxNEpqUS1XYm5jdUZZS3A1Q2NzY3l2ZndrRkdla1UyYm5OZ1VEOThkbVdJY0MyUFR6eUVwcFoxMEJ3R2N5RXhBaDcwd19NNG9XV1VLWElwcDhmNkJTTHI5bFFWeVNBWnRQNmcydnQ4?oc=5",
+      "url_resolved": false,
+      "published_at": "2026-11-20T04:53:44+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 68.3,
+      "region": "overseas",
+      "sources": [
+        "Google News (EN) - loop engineering"
       ],
       "already_posted": false
     },
@@ -1699,38 +1978,10 @@
       "url_resolved": true,
       "published_at": "2026-11-20T04:45:14+00:00",
       "published_at_confirmed": true,
-      "age_hours": 44.0,
+      "age_hours": 68.4,
       "region": "japan",
       "sources": [
         "はてブ - AIエージェント"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "71c5df0cde16b816",
-      "title": "Mac版Geminiに「Computer use」　PC作業をAIが代行",
-      "url": "https://www.watch.impress.co.jp/docs/news/2158164.html",
-      "url_resolved": true,
-      "published_at": "2026-11-20T04:15:00+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 44.5,
-      "region": "japan",
-      "sources": [
-        "Impress Watch"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "be8f2015782dbe2f",
-      "title": "セブン、夜の自分時間を充実させるスイーツ「21時にアイス」",
-      "url": "https://www.watch.impress.co.jp/docs/news/2158168.html",
-      "url_resolved": true,
-      "published_at": "2026-11-20T03:57:34+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 44.8,
-      "region": "japan",
-      "sources": [
-        "Impress Watch"
       ],
       "already_posted": false
     },
@@ -1741,24 +1992,10 @@
       "url_resolved": false,
       "published_at": "2026-11-20T03:45:00+00:00",
       "published_at_confirmed": true,
-      "age_hours": 45.0,
+      "age_hours": 69.4,
       "region": "overseas",
       "sources": [
         "Google News (EN) - loop engineering"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "5a006c8cb1795d10",
-      "title": "今求められる「考えて動くAI」――東芝が現場とともに磨き続けた「見る・考える・動く」技術とは - Toshiba Clip",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Xa3M3b3RjdGcxRXA1OWpTd1ZNRDFqaUdHT2RUNmVTbnlNV0M2OC1mMkt3NTktYnp1TmNYa3hfbWo3YndmdFgyeHJXYTBhV1hQSFBSZHp3?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-20T03:45:40+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 45.0,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
       ],
       "already_posted": false
     },
@@ -1769,7 +2006,7 @@
       "url_resolved": false,
       "published_at": "2026-11-20T03:30:01+00:00",
       "published_at_confirmed": true,
-      "age_hours": 45.2,
+      "age_hours": 69.7,
       "region": "japan",
       "sources": [
         "Google News (JA) - AI 自動化"
@@ -1783,24 +2020,10 @@
       "url_resolved": false,
       "published_at": "2026-11-20T03:00:00+00:00",
       "published_at_confirmed": true,
-      "age_hours": 45.7,
+      "age_hours": 70.2,
       "region": "japan",
       "sources": [
         "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "005a2c1c509b827b",
-      "title": "OpenAIのパフォーマンスファクトリーがChatGPTの最適化を自動化 - blockchain.news",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0zeHZ4MHV3V0x0MGJMSEhXVkVFbS1xUHlYTHdoQ0FQOHd2YndPVDY4Z0xSc3dBblRFNEd0NFdXaHdBcXhSVnV1dTdxYTBRMzhvSnZwV29odVdNR0kwaC1GUWZyRmZIWUVCZW4xY1hoTmZkbUZrbWtJZw?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-20T02:50:10+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 45.9,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - Claude/ChatGPT 自動化"
       ],
       "already_posted": false
     },
@@ -1811,10 +2034,24 @@
       "url_resolved": false,
       "published_at": "2026-11-20T02:40:34+00:00",
       "published_at_confirmed": true,
-      "age_hours": 46.1,
+      "age_hours": 70.5,
       "region": "overseas",
       "sources": [
         "Google News (EN) - loop engineering"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "1662330ec1dc77f1",
+      "title": "New GitLab Agentic Automations Clear the Security Backlog and Do Up to Twice the Work For The Same Cost - iTWire",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSGU0dDJ5S1JobTAtdlhXM2o1TGdSM1dXUDRkSEpVaUthQnFrRjYzUHRVOXZ3LXFsSzFHd29FMHF4dHhPTi12aWVCY3REb1ZiT1gyR1VmMWZWTEhUOGJwNjRVaWR0elRkNHZNLUJSYTRNbnpPWlhPMzhpM0dsSXZZZlNHd3pDRG5nMlppaDFHQjFKT282YVVMTzE4ZmxiT1dPcmxFeEtfMWNHVFJEMEMwd3R2M3BTUExYYkhnYUNiRmhmbnZYNTh6MmJaNVZvWnJ6ejExOUlpcnhPOXkxV2ZNWDlR?oc=5",
+      "url_resolved": false,
+      "published_at": "2026-11-20T02:17:14+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 70.9,
+      "region": "overseas",
+      "sources": [
+        "Google News (EN) - Claude/ChatGPT automation"
       ],
       "already_posted": false
     },
@@ -1825,7 +2062,7 @@
       "url_resolved": false,
       "published_at": "2026-11-20T02:03:00+00:00",
       "published_at_confirmed": true,
-      "age_hours": 46.7,
+      "age_hours": 71.1,
       "region": "japan",
       "sources": [
         "Google News (JA) - AI 自動化"
@@ -1833,16 +2070,16 @@
       "already_posted": false
     },
     {
-      "id": "cc6631a48d69ff2d",
-      "title": "電通総研、連結会計「STRAVIS」にAI搭載し業務自動化を支援 - ニュースメディアVOIX",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uNnJxYjJneHN4Wm4tbVNyRjdBSXo5akdIUFg4WklkMXR0dkdCXzNDUjJ0RTl0QlBCYlBwRHFJeGp1Q1dzc00zWkhONmFmVE12MWZj?oc=5",
+      "id": "204036e75b07f3ad",
+      "title": "3大AIツール「マーケ視点」徹底比較 - 日経クロストレンド",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNczVEVGJIQ0lTNEsweHFURzNoUmxvVko5ZC1wXzFONDJMOFZ2UWR0UW1YT2RrWWlBUzlWNV9reWZKYzBYbUt2cENZVWQ2ZGZUUXRDTHV3cHhlTXlOc1E?oc=5",
       "url_resolved": false,
-      "published_at": "2026-11-20T02:02:56+00:00",
+      "published_at": "2026-11-20T01:48:04+00:00",
       "published_at_confirmed": true,
-      "age_hours": 46.7,
+      "age_hours": 71.4,
       "region": "japan",
       "sources": [
-        "Google News (JA) - AI 自動化"
+        "Google News (JA) - Claude/ChatGPT 自動化"
       ],
       "already_posted": false
     },
@@ -1853,289 +2090,7 @@
       "url_resolved": false,
       "published_at": "2026-11-20T01:20:01+00:00",
       "published_at_confirmed": true,
-      "age_hours": 47.4,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "def48923dbbde664",
-      "title": "超知能には物理世界が必要——Arda CEO兼共同創業者ボブ・マグリュー氏｜No Priors - BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03dnlTdEoyaFpTYjU1bjExeEZvREhua0hoc05rbUFwaGwwbjZkdEYxdWdoNVpFcXgwUHNQOHZ4NGp5dkU0U3J6MEdZZ3dacGFabjI1VWQtQ2M2YlJ5YXc?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-20T01:06:32+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 47.6,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "59136f6d5c74e10a",
-      "title": "実用フェーズへ向かう韓国のAI×XR活用 防災シミュレーションから製造業の見積もり自動化まで8社の最新事例 - Mogura VR",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE40MGR2OXJCaFIzb2R4UXJlaWduai1KdXVmNUdYcVVMRURld2dKUUZfZkNSUmc4MVRwQzZGN0JGazZ2RGtoMHZHc3NEWUhKeVR3UUFPOThQT2VZa3hjTmtzV3czZlZNZw?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-20T01:03:41+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 47.7,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "7318bd72cb8679ca",
-      "title": "日本の病院調剤室に初めてフィジカルAIを導入※ - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oV2Z3Rk9JMGRjOE1rYTFvTHNFX2ZtdVN1c2tEMndsRHNTakQ1c0tHU1BiLUdHWW0yY09SSjk4bG80VlNBM01zNzc5UEFCVEtfWmVEMjlqbXl5UjlDb1RlR2c4ei04UnFm?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-20T00:45:26+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 48.0,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "ae8ed6043e5c133b",
-      "title": "New GitLab Agentic Automations Clear the Security Backlog and Do Up to Twice the Work For The Same Cost - TMCnet",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSEdRSzZsTS1yNU5sS1NrSjJOSW5tVmxLN05wUHJxdjMyak1MWHhxYzZkdktXdG5pRUkweE9wdVpNVFN0SVpsUFVvYmw3OFZRLWx2Z0lJUjNfZUFTTUpwTlN1QUoyN2NrdnRZWkZLREVCalFaeFRZOEFKZk9STEdHMkRWejBkTWJXSEl5TktueV9haXR2cjloVk82V2lOX255eUtVUGpPN1lWbmJHTGVmZ0RQSQ?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-20T00:13:57+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 48.5,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - Claude/ChatGPT automation"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "12bdf11450327292",
-      "title": "【徹底調査】AIでXの投稿・返信を自動化すると凍結される？ChatGPT・AI返信BOT・自動リプライの規制をアカバイが調査 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0TzFnaTkyQnhTMlFGOGE4NHJfWVFvb3BIaGVVQTE5SXFSVjR3a0l0UjZTNndJOHZvU1lpSU5HaWJMdk02OUNwY0ZiNklYalAyd204RUhETzBQcTlBUVB3QnU4OTlNOGZC?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-20T00:15:30+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 48.5,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化",
-        "Google News (JA) - Claude/ChatGPT 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "af45438e7dc87107",
-      "title": "AI駆動開発のアクセルを踏む鍵はセキュリティの自動化──Devinが描く安全な開発の未来とは (1/3)|DeveloperZine - CodeZine",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84bC12bno2ODNEaU5iYTBoRWpwNlF2UXl0VFljTk9sb1gxajljRHNTckxMMEl5NE9NVUNNOTk3OFh5VHlHalZXcXg4cHlVcmozU0E?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-20T00:00:00+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 48.7,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "1ded7702f123acb2",
-      "title": "ヒューマノイドからAIビジョンまで、三菱電機「Serendie Automation」の具体像 - MONOist",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FYTdMSHhkQmVnT2ljTWNteHo4MWVQa0Mtd0pvZFQ4NjdkZ0ZBN21LandiRjB6elNKeXZ4WU9XMmFkX1ZJc05zMWl5S1NsWjNFcVdJc0lBbThLZG1NMG9TeGxKbEdZTk1YTlpLOFNsWQ?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-20T00:00:00+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 48.7,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "cea99fd353c72e03",
-      "title": "【徹底調査】AIでXの投稿・返信を自動化すると凍結される？ChatGPT・AI返信BOT・自動リプライの規制をアカバイが調査 - ライブドアニュース",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XWkhvNElYZGNaS01XZWVIekdpSFVWOHpqV0FFc004a2tQUlN0SDAyMklRUGs0cFo1QTVRenJwSFlGZktvTl9yZFNWaUtsM2xrSTM1UUcyX3FWQWNONmtlWVJB?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-20T00:00:00+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 48.7,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "3c9dba102e510d42",
-      "title": "人工知能(AI)を活用した製薬·バイオ工場の自動化がはやくなっているが、人が消えた「完全無人工場」に直ちに切り替えることは難しいという診断が出た。 規制が厳しい製薬産業では、AI導入自体より設備と工程.. - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5FbGMzNnY0OUVwdTd6WGhRdTZialo5ektUNWhwMm1ReXdyM2R1TElWU0k2YzFwVHo2bmNsODJKWFVZbWE1SDYzS3RHNA?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T23:32:36+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 49.2,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "2a9c9f823f07a838",
-      "title": "Antigravityを他社AIから操作すると「垢BAN」？　注意点をGoogle Cloud日本法人に聞いた",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003353/",
-      "url_resolved": true,
-      "published_at": "2026-11-19T23:28:20+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 49.3,
-      "region": "japan",
-      "sources": [
-        "はてブ - AIエージェント"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "c5e041629e2ac14e",
-      "title": "マイクロソフト、クラウドやオンプレミスのデータベースを一元管理する「Database Hub」正式リリース。AIエージェントによる運用監視の自動化も",
-      "url": "https://www.publickey1.jp/blog/26/database_hubai.html",
-      "url_resolved": true,
-      "published_at": "2026-11-19T22:55:12+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 49.8,
-      "region": "japan",
-      "sources": [
-        "はてブ - AIエージェント",
-        "はてブ - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "8b1ab64cb2d9b0d9",
-      "title": "SlackやTeamsで情シス問い合わせを自動化 Salesforceの新AI「Paige」とは - キーマンズネット",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yVGVJSWhEWWFtckhzVnRmOVUxS1FRQmdrY1pVMHdQMDNGN0pWbG1PWlRZblVOZmgtc0dIeEFSUkJQM1BJQ2ZYZmI3R0J1Y3V2VnF2LVEwT01jcWJtRHFJN2p2cHZWQQ?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T22:00:00+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 50.7,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "f4b6c648bffd1c34",
-      "title": "Gemini can now operate Mac apps in a background window, from $4.99 - PPC Land",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWFZzSDY3R1JBWDZUYWtxQkVpdHZGalh5a2pMcE41TWNNeHhYTlVrbzhGLUtMUU9LcmlsUW1nVkR2amd5T3FiNkx3bGE3MWZLVFpJMGRjM2d4ZUhkOXE5aVgyMkNEZ0ppQldtZ3pvRnRRQU5feThsN2Y5TnQ4OG5CY1Fha3R1ZlNiVlE?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T21:41:46+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 51.1,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - Claude/ChatGPT automation"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "8d451e973b06d213",
-      "title": "Modern Industrials Raises $6M Seed to Expand Custom AI Agents - Unite.AI",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQm1IenVZb1Y1dlNDbTR4VFB4c05HaFQ2bHpCZUlab2UwOW96bHJrdlFGd2pHWlJyZW1YVWhfRG9aaHlNTW5keEp5TlVJSFAzUUY1Q1dpMlNWdUtRSndTY2U4V3RCT3cwMzZOMENzblZBREhJTEJlZU5EdWQzalRJX1ZqZFM5MTc2SGc?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T20:57:04+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 51.8,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - AI agent automation"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "525441b888ad652d",
-      "title": "Uber’s 4 Claude Code defaults to rein in costs - VentureBeat",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOR0hTZGZfazFoSnk5U1Z2Z1lla1YtMGRRblhwQ2QyelNPS0RRdTdtMTl2U05wbDFoN1RaYU01dFdiOVZRNXc0eUNmWnA1SGFNY2JyZGs5U3d4V3ZMdTd5RnY3eWwzYmVYcXVhQ3JVZjE5dTl4MXVrV0lHM0I4NFp4eW5fYU9DUWh0ZGVBUzBtdGVjN2JDMm91dEJTT0o3MFV2SDV0QmQ3UGRoMVpPVzFQRVl3eG5mZEYzY1psbl96a0FRSmNud3pVS0NKUWg?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T20:55:32+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 51.8,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - Claude/ChatGPT automation"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "8ecb7024dda9cbbb",
-      "title": "【製造業向け】AI・自動化・DXの導入事例 全9セッションオンラインカンファレンス「製造業 最新事例サミット」を開催 - Excite エキサイト",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4wS21sdnpUUG1IenlKUUFRTFVfWGZXRDZleDRrcE5EN2c5MWpmMVF3NklQWnpmYmRjLUxWR09CS0huM1gyY0lOQXZvcFUyWmZfNE13RF94TWRqam12VU1QX2dFYy15X2p1bnBxaTU1cGk2TFVU?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T20:10:00+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 52.6,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "c48a820f2eadc97a",
-      "title": "Claude Code 完全ガイド2026、インストールから応用まで - Pasquale Pillitteri",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWDRLN3dhTWhaNnhVYXlpQ3NTS1p1MlJwVnFjM3JVVG9OMUg2VFVMODlMODBhR1pNVGFoaHJ1Ry02Q2J6WktfcERMSWRCM3pvT1pDbnpWMFRTcFc5Y1ZzZXNSU253d2RhcU9MLXg5SzVDTlg3Sk5zUjltanBteWlwaUlkVjM?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T18:48:06+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 53.9,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - Claude/ChatGPT 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "86de6e7a41b45776",
-      "title": "Claude Code, the Complete 2026 Guide From Installation to Advanced Use - Pasquale Pillitteri",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMGFqX1lsNzB1YVZ5dWJ1SmFPTXpaZHhPbGpGZTNlc0gyc3dlTmNYUE5vQVhhanh5Y19zWXRuZFh2UjhDdm9qVHNQRFg2TUdiX2laM0hFWXdlbF95dU1SOTFMRktOZ2dyZGtzYzYzcURid3pWc3YwYkYzRDgzSkxtMG9xcktScTdRWV9oU21TcFVXRkE1WTVCSlZzQUFrdw?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T18:35:56+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 54.1,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - Claude/ChatGPT automation"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "ea24d0a7ab027aee",
-      "title": "Vercel Launches Board for AI Agent Coordination - Wisevoter",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb255VkNPbUlnZ1pUbXAyQjVYNTRsTDJpc1lnb09zU0lHNVB3YjExTGJxbmlfMG93RURHVGs2ZU5zNG00a21iNFFyYUQ5bm9qellBNkdPSkt2RF9JQzNGRDl5NTVCSFg3LXZiWlVzUC03Rm9JS0FsclQ0MEJzaE1XSHA0MEFWSlhrZzNv?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T18:35:15+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 54.2,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - Claude/ChatGPT automation"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "f843bbbec31edd75",
-      "title": "法務オートメーション「OLGA」、「第19回 ASPIC AI・クラウドアワード - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIa3pMdEM2bFc3el9SUUk4VHAtRjl4SDI4QU9ieXZjZ3k2eWIyM2FUazlDTmd3ZXlRNmZZVS1oNm1YNXFYaVU5X3pzNnNlbzl6eld3STFFMnlJaVZ5RUFJVHk0V1N1QmZH?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T18:30:25+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 54.2,
+      "age_hours": 71.9,
       "region": "japan",
       "sources": [
         "Google News (JA) - AI 自動化"
@@ -2149,52 +2104,10 @@
       "url_resolved": false,
       "published_at": "2026-11-19T18:15:27+00:00",
       "published_at_confirmed": true,
-      "age_hours": 54.5,
+      "age_hours": 78.9,
       "region": "overseas",
       "sources": [
         "Google News (EN) - loop engineering"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "8b7e955b7eb40357",
-      "title": "A Look Inside the Factory - Howl.Link",
-      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1NUV9QcHZubUFjZm90eHNzbmNQYlRtaUpfN04xZG9DeFowejE0TFl5SG1RMVZaaFFoWWJZ?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T17:40:49+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 55.1,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - Claude/ChatGPT automation"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "413bc95470c4ec8f",
-      "title": "Want to build an AI operating model? First, build consensus - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBZT1J4TWNmSXlzV3NTWU9IcTAzYVc5dkJaa0JEQmtIaHFfck5qNkJaWk9lcWJXaWNMMUdYb0ZIZnl5N3lEVzdHYXowcGZIQUFrOWw4RlNqSmVWZ3NyaGNMWmtvNVpwczZMWWJFRVEzb21aN0tWM09TbG93?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T16:53:00+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 55.9,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - AI agent automation"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "f924fb31747ca396",
-      "title": "AI Impact on Software Engineers: Senior vs Junior in the 2026 Data - GitHub",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE90Q01GYVRHbVRQaS1QdkJvQ2NmT1ZkVVlTTTBpY1ZMT2NqT1N1THpRRTlOTldYaC03NU9ZcnRJVWs5dVFtV2Z1Wi1IZlJQWkxpcmNTNmJoVWNMa0M1Y2JCeTg2NUlzQXZDU2p5T3c3TmpOck5BZy1XSlRma1I?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T16:00:00+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 56.7,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - Claude/ChatGPT automation"
       ],
       "already_posted": false
     },
@@ -2205,66 +2118,10 @@
       "url_resolved": false,
       "published_at": "2026-11-19T16:00:25+00:00",
       "published_at_confirmed": true,
-      "age_hours": 56.7,
+      "age_hours": 81.2,
       "region": "overseas",
       "sources": [
         "Google News (EN) - loop engineering"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "8604ef56bf76043e",
-      "title": "columnsプロパティで縦積みのナビゲーションを作る – TAKLOG",
-      "url": "https://www.tak-dcxi.com/article/vertical-navigation-with-columns-property/",
-      "url_resolved": true,
-      "published_at": "2026-11-19T16:01:13+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 56.7,
-      "region": "japan",
-      "sources": [
-        "はてブ - AIエージェント"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "fd4102b25ec82bc4",
-      "title": "テレビ北海道の放送監視システム、Inter BEE準グランプリ AIで自動化 - 北海道新聞デジタル",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRTdaZ3o2ekdPZnJpNWt2Yms1SUdBZFN4LWRXbnp4STlHalJvU3FwYUZGb0FwN2hpM2x0ZFhIMWVqYUJ5b3luMUVjZl9Ya2dLUFRYMDVoemQzUW0zc18wY1lMZnk2SkVyQUdYb21PV05fWVAzcTFVVWI2YkMzRHRKSXpzRFhtZkFr?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T15:37:32+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 57.1,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "f5d61bbe332092f8",
-      "title": "Muse の VM は約2時間で入れ替わる（実測と対策） - Qiita",
-      "url": "https://qiita.com/mryo0826/items/c05efd7ac228fe85ab44",
-      "url_resolved": true,
-      "published_at": "2026-11-19T15:25:02+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 57.3,
-      "region": "japan",
-      "sources": [
-        "はてブ - AIエージェント"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "e174b39cc3cdeb4a",
-      "title": "マイクロソフト、クラウドやオンプレミスのデータベースを一元管理する「Database Hub」正式リリース。AIエージェントによる運用監視の自動化も - Publickey",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9fSThBMUY0LXl5Ym9yTkhveXJxUGNxTzJuNVZrNU5ZYVJoMU0za2FTalJjdDhwazJKOEIxYUZIaUxSOVU0TmZEVVdTY0k4MERiYXBOb2ZreWMwZkNCR2pZUDdxNA?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T15:24:07+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 57.3,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
       ],
       "already_posted": false
     },
@@ -2273,112 +2130,12 @@
       "title": "Build Agents That Run for Hours (Without Losing the Plot) — Ash Prabaker & Andrew Wilson, Anthropic｜AI Engineer - finance.biggo.com",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81SnhCUmtqalg2U2liZ082eWZaR2htMjlZTS1ORzcxbUR3MHZWRVlKU2VJMGJ4Q2tkVk0wdEFHQnN4RHBydWJDbVcyaXFmeUtnLVVld01XMlZLbHVnVXlz?oc=5",
       "url_resolved": false,
-      "published_at": "2026-11-19T15:11:55+00:00",
+      "published_at": "2026-11-19T15:00:19+00:00",
       "published_at_confirmed": true,
-      "age_hours": 57.5,
+      "age_hours": 82.2,
       "region": "overseas",
       "sources": [
         "Google News (EN) - loop engineering"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "d09c35637a7c2324",
-      "title": "Realbotix launches humanoid robots for education, wellness and companionship - Robotics & Automation News",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZmZ3Vi1uNjJOUnlaYVZfVFpSVy1LUW9KbTZ0UE41QmNXb09jX2psY0VQbWFpa1cwanhuQk1OSFdkb200WDZJV01LallIUmFnR2hLZ0swSWl2d2FIQVFMbkZOcl9tc0lTTjVIdnZfOHQwX1I3dlZGZmV4aFBmclVTZlFHbzZjQnhJelRCZWJtSUpjZHhVS2JZWl9tVUltakRQQWFHZVNxMi1hdU9SXzhmNFgySFhMSUVQQU1ZYU9oQVYwWkplZG9sZGhhamwwTk1Cc3lv?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T14:51:35+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 57.9,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - Claude/ChatGPT automation"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "8453522f4369ca17",
-      "title": "Anthropic Debuts \"Code Mode\" in Claude Code, Letting AI Generate JavaScript to Automate Tasks in Bulk - BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83MXdxLXU4STZERG1tSk84UVRlMXRydEVSSkRoeUx1QkVtWnJnZUhJdDUtUzhsRE1hNUNhMVZja2t5ZENQekFramhYVXNQcGpGWThJclpiY3BlcFd3SXJwSmFPZG41YlZGWVJ2U0JsUEl2S0Zpb1E?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T14:25:00+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 58.3,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - Claude/ChatGPT automation"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "292b3fbf7dd1ebcb",
-      "title": "アンソロピック、Claude Codeに「Code Mode」投入 AIがJavaScript自ら生成し作業を一括自動化 - BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBORUNsaXdhYTlWSEUxUlpYeDhKc3NZUzJ0VXJyanY5bVMtTWhMMEhNOXh4Szdta0tMMll3dDJyVXJTVEw1bzRkX2VGb0ZLdFhURkRHN0JvOFNRTGw4bG1XVmVNUjh4U0xDbDFnX3RLQzhZMXky?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T14:25:00+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 58.3,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化",
-        "Google News (JA) - Claude/ChatGPT 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "8a29bad53b001de0",
-      "title": "Adobe Coworker reaches ChatGPT and Claude before Snowflake - Quasa.io",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTjRuUG9fT1hjQ2dSeVB0TEJzYmt0bUVpenNudTZKYmNrdWdvNXU5eS1rNml0M2FrOUtNLUdHRDNoVG1xRUk0NG5Jc2RJTkVhV3l0a2k2ZWs4VTdlenFreWZnRzVYSk4zMUMzYW55MUVFa2lXeHM5STVLeFNwYm80TVEyNnhTTVlLSUozNVJyMVl0clhsMFowTWRtSzNEX1E?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T14:22:00+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 58.4,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - Claude/ChatGPT automation"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "d1f984e9e04015bb",
-      "title": "Claude Codeに実験機能「Code Mode」、AIがJavaScriptでツール連携し作業自動化（ビジネス＋IT） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaEI0OW1pdlRDWjBzWDhDNlQ2TzBJdHQzQWttVFdhcUhiRHNMMzhJY05oT3FQbE9xY18xSUE2S1NmMEV2bHBoOU5vWHl6dmYxYi0xSzVjYTV6UjR3NWFVaTdSWVJvSnM4QnJnNXdkSVJIak5nWGpqbHAzNVJsU3I4VWE0am5mbm9W?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T14:10:06+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 58.6,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "afcac9ca1f2b919b",
-      "title": "Claude Codeに実験機能「Code Mode」、AIがJavaScriptでツール連携し作業自動化 (ビジネス＋IT) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb1B5YURPMldEWi1Zb2ExeVc5b2wyV2VwMFFFSlVWbEctWm9zVkx4Z2Ixd0pCTGFRUFFnQTVNTXVOZEk4RXdXdW5SdnNleDI2eFFxTVpUeVg2bVh6NVFpclAwejQ3NFpGTjdLYlZWYzV1WDZOd3lwQlc2bHF6LU16REFtY1V4RFNnb3I3cWp3?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T14:10:06+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 58.6,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化",
-        "Google News (JA) - Claude/ChatGPT 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "8b2f247a07f2cd55",
-      "title": "Claude Codeに実験機能「Code Mode」、AIがJavaScriptでツール連携し作業自動化（ビジネス＋IT） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80eTRNc3F2R1d5aHRhb2hFQWtEcFRQTy00MUNRd2dQR3ZZVHJPQ3MyaDc5NjgyVUwtWlgtUzNGMmtreWFtdVZ3N3RYcFMyajljUDYxcVFHdUdoOXpyQ1pvRW1GY0VELWV4RHQtMFVva1VJcGlpNFU5UFUwRnJ5Vzg?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T14:10:06+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 58.6,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - Claude/ChatGPT 自動化"
       ],
       "already_posted": false
     },
@@ -2389,52 +2146,10 @@
       "url_resolved": false,
       "published_at": "2026-11-19T13:53:17+00:00",
       "published_at_confirmed": true,
-      "age_hours": 58.9,
+      "age_hours": 83.3,
       "region": "overseas",
       "sources": [
         "Google News (EN) - loop engineering"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "32e1de6750000169",
-      "title": "呉の中学校、生成AIでテスト採点自動化 教員の負担減らし生徒と向き合う時間確保へ - 中国新聞デジタル",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2ZkRqMHhLT3k0emY0Vk1YVnhtcTdIMWFnM3pjWnNKQkVEZVkzeFg5bk9JU0dxdW5qNllScXdjcjUtYmZWMzhfSHZMRFJTRWNQckVqM0ZCcldSUQ?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T13:48:00+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 58.9,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "933d5901c03f76a4",
-      "title": "呉の中学校、生成AIでテスト採点自動化 教員の負担減らし生徒と向き合う時間確保へ - 47NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5aUTRRSGtCcjh4NF9pQzJzUEljeDk3S01LUE5IaGprd056cmpqaU1PazBjd2VhR2tqVl9HWTBrM3kzXzJmaGVTQVhBTQ?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T13:48:00+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 58.9,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "9f29a30bc5773bf5",
-      "title": "AI agents everywhere at Rockwell Automation Fair 2026 - Putman Media",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNTzZsaE04NW5lRFBZOERfajVvV3F0TG9faTBFTC1fc1U0ZkhNNHF0RFNCS2xFbV9KTDMwUWs4MHRUTmV6UExDbEgwSUFjR3E2aGpCZVlKN3ZyRVdBaW5MRW1CVDVNSTQ3ZHRCeHh5X1hhS2RrOE9WRnFYb1VfYVZ6dDZWSl92OC0xNDVOYjh1OXNoT2xJYjc1UWpESVEyNGRFQ18zWklrT2owUFFuTmd0bFVsSDZMeEhiMVJKVVJkeVhyQjdTSGVVRUhPUGFhc21XZWNjMVVJaDl6UWRyTENuRmZ3Qlh0eE8yNGV4WTY0MGFuN3pTSkdGYnZJcERENjQ?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T13:42:20+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 59.0,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - AI agent automation"
       ],
       "already_posted": false
     },
@@ -2445,151 +2160,10 @@
       "url_resolved": false,
       "published_at": "2026-11-19T13:00:10+00:00",
       "published_at_confirmed": true,
-      "age_hours": 59.7,
+      "age_hours": 84.2,
       "region": "overseas",
       "sources": [
         "Google News (EN) - loop engineering"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "e76a91e94c9cebd5",
-      "title": "Goals (with guardrails): evolving AI and AI governance - Putman Media",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVUY1R05TaDF4Q24zcmpYZFFvMFBmeFVEWFRuQXJ1eGlRMUJGSDl5X2ZVUXNpREhtejdvSFVpY01tUVQ4SGVEM295TktHaG10R1FJWFQzcVJYLVV5dTVtYnFWQUd5S3FwY3pmekxJM2tUVktISWFyUUVZS0Y2dGJRYi1fWW1DT1FROWwyeFdnSHpQeWozRWlqenJZUXF3amZKQXU1SmszMHlJb2ZpcExTNGpZcDBPdHQtRDVqQndGdmJmUkk2XzlJcVdwVHN4dUp2M3RCcm9jQTBWcUZhS1dQVjlR?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T12:42:19+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 60.0,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - AI agent automation"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "98903d8f646e9148",
-      "title": "Agenship — Software FactoryであなたのチームにAIの開発ラインを",
-      "url": "https://agenship.ai/",
-      "url_resolved": true,
-      "published_at": "2026-11-19T12:07:58+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 60.6,
-      "region": "japan",
-      "sources": [
-        "はてブ - AIエージェント"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "ab88b920a2b7fcd9",
-      "title": "ソフトウェアダークファクトリー | 技術評論社",
-      "url": "https://gihyo.jp/book/2026/978-4-297-16073-9",
-      "url_resolved": true,
-      "published_at": "2026-11-19T11:56:11+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 60.8,
-      "region": "japan",
-      "sources": [
-        "はてブ - AIエージェント",
-        "はてブ - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "696376c0d1f0f976",
-      "title": "Impossible OS、LinuxでもWindows派生でもない新OSを一人で構築。143万行でプリアルファに到達",
-      "url": "https://joho-todai.com/impossible-os-new-operating-system-linux-windows/",
-      "url_resolved": true,
-      "published_at": "2026-11-19T11:29:27+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 61.3,
-      "region": "japan",
-      "sources": [
-        "はてブ - AIエージェント"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "55743f5684fcbc9d",
-      "title": "株式会社ユーザーローカルが提供するAI改善エージェントによるサイト分析と改善提案の自動化 - ニュースメディアVOIX",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HN1pBUzQzOUZuZVBkalZFYzhIZTZXdEdNQmQ0UDg0d2dNd3Q0bFJWSHRyRW5XekV2QmFwNXVwbElIc0pWNDV3SkhVUjNQU2xlSnZKZzBUTjM3NEZKZ3lxNHE1ZEd5aTJm?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T11:13:01+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 61.5,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "a225ab0fc4a0db2c",
-      "title": "Hackers Use ARTEX AI Agents to Automate Network Intrusions and Gain Privileged Access in Under 3 Hours - Security Boulevard",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUlAtWGZFUExKQ2JNRlVyNWQtS2lFa05PaVVmYUpCNjAzOC11QnVPa3BRT0tUVzk3RDZUWjQyU2FNYl9yQ095ZVBraE9Rbjk3c0NVT25qb0NrV2NtZVNQQlNNVVFQV3dtNzVFOVhnbzVPaTdoMjFtNmFjb0FFckc2c2t6RnBhRmUxUUloX1dXWThFendTOGJBa3BfbnRCRFVBOUFmYm1hNWROVFNOamdmSEgyZ2RoaFNTZ01kXzlKQXpwcGJWczB6a1JJOXJCQ2EwbEZhS1hna2M?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T11:10:44+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 61.6,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - AI agent automation"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "ea1c9e50dc8f1e40",
-      "title": "各AIモデルに最適なハーネスはどれか？",
-      "url": "https://gigazine.net/news/20261119-frontierharness-eval/",
-      "url_resolved": true,
-      "published_at": "2026-11-19T11:01:35+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 61.7,
-      "region": "japan",
-      "sources": [
-        "はてブ - AIエージェント"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "341dcbc2636e0f9b",
-      "title": "【耳に着ける専属秘書】録音・文字起こしから行動提案まで全自動化！AIイヤホン「GLIDiC AI +u Buds」の実力をプロが検証 - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxeHFBS3d3OWRzdllEczhBWFBta0lJNzFCbnZLdV8tTVJUd3NUbE5JWWN3SlMxWmQ3cVVFOGV1NEJTNE1Ib0RiY25rb0sweUtJZjBXcTlwX0RfZ09uRUxpcm9BOXduZExkOHljYjZHRHgxeFpSdWl2Z3o4LVdfdTA?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T11:02:22+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 61.7,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "6bb9bf5d45ca07af",
-      "title": "Beyond Chatbots: What Multimodal Game Agents Reveal About AI Automation - Robotics & Automation News",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOE5RN1VnUmJ2Q3pPRE5kb1VLcXpOckQ5d2drOElBVDRORmhqUklGZDVyV0dBZHhDblhqb3Q3TnlFcDhXNDdoa0l2eUhac1JveWMxSTczQmlGd2FPZnoxZEZ2NTF5ZTFQY0Vvajg4amloOU95dDBiOTJ4U1k0SWtOdkRQRjIwUnF3clIyQXRPR0szNElWTU1jSTVjYk5NV2JqVVczZkF2NU5zMkQ3VXpkTUFfYy1FNVM2bWduUDhLT3o3QkdneWc?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T10:54:07+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 61.8,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - AI agent automation"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "192808697ccf9327",
-      "title": "Claude Code allegedly played GTA 6 for 8 hours without any help: Here is what it reportedly did - WION",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZHBrYWxuN0o2STRncmFOU2FpbzdYcDZiTm1GZXpNM1NXSVRHYzNQNENJajVKcWc0Q1VWTWpxNXZ5QzV3V3dEU25XQlBCd1c2OGlfVER0amk5TlVLM1NTOTJySkNSX0pPYW5WZXl4SEpMUzJ3RVRjeFFETmdaVWF0S3NFYTlJaERlMXU5bFZ6OWRRZUs5eGhmRWgyNHlJY3pkaDFqOTZXa0FNNHV0THhyWERmbHBnaWJKZDBLSERxOVZ1Nm9kMzNGVlhHSlpybWlqUjlqYTVFa052ZmZNcGJwctIB4AFBVV95cUxOZHBrYWxuN0o2STRncmFOU2FpbzdYcDZiTm1GZXpNM1NXSVRHYzNQNENJajVKcWc0Q1VWTWpxNXZ5QzV3V3dEU25XQlBCd1c2OGlfVER0amk5TlVLM1NTOTJySkNSX0pPYW5WZXl4SEpMUzJ3RVRjeFFETmdaVWF0S3NFYTlJaERlMXU5bFZ6OWRRZUs5eGhmRWgyNHlJY3pkaDFqOTZXa0FNNHV0THhyWERmbHBnaWJKZDBLSERxOVZ1Nm9kMzNGVlhHSlpybWlqUjlqYTVFa052ZmZNcGJwcg?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T10:39:00+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 62.1,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - Claude/ChatGPT automation"
       ],
       "already_posted": false
     },
@@ -2600,7 +2174,7 @@
       "url_resolved": false,
       "published_at": "2026-11-19T10:33:08+00:00",
       "published_at_confirmed": true,
-      "age_hours": 62.2,
+      "age_hours": 86.6,
       "region": "overseas",
       "sources": [
         "Google News (EN) - loop engineering"
@@ -2608,663 +2182,16 @@
       "already_posted": false
     },
     {
-      "id": "63660654a9dde59d",
-      "title": "How AI Agents are Automating Insurance Claims Triage and FNOL - - Insurance Edge",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZUxlTVoxcGNHOUI0cTFWYklvVmtyWllHWEoyUUtxY3RaWWRIck5Qd3lxNi10NXNuUm4xRVlMbTVHQUQ1b2R3N1hJbEpkS0R2cnlQV09OUGFIUzVnNWpicGRHZzhrcmpTZTV4NEZ3TENTSGk2dGlZc3Z2cUYzUG1ydzgwVnBrS0RIV3JRRW9rcGM5NWpJNk5LOG5hOWNnUEJ5b3c?oc=5",
+      "id": "b972e37f1aacb0aa",
+      "title": "Claude Fable 5.2 Tops Arena’s New Agent Index by 112 Points - FourWeekMBA",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWklYUjQzb2k3THFDU2dIVnBUSzlrWXJ4ZmM5SWFKaFhHU1ljNVZrSklraU8xNGhkR2hwQTZpNmhHTlBUUWpDSXJJTjB3WlpESjNOblVSejdRMUZmNXpURmNZUlZYOElIVk5xd3VsVlNXcksyT3ZPaGQyZGpDa3dCTzB0LXlqaDNyLUhPN0pkZw?oc=5",
       "url_resolved": false,
-      "published_at": "2026-11-19T10:12:58+00:00",
+      "published_at": "2026-11-19T10:08:49+00:00",
       "published_at_confirmed": true,
-      "age_hours": 62.5,
+      "age_hours": 87.0,
       "region": "overseas",
       "sources": [
-        "Google News (EN) - AI agent automation"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "a8fa206dc1458814",
-      "title": "テレビ北海道の放送監視システム、Inter BEE準グランプリ AIで自動化 - 北海道新聞デジタル",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43VlQzQUh4akluUkNSaUNLeXRKMXh1Q0IyV1BURVdtZ3FQa1RHWFF3OUFnQWZnVVdyUDF0eWlna01mS1hhR2Fid3Y5eVdRQm83Szh4Y1pDVHBTdw?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T09:45:05+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 63.0,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "e5f839d2336a458b",
-      "title": "顧客からのメール対応を削減 ラクスの「楽楽自動応対」 「AIーFAQ」機能を追加 - 観光経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGUEJNWVQzMGpyNUZzWFV1ZW03bTRwRlZKdVM4Y1RTbVpRSnM3RWNTTXRtd0tsYkNTamtlbGxVZzk3XzItckoxU0pzQlZfRDlNOXpuVg?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T09:13:46+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 63.5,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "6c712de2dee62c83",
-      "title": "Ukrainians created an encyclopedia of Russian occupation policy in Python and automated its filling using AI agents - dev.ua",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPM0QtaU1Xc0ticld4QjN4M2xPVERIMW5wR0Y0dUwteUVrcDFjeTAtVzRrSWRESXlTb2VJMUNpVVdzMURDYjdubndTTXVQZWtvakpsUW9hTmtBV3hJWGkyQXNWSVp6YWlrdWg0RUtoRWlJZ01mdFhCQUphSHM3SmF0NFpMZ3h6RmE2X0otU0ZtdG02MHBsd1AxU2FnU1BySUpZQXFpQ3oxTUc2cTBkMEoyRmZGdkRYUUlyNDlSdmV6bDBGam5fTGxqYUZYaGFuekRQSXNyMHlLd2phNE5neklQb1IxMUVBVEZNZ3ZUQ3pFalpzV1M5S0E1VHBR?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T09:05:00+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 63.7,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - Claude/ChatGPT automation"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "9e540dd1f07be0d5",
-      "title": "AI Automation Raises Questions About Human Participation in the Future Economy - AiThority",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeVdVQXNOUjJvV1pheHZ4b3Fvdnpvd2duMDFqZVJNb1Bvd1RnWjVEeHJfNV93QmJsNDlXc0RnSk5mTVJkWmNCRFptRzkydWNUYWJGVll5V0RmQ3F5NEdtYTM5NWpVU0JNd3ppLXd0UUw0MmtMQVZTcUc3ZjB2eDFnMUx6VGZzR0trVHFMTGdwVURsVWNLRVJqWEtjSEFjZWNaRGxaY1NWWDVYTmhKNmQ1N0tyTnFac3RfU2c?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T08:43:04+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 64.0,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - AI agent automation"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "16a08b10d853e814",
-      "title": "AI Is Writing the Code. Robonito Launches AI Agents to Test It. - AiThority",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWW51WGEwcGY1X3ZhdGhSV3RXMGtpNGMzWS02bmZmbUI4THJZTUluUVQ1RFZQSnpRY1lNbExNWW0waFFyeC13WXU4OHpEczBXRHE0M1NVVkppV25nYUtpb05vRXBaWjJTNWQyYnJ6Vi1VcDNJbnJuam5xX3RMZldkYVBPTnRYUXd3aHJIb0Y4eGdCZWJlenR1dFhKc0gxTjctUWRF?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T08:38:02+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 64.1,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - AI agent automation"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "245b5e1c625cd403",
-      "title": "テレビ北海道のＡＩ自動監視ソリューション 「Inter BEE 2026」で準グランプリ - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wWkpzLTdPaWpnblFqMENRdGFPS2lrT3Q1VzJGV05mcXRXNm8yeEtGOU5WNkxOZXZRMUxlWXhnTTBURkU0Sm5URTQ1RWZ0TXJId0IxZFhfQVdmNTZKYUFQWXkycjlWUGdGci1Vc0hON1lqdmphT3N3RHhZU1o1TUU?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T08:34:00+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 64.2,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "c488ee7ae4403c15",
-      "title": "粗大ごみ受付を24時間自動化する音声AIオペレーター発表 - South65",
-      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPWVdEdzBHQlNXelFoeUlFNGIxMUh6cG9ORURPUk15eE9rTGJ0bEc3Y3p5Mlk2RkFQaVdJTnlxamtBdVptbXdmc0UxT3FxWjNMclZKQ0VadFQzcW1DdFp4NXo2OV8xLVJkYmdqN3dKNENYcFlPM21rajE0RU5Ib0s1REVPdGswV1p0UzR1dmcxd2xzOWYwTllET0dKZDl6T0RDSWZ0MUdTNnh0b1lPcnlkb01lNE9oRG9DQmNIRUxteEMxZU5aSmZBTXEwU25mYlpKS3g1WmNaWk1fOGktVjhobTlKQ0p4OUt4R2RaSE1rU2NkVmFCdlp3aGxibzIySGZ2a2FGTWFvVnItZzNnS0UyN0xseGpoR0NxT2c1MkJqRjhSS3pxN2VGVktGZkdWSDlIWVJ6dVlQWGvSAb4CQVVfeXFMTnRTRV8zQkUzdnRBVmxfT2xrUFFhbnkyME10T0lfQXRaTDg3NkhKVDBicUFaXzVzNVZnOGtTS2ZqbWxVLTJNU05YZkVhakZGRVFjTjI0WURkSVBoeGNyVjV3dFJtdDV4UEkyQS13MElRZElLRjVDa1V4ZnVrTENjT3FmS2Q2eXRMdFk4aUV3bHNRakMzQ2dzQ2pzeFkyUTUxRnVoa3BweWV0amhHT3RzYTdyUkN6bWhMelMwSDZHV2ZtMWdINU9PTXJyakVVdDZuMlo5OU14N25QaHRaYWtDVHhvcHdCWHBHLThabmlpRVBfODVsVDRzbW9wN25jR0NJTGRBSGl1aXpJU1ctaGlxWjE3QmNRSzRpQkdVdGgxUFNTMk4xUlR5MUxhZmx5blI2dlNUVmRmU1lnZ1hFVVpn?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T08:00:00+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 64.7,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "2a02b98dd2f86d1f",
-      "title": "ChatGPT の速さを支える OpenAI の Performance Factory - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV29PclpoT1JVN05nSE1sNjlRdEhFQV9OTWJqZjRiQVpzT3l2WUhmeWhjWlJOTjg2TjNQdUtzTkpzRnlxRnJKZVpkdllPLWNCZldIbEdWaGE5T1duX05uWXdfeWdLbzFfWXBPTHZOdXJHV3o3Ty00b3llTE02TmpsSEo3M1BQYXI1?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T08:00:00+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 64.7,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - Claude/ChatGPT 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "f54cf955cec8ddcd",
-      "title": "Financial firms must rein in AI agents with identity checks and audit trails - Singapore Business Review",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTkFTeFlOTTZ2LWNBMm1xS1Y2cUZEZGlsc1ZVZTBYejRZOU1ua1NfNGJiWHU3UXVNSXpjZG1wMFFTXzliMnRwcWFiTU9rcXhpV0NGbFd6ZEQ2Z0wzVEFoNjBMWlRSaENUWkgwUjdfaDByQk5sazB6S0FkVVhkM1dObFlNTVU1WEIxRGJWbmpFNmNFUi1hWkl1SWJPRQ?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T07:59:05+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 64.8,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - AI agent automation"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "afbfae104451582a",
-      "title": "楽天証券に不正アクセス・仕掛けた犯人は捕まるのか？ - 貯め代のシンプルライフと暮らしのヒント",
-      "url": "https://www.tameyo.jp/entry/hacker",
-      "url_resolved": true,
-      "published_at": "2026-11-19T07:43:38+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 65.0,
-      "region": "japan",
-      "sources": [
-        "はてブ - AIエージェント"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "7e2f2e3ba39fb674",
-      "title": "自律走行ロボとAIで橋梁点検から調書作成まで自動化へ 大和インフラロボティクス：スマートメンテナンス - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnTG9RLWh5ZHd4b1JMX2QxTHdRM21ETU54cXBEcnFuYUU2MnNDZkcyMGI5TkYzd3dDYzhaQV8tRHhFSXRoc0stdUpHSFlsR3JGWGRXRGNfcV8wQlhnUnIzQ1ptbFpnQlpNR3pfUg?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T07:00:00+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 65.7,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "7c34a1693b53803c",
-      "title": "正しいUIデザインと、意図のあるUIデザイン",
-      "url": "https://zenn.dev/praha/articles/08568310684aa3",
-      "url_resolved": true,
-      "published_at": "2026-11-19T06:50:26+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 65.9,
-      "region": "japan",
-      "sources": [
-        "はてブ - AIエージェント"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "843617f75d919235",
-      "title": "A-Rise、人材紹介エージェント向けAI業務支援SaaS「Melty Palette」を提供開始 - IoTNEWS AI+",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9mc21JN00xcnd2TV9aUkd5QzBNRldYWkZuQmlRZmxjZWpUbThzblVVdy04UktxaDdwTmxmLVVRZmRDZmvSAUhBVV95cUxOVjRhamZwSTIxY3ZJbDJWNTBLZkZ0T0pQLWI0c1dhYUFQRkE4R0xPZ1M2SXMtN0pOY1lWVUxwN1RxYnFsckVoQTk?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T06:52:40+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 65.9,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "df68eb8e6393dbaa",
-      "title": "「外画全自動吹替え」「AI映像制作」「AI音声制作」。ボイスプロが、動画工程効率化サービス『Auto-API』を展開 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85eTFjS3RYUThwcnUySlRTaTRydFFVWGtBSmJwdWZtSjJNdjhUSHZ4QkZGWXN3S2psY19UaTVkTUxCU0ZhdmF2QVdHVS1VUVUxamt0Zi1YNEFfU2VuRFZNNnJMaVlBV3B0?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T06:51:34+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 65.9,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "dd2097e77f75f13c",
-      "title": "Googleは、完全自動化されたAI攻撃を検出しました。 - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTERYV2U1c0luX3c5RUliQnViVnVaVWtWb0ZyRm15ZGFuQTRzNVRqYmd4MFpGZW05dGM2SjY0R09uMjQ0eXB3OEU1Q2lSRzVlY0ZrZC10TGMtSlJxejdyNjRFTWs2MDN1WXJhQmVjRTN0Z0JPWXpSN1RUQkJEbWNMTkQ5Ujk1UXF4QWc?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T06:38:31+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 66.1,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "270fc5ecb371025e",
-      "title": "Microsoftの「Agent Framework」が侵害され、認証情報を盗む不正版がPyPIで公開",
-      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003332/",
-      "url_resolved": true,
-      "published_at": "2026-11-19T06:01:06+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 66.7,
-      "region": "japan",
-      "sources": [
-        "はてブ - AIエージェント"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "4d0441792db64947",
-      "title": "AIが進歩してもLPガス配送を自動化しにくい「4つの理由」 - ASCII.jp",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51TGlWdzB4M2JTcXZ0bTlQN1c5dmJzVTZucVZEQld4T2Z1OHdzdzEtbVNucVd0SnM5dEJGTEVkQjZtSG1kZEtEU3Vub1hjbDExU29xSQ?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T06:00:00+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 66.7,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "8bd281adb9d8c012",
-      "title": "アプリケーションエンジニアの考えるセキュリティ対策（考え方と共通の前提） | フューチャー技術ブログ",
-      "url": "https://future-architect.github.io/articles/20261119a/",
-      "url_resolved": true,
-      "published_at": "2026-11-19T05:20:55+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 67.4,
-      "region": "japan",
-      "sources": [
-        "はてブ - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "114e1c10e5fffa06",
-      "title": "AI agents inherit employee access, and nobody’s watching how they use it - Help Net Security",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbWkwb1Q5cXNIV3BiRzVOamRIa1RvdEF1OExOejhTVVBON3NUZFdjd2k5c0N0ZmEwSkxxQlpjSWZkaDkzUWNyUWg1UWRjUmpfYjBZQnBoSy14VGJyQW5lMXZkeEZ4VEMxa0YzSjMtX2xMa2MyRUt3Y0hwMVgwMTZvcnBUUkdvcnUwU1VtVnpDTU5RZ3FoMFlSeUlMTlg?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T05:00:37+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 67.7,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - AI agent automation"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "3199804c29281e2c",
-      "title": "Google detects first AI-powered autonomous cyberattacks, linking them to Russia, China, Iran, and North Korea - Escudo Digital",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOX2xHNnlZeEJ1VHl4TlA2QlFpbVE2c0xYVVB1Vl9PNEJWM3ZTcjh2Rk1sZGppZktySmp0Y2Rld0ZDdnZmcVAxRlcyTjU3R3RReVBEUENrT3E4NXgyVmhJLXByZ2NqLXRMSDVkbmdhb0NUTjh3TWNmY3FjcWRyNEY4dDBacUdCVTJrU1NrY2dfdnFtWkk5UmlqV0NsQTJpWDdkcGxXaFpkTlJxZkxveUVVSk96NzA0eXBmblU3UlNxeFhqQ0dCd2xEeWV2UnZSR3B0X19wenIwWmRBelFfQkczUDRVWEQtbm0wamloU0d2ODBCcVdmTTlSaVB5Qm5RUF9zRzFIeWNKc1Jwdw?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T05:05:01+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 67.7,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - Claude/ChatGPT automation"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "448e76a213489ee6",
-      "title": "パーソルBPD、採用代行とAIを掛け合わせたAI RPOを提供開始 - Dellows News",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB1VTRELUdSQUs0VldiOHVVS054WmNueVNybXpRWHFrODIzZ3ZGYkVTdURwaHk2VjBZdTkxM3B6MVBlRDZiVXc?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T04:19:36+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 68.4,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "68095b07ba9a9886",
-      "title": "Same AI price, very different costs: What to automate in South-east Asia - The Business Times",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb3dHa1d1dWYwUmVzWlA3dHZuVXlrRWJwbUNia09Yd01TSjVkSmE3R1JjQndTeXNheFpzVjNCS2RpNDVtb0ZKb1p0N21oRFdTaHNzQ2RTNDY4TjFUaGNwQmtKbmNEWVc1N0lBNTMyTTdSMHNlZ0tMTm9ublVJRjRrSTBueHpraVRpaGtGSW5XbUZoYkhkcnFKR2VNWl9jYWM5Z3dvR2x6R0JiMWdBWmFreU5CV0Y?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T04:00:00+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 68.7,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - AI agent automation"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "2ea9d930aeb8b36c",
-      "title": "OpenAI研究者の上位1割は1日当たり367万円分のAIを使用、AI開発の中核は人間が担いつつ「AIによるAIの開発」の実現に向けて加速中",
-      "url": "https://gigazine.net/news/20261119-openai-rsi-research-acceleration/",
-      "url_resolved": true,
-      "published_at": "2026-11-19T03:36:24+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 69.1,
-      "region": "japan",
-      "sources": [
-        "はてブ - AIエージェント"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "c8715fe9650e7513",
-      "title": "AIモデルとAIエージェントをつなぐ「APIルーター」に注意？　428件を調べてわかった乗っ取り手口　暗号資産を盗む例も",
-      "url": "https://www.itmedia.co.jp/news/article/2611/19/2000003310/",
-      "url_resolved": true,
-      "published_at": "2026-11-19T03:20:46+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 69.4,
-      "region": "japan",
-      "sources": [
-        "はてブ - AIエージェント"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "e4efd872620775a3",
-      "title": "pstack 完全ガイド ─AIエージェントに雑なコード を書かせない技術─",
-      "url": "https://zenn.dev/karamage/books/50c18e52e7d19e",
-      "url_resolved": true,
-      "published_at": "2026-11-19T03:19:26+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 69.4,
-      "region": "japan",
-      "sources": [
-        "はてブ - AIエージェント",
-        "はてブ - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "badb601171b64300",
-      "title": "Anthropic finally responds...｜Theo - t3.gg - finance.biggo.com",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FUGx6LW9JTUl0a2poREVPS2dNRHA1bzRJUWFCcnlZV0RBU2N2Y3N2MWNubWg1LURRZFM5Z2RsMTRnNlZNZHV4TGJRMnBhSkoyLU5WcUgxQnZOTnJFUnNF?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T02:58:55+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 69.8,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - Claude/ChatGPT automation"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "12187f494edce2e2",
-      "title": "2週間号泣したという孫正義氏「残りの人生はAIに捧げる」（中央日報日本語版） - Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/d6d5a9af37190052af672524a3da6728dce9ecec",
-      "url_resolved": true,
-      "published_at": "2026-11-19T02:57:31+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 69.8,
-      "region": "japan",
-      "sources": [
-        "はてブ - AIエージェント"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "6f38dffdb27e533b",
-      "title": "NSJAPANとCREATREEが資本提携。集客から商談・AI業務改善までつなぎ、企業の個別委託による連携負担の軽減へ - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44RlNvZzNFeTJJeVd1MDFtV29RZUFhSFBodDdoeF9RZGRHaHlrbGp6QzY1MGNZLVlUeXM4Q1RLVFV3T3dHOWlCTlMycjk5eFBWMDlTU2FaYlJIZ1AxTExfc0dSU3hzSTk3?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T02:45:24+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 70.0,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "c4b4dbbd2e5c4799",
-      "title": "Apple、新しいインテリジェントアシスタントやMCPをサポートし、AIがドキュメントを編集できるようにした「Keynote、Pages、Numbers for Mac v16.0」をリリース。",
-      "url": "https://applech2.com/archives/20261119-iwork-for-mac-support-ai-assistant.html",
-      "url_resolved": true,
-      "published_at": "2026-11-19T02:35:27+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 70.2,
-      "region": "japan",
-      "sources": [
-        "はてブ - AIエージェント",
-        "はてブ - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "7ecc49722ce6efa5",
-      "title": "User Insightに「AI改善エージェント」、アクセス解析から改善策まで自動化 - ｄメニューニュース",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9fWEd3TEF0TlNnd01BNmZaN1R6OEU2T2xxUEpVR3VwamJ4anc3S0lYX21FUWZBRVNNT1JlYmhrQ2R5THVDbktCZFROa0JWZi1aN3M5Z0tnc3c4TmdySmt1OW9ld0xtbnh4VWpFdFh5WVZkNzlSUW9R0gF8QVVfeXFMUEdWMjRLT0tzaXRhSFB0NjFZak9WSUdldG1hUDhTUlVvTGxEV0g2MnpSS3ZycWV1Y0FmbzlUcnJGeExQQjFIalBrRXNVMVpadUhfR1QyNVRYdzlpSlVTYWoxekljRmxjTFBJUkdjR3V6SXdvMDRxWDByX1VacA?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T02:30:00+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 70.2,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "e5b28dbd9268ccd3",
-      "title": "「INTER BEE AWARD 2026」を受賞 テレビ北海道の AI 自動監視ソリューション「VMO-AIPlus」 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90WUFadVo1SzJJbGRiQW1UenU4WnNqMDV4NDBsM2Nsd0EweEtiUFpkX1l1V214M3hzaFo2dnBhdUZlb2lDekJjNG5RMDdaSzRaOVRFbmoyOEsyeU5sSW4weGpQV2JpT3hRNXc?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T02:30:01+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 70.2,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "2267afddc4e343d9",
-      "title": "User Insightに「AI改善エージェント」、アクセス解析から改善策まで自動化 - ライブドアニュース",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VcFBlRVVKaWMtVmItemFBM3l5TEFMbDluVU1VRE96U1ZNakVGcmhReDA3a0UwS1ZzUG4xZm9nQk5jUFFZbmNuWE5ldHN4V3ZFYm13TkVWdEtqOHQ3aGVv?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T02:30:00+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 70.2,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "b7ae1d70451611b0",
-      "title": "【画像】User Insightに「AI改善エージェント」、アクセス解析から改善策まで自動化 - ライブドアニュース",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qazA1NEJBRlRkLVB0Q2VQXzlCS0w2WG0wZVR2X1V0MURMUjZkemRfZ2RXdWI1VXhZR1hHeE1SVHh5NTNaSVlCYlVyVXluQ09MVXNQTlpHNnRSRUZKcjVSUmp0RG90ZENYSEFCZ2lWTDRJMDlwNWhVSnVBU0g?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T02:30:00+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 70.2,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "5f88ddb27902fc55",
-      "title": "30年にわたり蓄積したマシンビジョン技術…ウィルビー、AIビジョン検査で製造現場に革新 - 매일경제",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4RFBqUjJyTERYZXBLQVJyMldrVFVrVEVYcFlWUm5WTVlCZlF3elh3cGdPQjN0b21ZWjh5eXlETmowQkhHUml4RDhpV3E4b0pEdnlj?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T02:27:27+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 70.3,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "d4b26d90198d42b6",
-      "title": "Googleが「Gemini 4 Neon」を発表、最先端の推論能力と高速・低コストな処理を両立しコーディング性能で世界トップに",
-      "url": "https://gigazine.net/news/20261119-google-gemini-4-neon/",
-      "url_resolved": true,
-      "published_at": "2026-11-19T02:23:25+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 70.4,
-      "region": "japan",
-      "sources": [
-        "はてブ - AIエージェント",
-        "はてブ - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "89bb349428020b09",
-      "title": "User Insight、サイト全体の分析から改善提案までを自動化する「AI改善エージェント」を提供開始 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5EMFhZN3Q5RDFMakJpMjQ1U3JNSEZJcDJoT1dyallncTlyUmhDcEs0OWpwSVBvRWxhaVdIRG4yRllBUHZwM2VPd3RkLTUxZGNhbFl1VGlNcEVJQkhSS0hCeUgwaDdaUjlvUUN1MnVUSmswN0dsdnc?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T02:15:21+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 70.5,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "63fda1e9f8ae7a0c",
-      "title": "【製造業向け】AI・自動化・DXの導入事例 全9セッションオンラインカンファレンス「製造業 最新事例サミット」を開催 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96YkNhQWJMZF9UM09zNy1qbDd6aXlGTDhZTTRqY2pwWUlnZzBXYzk4ZjN0R0pnVmo2Rm1OdjNOR2hMRHpENUg0aF9XTm83OFA1TmUzUTFpbjQ1UHkxTTdJdUlzM2gxdFVWUlE?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T02:00:29+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 70.7,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "ef8213a1f6b5148e",
-      "title": "AIO対策ツールからAI動画作成サービスまで、実務で使えるAIエージェントが集結! 「AIエージェント博 2026 byAI博覧会」注目出展社を発表 - イザ！",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB1bGQwZktzM05DdWNlUmVMZElDeGp5NWIyZjR5MlNXVlI3NXZTRUtSVW1XUURHM19XMkR6UERDYlJHOU42Nkp1RHo5NU1fQ0hwNVhNR0k5RkxOSHJGSDJGbWVldlFQc2l6Ry1FN1FFSnN4bG9oVGx2ZnlR?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T02:00:00+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 70.7,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "78c0f301434becaf",
-      "title": "ASPIC AI・クラウドアワード2026COOOLa WESがASPIC会長特別賞を受賞B-LuckがAI環境貢献賞と環境貢献賞を受賞 - RBB TODAY",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9rWm5nUmhkLUZPYXlua05zT3QtMldWbmlWcXVESVpTQlFnb1VLUFB4cXdDZUxJVm5ZU2IxTUl3X3kzZFV2ZHlYOWFEdk9IODVEdTItalJRbjJxN1ZYR2prZFV2VFNlemdRMUpyVHlqZHNxd3ItVUt2UkgtaHc?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T02:00:00+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 70.7,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "acfdf014aed3caa5",
-      "title": "訪問看護のスケジュール作成をAIで自動化 Recovery Internationalが新システム「C+Route」を提供開始 - 千葉テレビ放送株式会社",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Hbm9JRmUwb0M2bjRLd2xYcU5mVFNoYTZUbFZUQ0FuNDVNQ25FWlpNYlVyTFowRlFlY3BzcXBFbTJxeHNONUJTeWFMY1JqdGhfU1ZobThySlZ0bi1LVElr?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T01:56:15+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 70.8,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "6ca8214504499cf9",
-      "title": "ServiceNow wants AI agents to chase the unpaid invoices too small for staff - MarketScale",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaDE5NnUtQ3FKdWpCTlNjbU9BYUs5SzZXR1Jlc2dBREwzNmZMVlFreGNDbVdYbWVjUFBGdV9WMEdZWXdYT2kzS1FJTmJmenZib09GLVhIQmhaamNWRTBzMS0zT1Q4U1NZV3dpLUYydUtkRzJHRW9yUjNUd05qaVpLOU5EOU1wT1hZZGFnYWEyZ0NTT3pzRks4LTFZOHBpdXg0ZEt2dXMweUI3ejVLanpueTR2Ym96dVF0SE9nSFVQQ0hxVC1DbmFjb0RLTjRnUTI4dE96cA?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T01:51:40+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 70.9,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - AI agent automation"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "eaa2b1bf6f35094c",
-      "title": "訪問看護のスケジュール作成をAIで自動化 Recovery Internationalが新システム「C+Route」を提供開始 - 株式会社共同通信社",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0NDNBRF95M2llRTZtRWdKM3l3cDBtLTRrUEdQN3dyLU5GMDhqWEFKYTNSUVFVSnpuZlhjUEU1WlpvOFhIWVZQdHRxOXlUWFN5czhWQWlkRDVuNUdE?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T01:42:00+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 71.0,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "2ada2a51457c333a",
-      "title": "訪問看護のスケジュール作成をAIで自動化 Recovery Internationalが新システム「C+Route」を提供開始（オーヴォ） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWmd1SUpGVk43SG15R2JjbWQ0ZUZ1S3J2QVRvMGdTR0NiMHBTeTdJR0VCS2JpZUpFQ1NSSUxZNkJKaE1Fb0lHX1IxMlctVjZFYjFGQkJoN2M1cHlhYlZrM0RiSFR5RzRFdDJsQTBCbTlOSGo0Ni1GTi1BdG1sUXZodlRLMlgzV1J5UVdNeWtR?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T01:42:21+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 71.0,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "59c07b0f849772ee",
-      "title": "訪問看護のスケジュール作成をAIで自動化 Recovery Internationalが新システム「C+Route」を提供開始 (オーヴォ) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTkhzYU05blhnU0NSZllHTUNDREEwVnl1ZDZiU0tFRjBnMGpRQVRqWTdlVllxRnRRSWFKSGpMTDZzRVdLOW9tWXdqUXlpRnM4cE5uVGtWSzVxdUNDUnhlcFRTTDRWeEo1dEI5Q3JiVHhKb1NBZGFwMTdSSllGUkpQTXNIMmxWSWRMYXlKS1Z3?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T01:42:21+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 71.0,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "6b05041b1bcad48c",
-      "title": "User Insight、サイト全体の分析から改善提案までを自動化する「AI改善エージェント」を提供開始 - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mU2RuODA4RnNCN0dfZ3FfdzNaU1lrdE5LX3NiQWdRcENObDRxUW1zQTFiU2xZeVk4Y054d2dacEpwU0N0UzdvTWFzSzNSQnFEX3VxVjdFVkotNVFPYmVVUGp6R2s1LUE0RmFhVnIycUZjdw?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T01:45:57+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 71.0,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "e4b86d7692cdd30e",
-      "title": "中国AIは、どのように賢くなったのか。MoE、リニアアテンション、強化学習……Kimi K3の中身を紐解く - レバテックLAB",
-      "url": "https://levtech.jp/media/detail_975/",
-      "url_resolved": true,
-      "published_at": "2026-11-19T01:38:45+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 71.1,
-      "region": "japan",
-      "sources": [
-        "はてブ - AIエージェント"
+        "Google News (EN) - loop engineering"
       ],
       "already_posted": false
     },
@@ -3275,7 +2202,7 @@
       "url_resolved": false,
       "published_at": "2026-11-19T01:30:00+00:00",
       "published_at_confirmed": true,
-      "age_hours": 71.2,
+      "age_hours": 95.7,
       "region": "overseas",
       "sources": [
         "Google News (EN) - loop engineering"
@@ -3283,154 +2210,13 @@
       "already_posted": false
     },
     {
-      "id": "9f43026c8f949c8d",
-      "title": "孫正義氏が「墓石に刻んでほしい」と明かした言葉　流した涙、もう「時間との勝負」やり残したことは？",
-      "url": "https://www.itmedia.co.jp/business/articles/2611/19/news036.html",
-      "url_resolved": true,
-      "published_at": "2026-11-19T01:34:11+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 71.2,
-      "region": "japan",
-      "sources": [
-        "はてブ - AIエージェント"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "677d0b7fb0da3d63",
-      "title": "AIでスクラムは不要になる？──ベロシティ消失からチームの存在意義まで【LayerX × ユーザベース】 - Agile Journey",
-      "url": "https://agilejourney.uzabase.com/entry/2026/11/19/103000",
-      "url_resolved": true,
-      "published_at": "2026-11-19T01:33:43+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 71.2,
-      "region": "japan",
-      "sources": [
-        "はてブ - AIエージェント",
-        "はてブ - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "c957a6c196f81ca4",
-      "title": "コマツ油機開発のナレッジ基盤に生成AI／ロックウェルの次世代製造業向けAI戦略 - MONOist",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Ydk5qdjVKOE9pcFZkTy1Lckl3NmFLaW1ZaFVPa3RJbEllYTFEUWFJNXgtdFZVYndXNjlXQ0Q0eklCZ0R0YkJ2S1RsQWhvTm5UTzRLOHRWa3p4SHpQckFWNkpCbEVtcmJ1NTh2RXpNbw?oc=5",
+      "id": "07000fdcde685412",
+      "title": "OpenAI's new Agent Sandbox Cloud｜AI Engineer - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NTlhlWjhXT0pPZVkwRmsyaHhkR21KUDlHNTZadXp2VVJzamExUGhJQVd3LWZDNmdCOEI0TGRHbTJ2T1Z0U3pvZ0J5dXVLcUtaeVl2clhUUmlPZEZjOEVJ?oc=5",
       "url_resolved": false,
-      "published_at": "2026-11-19T01:30:00+00:00",
+      "published_at": "2026-11-18T22:10:13+00:00",
       "published_at_confirmed": true,
-      "age_hours": 71.2,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "4024ba2e28312c7a",
-      "title": "ASPIC AI・クラウドアワード2026COOOLa WESがASPIC会長特別賞を受賞B-LuckがAI環境貢献賞と環境貢献賞を受賞 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWZlJ5Rk85Qmw5Y2FYX3lrRF9KOXVPcTRyWm4ya0NfMXM3UkRvR2JON0JhVGNHaC1hLVhLQ0N4VnVwTVlqTzBaMG5NZk1LeWIzcHFvSHE4TmlNYlZZX2NtakwwNWJmTG5lUmc?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T01:10:27+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 71.6,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "bc9420b0374941da",
-      "title": "AIエージェントはベンダーにとって新規顧客を獲得する決め手になり得るか - ZDNET Japan",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGSnZnS3JrNWEzX3Y0cV9ZSmZPaF9YVFNvQ01ia013THp0RldDdURCY2pwS1pyVU41OXZ3OExuNjZaaFNJV3I3NlB6bkdiRW03elh3?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T01:00:00+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 71.7,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "495521806ab7f3f1",
-      "title": "キャパ、福岡開催「設計・製造ソリューション展」に出展。生成AI×CADで設計業務を効率化する「自動作図AI」「図面トレースAI」を展示 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kN1lVTDM1cmtJekNlcTNrbTFOS2JRczYyN2c3MXYtVGNvSjFFbHZMd2w4dVRyS003UlJmc2NyaUtfZm5qT1VLeEhYa3pZYzBjY3l4VnJjTHZaNFlLQ0pfOHpXZDMwU0E2Umc?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-19T01:00:02+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 71.7,
-      "region": "japan",
-      "sources": [
-        "Google News (JA) - AI 自動化"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "88b48a7e8a46de6b",
-      "title": "Citi Puts AI-Agent Hack Losses on Customers; 5 Banks, $9.6T - FourWeekMBA",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUkg3X0hiaU5TTjNseTNZa2tpeHRYbmxiNGEwRlh5enNSUjhHRFlNZjhCeFhFN2ZSMFFJN0YwaHpOUjVibDRWSjlDcXJZOU92aHVvcmszLVNCQnV4V3ZuNm1JSlU0dnd0cHNqZmxjSUxzNW41amRibTdxckV0WGVhdG1vM1VJRGNFdFZGNA?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-18T20:55:55+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 75.8,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - loop engineering"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "dad7462789c9f4dd",
-      "title": "Google Stitch Loop Agent Ships 3 Loops and 180+ Integrations - FourWeekMBA",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVVRDUUtKc2tNUG9tbEprMVlBT1F4Y0QzTjUtT0NKU3VrQU5tMWFHbFNhbm04UkpZXzBuTERHWWdtOV83YmpOTXdtNFVYYk9RZWVHY0c3aUFsaENGcEhPVjQxM3NicU95dEc2bHZ0UnRfQkJ6eWJQclBONmo1NGJiSXRraFdZeGRCemI5SmExUS0?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-18T18:11:35+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 78.6,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - loop engineering"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "c371aae64f6a82c2",
-      "title": "Bitdefender: 22 GitHub Traps Tell AI Agents to Run Malware - FourWeekMBA",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQjZwYktBNzRvTlIyVFlKVVVyOXZCZzRXQ3dxT29WZ0w2d2VGWjh2QTdxV3FiU2RsN0FySU5LZm1uWWRpTFNVNTRwSGgwYm1oWkFUdWVyR0ZRTTZYY0ZnRzN2d1NhUGFGQ2RsVlQtcE5qUU05VHp5MlNkRG16aGpXT1JNS01TT2xmcmJ5ZjdR?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-18T16:01:35+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 80.7,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - loop engineering"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "5d7e3d527053c85d",
-      "title": "The Sequence Learning Loop - Issue #974: Last Week in AI: The Systems Behind Fable, AlphaGenome, and ChatGPT Wallet - TheSequence | Jesus Rodriguez",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOYTFfbHRuc2NZVWg2RGVhc3ZPUE9TUEtDM1dkVE15UWJhRnFoSE81c185ekRLd3lsbFFoY3JJV1J1ZDhhczBUUDAxVTlsS1BJbDA3MUVyTmJPZU8xczd3UVhhSkhaYXlSU2ZhU0hNSVQ4di1ZSm1UalNvOA?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-18T12:03:44+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 84.7,
-      "region": "overseas",
-      "sources": [
-        "Google News (EN) - loop engineering"
-      ],
-      "already_posted": false
-    },
-    {
-      "id": "98795f54f5e18823",
-      "title": "Singapore to Test AI Agents That Pay Out on Contract Terms - FourWeekMBA",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbUliX0NzQjNrdUgxVDlGMlVFNDJVUWVsbVNPTktmVkRPcV9fZTg5UHF3TnV6TDRSZlhaWjhJSjJFT2RHU2pjNjZ5TUE3Y2U0a0RWMzdBSWhZMlFmWHdPTTRhVV9tNE5UMUo5LUlCM3R2aDRiLXctREsybHFlNmkycmgzQVdlSXlfS0FrTU1NSQ?oc=5",
-      "url_resolved": false,
-      "published_at": "2026-11-18T09:46:35+00:00",
-      "published_at_confirmed": true,
-      "age_hours": 87.0,
+      "age_hours": 99.0,
       "region": "overseas",
       "sources": [
         "Google News (EN) - loop engineering"
@@ -3444,7 +2230,7 @@
       "url_resolved": false,
       "published_at": "2026-11-18T06:35:35+00:00",
       "published_at_confirmed": true,
-      "age_hours": 90.2,
+      "age_hours": 114.6,
       "region": "overseas",
       "sources": [
         "Google News (EN) - loop engineering"
@@ -3458,10 +2244,38 @@
       "url_resolved": true,
       "published_at": "2026-11-18T06:34:10+00:00",
       "published_at_confirmed": true,
-      "age_hours": 90.2,
+      "age_hours": 114.6,
       "region": "japan",
       "sources": [
         "はてブ - ループエンジニアリング"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "82513c1505510667",
+      "title": "Scaling Agents on Kubernetes with acpx and ACP — Onur Solmaz, OpenClaw｜AI Engineer - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51ckNWc2VpVnVfbE9oVTJZc3BQNWtyTVBSYjNZeHVzaTJ5MWM1T1gyYkI2Ry1wa0FtLTNTSDE1d3EtSUNiN01acm5ZdUxwYnpXZEdQbjY0NWhzLWhnZEJn?oc=5",
+      "url_resolved": false,
+      "published_at": "2026-11-18T05:46:55+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 115.4,
+      "region": "overseas",
+      "sources": [
+        "Google News (EN) - loop engineering"
+      ],
+      "already_posted": false
+    },
+    {
+      "id": "cf99e0ed3aeba978",
+      "title": "Detectify launches Agentic Tooling to verify vulnerabilities in live applications - Help Net Security",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JOHlhVlQ4bkE3aU1mczhhaU90amxFQV9CeEREcExfVVJqaGl2eFAxc0xfZFF0MzlYaURUV2cwamtOeU4xYlNrMWRqeDhrS2VhaUtlOENjOWtWanowZjFsOU9PdTlJY1lEN2xPVjVyN3I5MHpKQ2taVg?oc=5",
+      "url_resolved": false,
+      "published_at": "2026-11-17T14:13:55+00:00",
+      "published_at_confirmed": true,
+      "age_hours": 131.0,
+      "region": "overseas",
+      "sources": [
+        "Google News (EN) - loop engineering"
       ],
       "already_posted": false
     },
@@ -3472,7 +2286,7 @@
       "url_resolved": false,
       "published_at": "2026-11-17T11:26:49+00:00",
       "published_at_confirmed": true,
-      "age_hours": 109.3,
+      "age_hours": 133.7,
       "region": "overseas",
       "sources": [
         "Google News (EN) - loop engineering"
@@ -3486,7 +2300,7 @@
       "url_resolved": false,
       "published_at": "2026-11-16T08:00:00+00:00",
       "published_at_confirmed": true,
-      "age_hours": 136.7,
+      "age_hours": 161.2,
       "region": "overseas",
       "sources": [
         "Google News (EN) - loop engineering"
@@ -3498,7 +2312,7 @@
       "title": "All Code Is Slop (Except Mine) — Lauren Tan, SpaceXSI｜AI Engineer - BigGo Finance",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96U3hmRlR4SkQxdThESWUxR0tzVFFjcjBZOUxGd05pMU1TVS1Rb25fek5IWGpxYmZXeWdKSjFkbnhHeGpqbEZoeWV1QlVDeFRxdGNPLTdEYS1TWVEyYmVr?oc=5",
       "url_resolved": false,
-      "published_at": "2026-11-15T02:25:34+00:00",
+      "published_at": "2026-11-16T02:53:59+00:00",
       "published_at_confirmed": true,
       "age_hours": 166.3,
       "region": "overseas",
@@ -3509,6 +2323,11 @@
     }
   ],
   "fetch_errors": [
+    {
+      "source": "Hacker News - AI agent",
+      "url": "https://hnrss.org/newest?q=AI+agent&points=30",
+      "error": "<unknown>:7:2: mismatched tag"
+    },
     {
       "source": "Reddit - AI_Agents/automation/ClaudeAI top",
       "url": "https://www.reddit.com/r/AI_Agents+automation+ClaudeAI/top/.rss?sort=top&t=day",
